@@ -1,0 +1,106 @@
+{{page-title "Create Device"}}
+<hr />
+<div class="">
+  <form class="formke" {{on "submit" this.createDevice}}>
+    <dl>
+      <div class="my-1">
+        <dt>Device name:</dt>
+        <dd>
+          <Input
+            @value={{this.newDevice}}
+            required="true"
+            placeholder="Digitakt"
+          />
+        </dd>
+      </div>
+      <div class="my-1">
+        <dt>Brand:</dt>
+        <dd>
+          <Input
+            @value={{this.newBrand}}
+            required="true"
+            placeholder="Electron"
+          />
+        </dd>
+      </div>
+      <div class="my-1">
+        <dt>MIDI/AUDIO:</dt>
+        <dd>
+          <select
+            onchange={{action "setChannelType" value="target.value"}}
+            required="true"
+          >
+            <option disabled selected> -- MIDI or AUDIO channels -- </option>
+            <option value="MIDI">MIDI</option>
+            <option value="AUDIO">AUDIO</option>
+          </select>
+        </dd>
+      </div>
+      <div class="my-1">
+        <dt>Number of Channels
+          <span>(for MIDI the standard is 16 unless specified differently)</span></dt>
+        <dd>
+          <Input
+            required="true"
+            @value={{this.channelCount}}
+            placeholder="number of channels"
+          />
+        </dd>
+      </div>
+      <div class="my-1">
+        <dt>Device Type:</dt>
+        <dd style="margin-top: 7px;">
+          {{#power-select
+            options=this.listOfTypes
+            placeholder="Please select a Type"
+            selected=this.selectedType
+            searchField='true'
+            onChange=(action "setType")
+            as |devicetype|
+          }}
+            {{devicetype.type}}
+          {{/power-select}}
+        </dd>
+        <dt style="margin: 7px">Device type not in list click here to create one</dt>
+        <dd>
+          <a href="/devicetypes/">Create device type</a>
+        </dd>
+      </div>
+    </dl>
+    <button type="submit">Create</button>
+  </form>
+
+  <div>
+    {{#each @model.devicetypes as |Devicetypes|}}
+      <p style="" text-color: white;>{{Devicetypes}}</p>
+    {{/each}}
+  </div>
+  <table class="devlist">
+    <tr>
+      <th>Model</th>
+      <th>Brand</th>
+      <th>type</th>
+      <th>channel types</th>
+      <th>channels</th>
+      <th>actions</th>
+    </tr>
+    {{#each @model as |device|}}
+      <tr>
+        <td>{{device.model}}</td>
+        <td>{{device.brand}}</td>
+        <td>{{device.type.type}}</td>
+        <td>{{device.channeltype}}</td>
+        <td>{{device.channels}}</td>
+        <td>
+          <button
+            type="button"
+            {{on "click" (fn this.removeDevice device)}}
+          >Remove</button>
+        </td>
+      </tr>
+    {{/each}}
+  </table>
+
+</div>
+
+{{outlet}}

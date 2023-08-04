@@ -1,0 +1,35 @@
+{{page-title "Devicetypes"}}
+    <hr />
+<div class="devices">
+<form class="formke" {{on "submit" this.createType}}>
+  <dl>
+    <div class="my-1">
+      <dt>Device name:</dt>
+      <dd>
+        <Input @value={{this.newType}} placeholder="Give the type of device" />
+      </dd>
+    </div>
+  </dl>
+  <button type="submit">Create</button>
+</form>
+<div>
+<table class="devlist">
+  <tr>
+  <th>type</th>
+  <th>action</th>
+  </tr>
+  {{#each @model as |Devicetypes|}}
+    <tr>
+      <td>{{Devicetypes.type}}</td> 
+    <td>
+    <button
+      type="button"
+      {{on "click" (fn this.removeType Devicetypes)}}
+    >Remove</button>
+    </td>
+    </tr>
+  {{/each}}
+</table>
+</div>
+</div>
+{{outlet}}

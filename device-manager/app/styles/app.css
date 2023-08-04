@@ -1,0 +1,71 @@
+/* Ember supports plain CSS out of the box. More info: https://cli.emberjs.com/release/advanced-use/stylesheets/ */
+.my-1 {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.my-2 {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.my-1 {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+
+body {
+  background-color: #141919;
+}
+
+dt {
+  color: #ffff;
+}
+
+a {
+  color: #ffff;
+}
+
+.formke {
+  float: left;
+}
+
+.devlist {
+  float: right;
+  width: 60%;
+  max-width: 60%;
+  height: auto;
+  margin-left: 8rem;
+  color: aquamarine;
+  border-bottom: #b5f1cc;
+}
+
+th,
+td {
+  text-align: left;
+}
+
+#title {
+  color: #f4fc7b;
+}
+
+.navigation {
+  display: flex;
+  flex-direction: column;
+}
+
+.navigation a {
+  color: #ffff;
+  flex-direction: column;
+}
+
+.navbar {
+  float: right;
+  overflow: hidden;
+  margin-right: 8rem;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+}

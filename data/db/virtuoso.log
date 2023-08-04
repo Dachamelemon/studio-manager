@@ -1,0 +1,2046 @@
+
+		Mon Jul 17 2023
+13:15:33 OpenLink Virtuoso Universal Server
+13:15:33 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+13:15:33 uses OpenSSL 1.0.2n  7 Dec 2017
+13:15:33 uses parts of PCRE, Html Tidy
+13:15:33 SQL Optimizer enabled (max 1000 layouts)
+13:15:33 Compiler unit is timed at 0.000181 msec
+13:15:34 Checkpoint started
+13:15:34 Roll forward started
+13:15:34 Roll forward complete
+13:15:34 Checkpoint started
+13:15:34 Checkpoint finished, log reused
+13:15:34 Checkpoint started
+13:15:34 Checkpoint finished, log reused
+13:15:34 Checkpoint started
+13:15:34 Checkpoint finished, log reused
+13:15:34 Checkpoint started
+13:15:34 Checkpoint finished, log reused
+13:15:34 Checkpoint started
+13:15:34 Checkpoint finished, log reused
+13:15:35 PL LOG: Installing Virtuoso Conductor version 1.00.8823 (DAV)
+13:15:35 PL LOG: Installing with dependencies Virtuoso Conductor version 1.00.8823/2021-11-24 14:19 (DAV)
+13:15:35 Checkpoint started
+13:15:35 Checkpoint finished, log reused
+13:15:37 Checkpoint started
+13:15:37 Checkpoint finished, log reused
+13:15:37 PL LOG: Installation with dependencies complete
+13:15:37 Checkpoint started
+13:15:37 Checkpoint finished, log reused
+13:15:37 HTTP/WebDAV server online at 27015
+13:15:37 Server online at 1111 (pid 19)
+13:15:37 Server received signal 15
+13:15:37 Initiating quick shutdown
+13:15:37 Server shutdown complete
+
+		Mon Jul 17 2023
+13:15:37 OpenLink Virtuoso Universal Server
+13:15:37 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+13:15:37 uses OpenSSL 1.0.2n  7 Dec 2017
+13:15:37 uses parts of PCRE, Html Tidy
+13:15:37 Database version 3126
+13:15:37 SQL Optimizer enabled (max 1000 layouts)
+13:15:39 Compiler unit is timed at 0.000077 msec
+13:15:39 Roll forward started
+13:15:39 Roll forward complete
+13:15:39 Checkpoint started
+13:15:39 Checkpoint finished, log reused
+13:15:39 HTTP/WebDAV server online at 8890
+13:15:39 Server online at 1111 (pid 1)
+13:16:08 Server received signal 15
+13:16:08 Initiating quick shutdown
+13:16:08 Server shutdown complete
+
+		Tue Jul 18 2023
+11:09:35 OpenLink Virtuoso Universal Server
+11:09:35 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+11:09:35 uses OpenSSL 1.0.2n  7 Dec 2017
+11:09:35 uses parts of PCRE, Html Tidy
+11:09:35 Database version 3126
+11:09:35 SQL Optimizer enabled (max 1000 layouts)
+11:09:36 Compiler unit is timed at 0.000086 msec
+11:09:37 Roll forward started
+11:09:37 Roll forward complete
+11:09:37 Checkpoint started
+11:09:37 Checkpoint finished, log reused
+11:09:37 HTTP/WebDAV server online at 8890
+11:09:37 Server online at 1111 (pid 1)
+
+		Tue Jul 18 2023
+12:29:03 OpenLink Virtuoso Universal Server
+12:29:03 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+12:29:03 uses OpenSSL 1.0.2n  7 Dec 2017
+12:29:03 uses parts of PCRE, Html Tidy
+12:29:03 Database version 3126
+12:29:03 SQL Optimizer enabled (max 1000 layouts)
+12:29:04 Compiler unit is timed at 0.000087 msec
+12:29:04 Roll forward started
+12:29:04 Roll forward complete
+12:29:05 Checkpoint started
+12:29:05 Checkpoint finished, log reused
+12:29:05 HTTP/WebDAV server online at 8890
+12:29:05 Server online at 1111 (pid 1)
+
+		Tue Jul 18 2023
+12:31:07 OpenLink Virtuoso Universal Server
+12:31:07 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+12:31:07 uses OpenSSL 1.0.2n  7 Dec 2017
+12:31:07 uses parts of PCRE, Html Tidy
+12:31:07 Database version 3126
+12:31:07 SQL Optimizer enabled (max 1000 layouts)
+12:31:08 Compiler unit is timed at 0.000087 msec
+12:31:08 Roll forward started
+12:31:08 Roll forward complete
+12:31:08 Checkpoint started
+12:31:08 Checkpoint finished, log reused
+12:31:10 HTTP/WebDAV server online at 8890
+12:31:10 Server online at 1111 (pid 1)
+
+		Tue Jul 18 2023
+12:33:35 OpenLink Virtuoso Universal Server
+12:33:35 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+12:33:35 uses OpenSSL 1.0.2n  7 Dec 2017
+12:33:35 uses parts of PCRE, Html Tidy
+12:33:35 Database version 3126
+12:33:35 SQL Optimizer enabled (max 1000 layouts)
+12:33:36 Compiler unit is timed at 0.000087 msec
+12:33:37 Roll forward started
+12:33:37 Roll forward complete
+12:33:37 Checkpoint started
+12:33:37 Checkpoint finished, log reused
+12:33:37 HTTP/WebDAV server online at 8890
+12:33:37 Server online at 1111 (pid 1)
+12:43:38 ERRS_0 01V01 QW004 Incompatible types VARCHAR (182) and INTEGER (189) in COALESCE for coalesce_ret and <constant>
+12:43:38 ERRS_0 01V01 QW004 Incompatible types VARCHAR (182) and INTEGER (189) in := for coalesce_ret and <constant>
+12:43:38 ERRS_0 01V01 QW004 Incompatible types VARCHAR (182) and INTEGER (189) in COALESCE for coalesce_ret and <constant>
+12:43:38 ERRS_0 01V01 QW004 Incompatible types VARCHAR (182) and INTEGER (189) in := for coalesce_ret and <constant>
+
+		Tue Jul 18 2023
+12:44:33 OpenLink Virtuoso Universal Server
+12:44:33 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+12:44:33 uses OpenSSL 1.0.2n  7 Dec 2017
+12:44:33 uses parts of PCRE, Html Tidy
+12:44:33 Database version 3126
+12:44:33 SQL Optimizer enabled (max 1000 layouts)
+12:44:34 Compiler unit is timed at 0.000087 msec
+12:44:34 Roll forward started
+12:44:34 Roll forward complete
+12:44:35 Checkpoint started
+12:44:35 Checkpoint finished, log reused
+12:44:35 HTTP/WebDAV server online at 8890
+12:44:35 Server online at 1111 (pid 1)
+
+		Tue Jul 18 2023
+12:46:28 OpenLink Virtuoso Universal Server
+12:46:28 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+12:46:28 uses OpenSSL 1.0.2n  7 Dec 2017
+12:46:28 uses parts of PCRE, Html Tidy
+12:46:28 Database version 3126
+12:46:28 SQL Optimizer enabled (max 1000 layouts)
+12:46:29 Compiler unit is timed at 0.000094 msec
+12:46:29 Roll forward started
+12:46:30 Roll forward complete
+12:46:30 Checkpoint started
+12:46:30 Checkpoint finished, log reused
+12:46:30 HTTP/WebDAV server online at 8890
+12:46:30 Server online at 1111 (pid 1)
+
+		Tue Jul 18 2023
+12:47:14 OpenLink Virtuoso Universal Server
+12:47:14 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+12:47:14 uses OpenSSL 1.0.2n  7 Dec 2017
+12:47:14 uses parts of PCRE, Html Tidy
+12:47:14 Database version 3126
+12:47:14 SQL Optimizer enabled (max 1000 layouts)
+12:47:15 Compiler unit is timed at 0.000090 msec
+12:47:15 Roll forward started
+12:47:15 Roll forward complete
+12:47:16 Checkpoint started
+12:47:16 Checkpoint finished, log reused
+12:47:16 HTTP/WebDAV server online at 8890
+12:47:16 Server online at 1111 (pid 1)
+13:37:11 ERRS_0 42000 UD021 No user defined class DB.DBA.page_f97a0fe94cf12fd45d8652041b3640e3V_VAD_conductor_main__tabs_vspx
+13:37:11 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+13:37:11 ERRS_0 42000 UD021 No user defined class DB.DBA.page_23a9644beceec46b97fd1b95fe9fad7ductor_adm__navigation__bar_vspx
+13:37:11 ERRS_0 01V01 QW008 Invalid = comparison operation argument control type INSTANCE (254)
+13:37:11 ERRS_0 01V01 QW008 Invalid = comparison operation argument control type INSTANCE (254)
+13:37:11 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+13:37:11 ERRS_0 01V01 QW001 Local declaration of inx shadows a definition of the same name
+13:37:29 ERRS_0 42000 UD021 No user defined class DB.DBA.page__DAV_VAD_conductor_isql_vspx
+13:37:29 ERRS_0 01V01 QW004 Incompatible types INTEGER (189) and VARCHAR (182) in = for <constant> and gen_table_sel
+13:37:29 ERRS_0 01V01 QW004 Incompatible types INTEGER (189) and VARCHAR (182) in = for <constant> and load_sql
+13:37:29 ERRS_0 01V01 QW008 Invalid = comparison operation argument ve_button type INSTANCE (254)
+13:37:29 ERRS_0 01V01 QW008 Invalid = comparison operation argument control type INSTANCE (254)
+13:37:29 ERRS_0 01V01 QW008 Invalid = comparison operation argument ve_initiator type INSTANCE (254)
+13:37:29 ERRS_0 01V01 QW008 Invalid = comparison operation argument src_type type INSTANCE (254)
+13:37:29 ERRS_0 01V01 QW008 Invalid = comparison operation argument ve_button type INSTANCE (254)
+13:37:29 ERRS_0 01V01 QW008 Invalid = comparison operation argument control type INSTANCE (254)
+13:37:29 ERRS_0 01V01 QW008 Invalid = comparison operation argument ve_initiator type INSTANCE (254)
+13:37:29 ERRS_0 01V01 QW008 Invalid = comparison operation argument src_utype type INSTANCE (254)
+13:37:29 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+
+		Wed Jul 19 2023
+15:14:20 Checkpoint started
+15:14:20 Checkpoint finished, log reused
+
+		Fri Jul 21 2023
+00:16:46 Checkpoint started
+00:16:46 Checkpoint finished, log reused
+
+		Mon Jul 31 2023
+08:14:30 OpenLink Virtuoso Universal Server
+08:14:30 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+08:14:30 uses OpenSSL 1.0.2n  7 Dec 2017
+08:14:30 uses parts of PCRE, Html Tidy
+08:14:30 Database version 3126
+08:14:30 SQL Optimizer enabled (max 1000 layouts)
+08:14:31 Compiler unit is timed at 0.000088 msec
+08:14:32 Roll forward started
+08:14:32 Roll forward complete
+08:14:32 Checkpoint started
+08:14:32 Checkpoint finished, log reused
+08:14:34 HTTP/WebDAV server online at 8890
+08:14:34 Server online at 1111 (pid 1)
+
+		Mon Jul 31 2023
+08:22:12 OpenLink Virtuoso Universal Server
+08:22:12 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+08:22:12 uses OpenSSL 1.0.2n  7 Dec 2017
+08:22:12 uses parts of PCRE, Html Tidy
+08:22:12 Database version 3126
+08:22:12 SQL Optimizer enabled (max 1000 layouts)
+08:22:13 Compiler unit is timed at 0.000087 msec
+08:22:13 Roll forward started
+08:22:13 Roll forward complete
+08:22:14 Checkpoint started
+08:22:14 Checkpoint finished, log reused
+08:22:14 HTTP/WebDAV server online at 8890
+08:22:14 Server online at 1111 (pid 1)
+09:22:15 Checkpoint started
+09:22:15 Checkpoint finished, log reused
+10:22:15 Checkpoint started
+10:22:15 Checkpoint finished, log reused
+10:32:28 Server received signal 15
+10:32:28 Initiating quick shutdown
+10:32:28 Server shutdown complete
+
+		Mon Jul 31 2023
+10:39:29 OpenLink Virtuoso Universal Server
+10:39:29 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+10:39:29 uses OpenSSL 1.0.2n  7 Dec 2017
+10:39:29 uses parts of PCRE, Html Tidy
+10:39:29 Database version 3126
+10:39:29 SQL Optimizer enabled (max 1000 layouts)
+10:39:30 Compiler unit is timed at 0.000092 msec
+10:39:31 Roll forward started
+10:39:31 Roll forward complete
+10:39:31 Checkpoint started
+10:39:31 Checkpoint finished, log reused
+10:39:31 HTTP/WebDAV server online at 8890
+10:39:31 Server online at 1111 (pid 1)
+
+		Mon Jul 31 2023
+10:41:50 OpenLink Virtuoso Universal Server
+10:41:50 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+10:41:50 uses OpenSSL 1.0.2n  7 Dec 2017
+10:41:50 uses parts of PCRE, Html Tidy
+10:41:50 Database version 3126
+10:41:50 SQL Optimizer enabled (max 1000 layouts)
+10:41:51 Compiler unit is timed at 0.000094 msec
+10:41:52 Roll forward started
+10:41:52 Roll forward complete
+10:41:52 Checkpoint started
+10:41:52 Checkpoint finished, log reused
+10:41:54 HTTP/WebDAV server online at 8890
+10:41:54 Server online at 1111 (pid 1)
+10:54:12 Server received signal 15
+10:54:12 Initiating quick shutdown
+10:54:12 Server shutdown complete
+
+		Mon Jul 31 2023
+10:56:42 OpenLink Virtuoso Universal Server
+10:56:42 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+10:56:42 uses OpenSSL 1.0.2n  7 Dec 2017
+10:56:42 uses parts of PCRE, Html Tidy
+10:56:42 Database version 3126
+10:56:42 SQL Optimizer enabled (max 1000 layouts)
+10:56:43 Compiler unit is timed at 0.000087 msec
+10:56:44 Roll forward started
+10:56:44 Roll forward complete
+10:56:44 Checkpoint started
+10:56:44 Checkpoint finished, log reused
+10:56:46 HTTP/WebDAV server online at 8890
+10:56:46 Server online at 1111 (pid 1)
+
+		Mon Jul 31 2023
+11:12:29 OpenLink Virtuoso Universal Server
+11:12:29 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+11:12:29 uses OpenSSL 1.0.2n  7 Dec 2017
+11:12:29 uses parts of PCRE, Html Tidy
+11:12:29 Database version 3126
+11:12:29 SQL Optimizer enabled (max 1000 layouts)
+11:12:30 Compiler unit is timed at 0.000094 msec
+11:12:30 Roll forward started
+11:12:30 Roll forward complete
+11:12:31 Checkpoint started
+11:12:31 Checkpoint finished, log reused
+11:12:33 HTTP/WebDAV server online at 8890
+11:12:33 Server online at 1111 (pid 1)
+
+		Mon Jul 31 2023
+11:26:35 OpenLink Virtuoso Universal Server
+11:26:35 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+11:26:35 uses OpenSSL 1.0.2n  7 Dec 2017
+11:26:35 uses parts of PCRE, Html Tidy
+11:26:35 Database version 3126
+11:26:35 SQL Optimizer enabled (max 1000 layouts)
+11:26:36 Compiler unit is timed at 0.000086 msec
+11:26:36 Roll forward started
+11:26:36 Roll forward complete
+11:26:37 Checkpoint started
+11:26:37 Checkpoint finished, log reused
+11:26:37 HTTP/WebDAV server online at 8890
+11:26:37 Server online at 1111 (pid 1)
+
+		Mon Jul 31 2023
+11:27:21 OpenLink Virtuoso Universal Server
+11:27:21 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+11:27:21 uses OpenSSL 1.0.2n  7 Dec 2017
+11:27:21 uses parts of PCRE, Html Tidy
+11:27:21 Database version 3126
+11:27:21 SQL Optimizer enabled (max 1000 layouts)
+11:27:22 Compiler unit is timed at 0.000087 msec
+11:27:22 Roll forward started
+11:27:22 Roll forward complete
+11:27:22 Checkpoint started
+11:27:22 Checkpoint finished, log reused
+11:27:22 HTTP/WebDAV server online at 8890
+11:27:22 Server online at 1111 (pid 1)
+
+		Mon Jul 31 2023
+11:28:56 OpenLink Virtuoso Universal Server
+11:28:56 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+11:28:56 uses OpenSSL 1.0.2n  7 Dec 2017
+11:28:56 uses parts of PCRE, Html Tidy
+11:28:56 Database version 3126
+11:28:56 SQL Optimizer enabled (max 1000 layouts)
+11:28:57 Compiler unit is timed at 0.000089 msec
+11:28:57 Roll forward started
+11:28:57 Roll forward complete
+11:28:58 Checkpoint started
+11:28:58 Checkpoint finished, log reused
+11:28:58 HTTP/WebDAV server online at 8890
+11:28:58 Server online at 1111 (pid 1)
+
+		Mon Jul 31 2023
+11:33:17 OpenLink Virtuoso Universal Server
+11:33:17 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+11:33:17 uses OpenSSL 1.0.2n  7 Dec 2017
+11:33:17 uses parts of PCRE, Html Tidy
+11:33:17 Database version 3126
+11:33:17 SQL Optimizer enabled (max 1000 layouts)
+11:33:18 Compiler unit is timed at 0.000087 msec
+11:33:18 Roll forward started
+11:33:18 Roll forward complete
+11:33:18 Checkpoint started
+11:33:18 Checkpoint finished, log reused
+11:33:20 HTTP/WebDAV server online at 8890
+11:33:20 Server online at 1111 (pid 1)
+
+		Mon Jul 31 2023
+12:18:45 OpenLink Virtuoso Universal Server
+12:18:45 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+12:18:45 uses OpenSSL 1.0.2n  7 Dec 2017
+12:18:45 uses parts of PCRE, Html Tidy
+12:18:45 Database version 3126
+12:18:45 SQL Optimizer enabled (max 1000 layouts)
+12:18:46 Compiler unit is timed at 0.000087 msec
+12:18:46 Roll forward started
+12:18:46 Roll forward complete
+12:18:46 Checkpoint started
+12:18:46 Checkpoint finished, log reused
+12:18:48 HTTP/WebDAV server online at 8890
+12:18:48 Server online at 1111 (pid 1)
+
+		Mon Jul 31 2023
+12:21:53 OpenLink Virtuoso Universal Server
+12:21:53 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+12:21:53 uses OpenSSL 1.0.2n  7 Dec 2017
+12:21:53 uses parts of PCRE, Html Tidy
+12:21:53 Database version 3126
+12:21:53 SQL Optimizer enabled (max 1000 layouts)
+12:21:55 Compiler unit is timed at 0.000088 msec
+12:21:55 Roll forward started
+12:21:55 Roll forward complete
+12:21:55 Checkpoint started
+12:21:55 Checkpoint finished, log reused
+12:21:55 HTTP/WebDAV server online at 8890
+12:21:55 Server online at 1111 (pid 1)
+
+		Mon Jul 31 2023
+12:27:00 OpenLink Virtuoso Universal Server
+12:27:00 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+12:27:00 uses OpenSSL 1.0.2n  7 Dec 2017
+12:27:00 uses parts of PCRE, Html Tidy
+12:27:00 Database version 3126
+12:27:00 SQL Optimizer enabled (max 1000 layouts)
+12:27:01 Compiler unit is timed at 0.000089 msec
+12:27:01 Roll forward started
+12:27:01 Roll forward complete
+12:27:01 Checkpoint started
+12:27:01 Checkpoint finished, log reused
+12:27:03 HTTP/WebDAV server online at 8890
+12:27:03 Server online at 1111 (pid 1)
+12:27:36 ERRS_0 42000 UD021 No user defined class DB.DBA.page_f97a0fe94cf12fd45d8652041b3640e3V_VAD_conductor_main__tabs_vspx
+12:27:36 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+12:27:36 ERRS_0 42000 UD021 No user defined class DB.DBA.page_23a9644beceec46b97fd1b95fe9fad7ductor_adm__navigation__bar_vspx
+12:27:36 ERRS_0 01V01 QW008 Invalid = comparison operation argument control type INSTANCE (254)
+12:27:36 ERRS_0 01V01 QW008 Invalid = comparison operation argument control type INSTANCE (254)
+12:27:36 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+12:27:36 ERRS_0 01V01 QW001 Local declaration of inx shadows a definition of the same name
+12:28:03 ERRS_0 42000 UD021 No user defined class DB.DBA.page_595004fee1c5fde185154fc61d5aea2dAV_VAD_conductor_databases_vspx
+12:28:03 ERRS_0 01V01 QW002 The column KEY_TABLE in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW002 The column KEY_TABLE in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW002 The column KEY_TABLE in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW002 The column KEY_TABLE in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW002 The column KEY_TABLE in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW008 Invalid = comparison operation argument ve_button type INSTANCE (254)
+12:28:03 ERRS_0 01V01 QW004 Incompatible types INTEGER (189) and INSTANCE DB.DBA.vspx_control (254) in = for <constant> and ve_button
+12:28:03 ERRS_0 01V01 QW002 <unspec>:2198: vc_data_bind_ds_tables: The column KEY_TABLE in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW002 <unspec>:2198: vc_data_bind_ds_tables: The column KEY_TABLE in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW002 <unspec>:2198: vc_data_bind_ds_tables: The column KEY_TABLE in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW002 <unspec>:2198: vc_data_bind_ds_tables: The column KEY_TABLE in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW002 <unspec>:2198: vc_data_bind_ds_tables: The column KEY_TABLE in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW001 <unspec>:2198: vc_data_bind_ds_tables: Local declaration of inx shadows a definition of the same name
+12:28:03 ERRS_0 01V01 QW001 <unspec>:2198: vc_data_bind_ds_tables: Local declaration of control shadows a definition of the same name
+12:28:03 ERRS_0 01V01 QW002 The column V_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW002 The column V_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW002 The column V_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW002 The column V_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW002 The column V_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW008 Invalid = comparison operation argument ve_button type INSTANCE (254)
+12:28:03 ERRS_0 01V01 QW004 Incompatible types INTEGER (189) and INSTANCE DB.DBA.vspx_control (254) in = for <constant> and ve_button
+12:28:03 ERRS_0 01V01 QW002 <unspec>:2198: vc_data_bind_ds_views: The column V_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW002 <unspec>:2198: vc_data_bind_ds_views: The column V_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW002 <unspec>:2198: vc_data_bind_ds_views: The column V_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW002 <unspec>:2198: vc_data_bind_ds_views: The column V_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW002 <unspec>:2198: vc_data_bind_ds_views: The column V_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW001 <unspec>:2198: vc_data_bind_ds_views: Local declaration of inx shadows a definition of the same name
+12:28:03 ERRS_0 01V01 QW001 <unspec>:2198: vc_data_bind_ds_views: Local declaration of control shadows a definition of the same name
+12:28:03 ERRS_0 01V01 QW002 The column P_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW002 The column P_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW002 The column P_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW002 The column P_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW002 The column P_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW002 The column P_TYPE in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW002 The column P_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW008 Invalid = comparison operation argument ve_button type INSTANCE (254)
+12:28:03 ERRS_0 01V01 QW004 Incompatible types INTEGER (189) and INSTANCE DB.DBA.vspx_control (254) in = for <constant> and ve_button
+12:28:03 ERRS_0 01V01 QW002 <unspec>:2198: vc_data_bind_ds_procs: The column P_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW002 <unspec>:2198: vc_data_bind_ds_procs: The column P_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW002 <unspec>:2198: vc_data_bind_ds_procs: The column P_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW002 <unspec>:2198: vc_data_bind_ds_procs: The column P_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW002 <unspec>:2198: vc_data_bind_ds_procs: The column P_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW002 <unspec>:2198: vc_data_bind_ds_procs: The column P_TYPE in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW002 <unspec>:2198: vc_data_bind_ds_procs: The column P_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW001 <unspec>:2198: vc_data_bind_ds_procs: Local declaration of inx shadows a definition of the same name
+12:28:03 ERRS_0 01V01 QW001 <unspec>:2198: vc_data_bind_ds_procs: Local declaration of control shadows a definition of the same name
+12:28:03 ERRS_0 01V01 QW002 The column UT_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW002 The column UT_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW002 The column UT_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW002 The column UT_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW002 The column UT_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW002 The column UT_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW008 Invalid = comparison operation argument ve_button type INSTANCE (254)
+12:28:03 ERRS_0 01V01 QW004 Incompatible types INTEGER (189) and INSTANCE DB.DBA.vspx_control (254) in = for <constant> and ve_button
+12:28:03 ERRS_0 01V01 QW002 <unspec>:2198: vc_data_bind_ds_udt: The column UT_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW002 <unspec>:2198: vc_data_bind_ds_udt: The column UT_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW002 <unspec>:2198: vc_data_bind_ds_udt: The column UT_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW002 <unspec>:2198: vc_data_bind_ds_udt: The column UT_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW002 <unspec>:2198: vc_data_bind_ds_udt: The column UT_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW002 <unspec>:2198: vc_data_bind_ds_udt: The column UT_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW001 <unspec>:2198: vc_data_bind_ds_udt: Local declaration of inx shadows a definition of the same name
+12:28:03 ERRS_0 01V01 QW001 <unspec>:2198: vc_data_bind_ds_udt: Local declaration of control shadows a definition of the same name
+12:28:03 ERRS_0 01V01 QW002 The column KEY_TABLE in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW002 The column KEY_TABLE in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW002 The column KEY_TABLE in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW002 The column KEY_TABLE in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW002 The column KEY_TABLE in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW002 The column V_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW002 The column V_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW002 The column V_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW002 The column V_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW002 The column V_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW002 The column P_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW002 The column P_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW002 The column P_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW002 The column P_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW002 The column P_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW002 The column P_TYPE in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW002 The column P_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW002 The column UT_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW002 The column UT_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW002 The column UT_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW002 The column UT_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW002 The column UT_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW002 The column UT_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:03 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+12:28:03 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+12:28:03 ERRS_0 01V01 QW004 Incompatible types INSTANCE DB.DBA.vspx_data_set (254) and INSTANCE DB.DBA.vspx_control (254) in := for ds and control
+12:28:03 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+12:28:03 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+12:28:03 ERRS_0 01V01 QW004 Incompatible types INSTANCE DB.DBA.vspx_data_set (254) and INSTANCE DB.DBA.vspx_control (254) in := for ds and control
+12:28:03 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+12:28:03 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+12:28:03 ERRS_0 01V01 QW004 Incompatible types INSTANCE DB.DBA.vspx_data_set (254) and INSTANCE DB.DBA.vspx_control (254) in := for ds and control
+12:28:03 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+12:28:03 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+12:28:03 ERRS_0 01V01 QW004 Incompatible types INSTANCE DB.DBA.vspx_data_set (254) and INSTANCE DB.DBA.vspx_control (254) in := for ds and control
+12:28:03 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+12:28:03 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+12:28:03 ERRS_0 01V01 QW001 Local declaration of inx shadows a definition of the same name
+12:28:12 ERRS_0 42000 UD021 No user defined class DB.DBA.page_30544eca16c0d57bfe635b34c8439526VAD_conductor_hosted__page_vspx
+12:28:12 ERRS_0 01V01 QW001 Local declaration of mask shadows a definition of the same name
+12:28:12 ERRS_0 01V01 QW002 The column _type in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:12 ERRS_0 01V01 QW002 The column _class in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:12 ERRS_0 01V01 QW008 Invalid = comparison operation argument ve_button type INSTANCE (254)
+12:28:12 ERRS_0 01V01 QW004 Incompatible types INTEGER (189) and INSTANCE DB.DBA.vspx_control (254) in = for <constant> and ve_button
+12:28:12 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+12:28:12 ERRS_0 01V01 QW001 Local declaration of mask shadows a definition of the same name
+12:28:12 ERRS_0 01V01 QW002 The column _class in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:12 ERRS_0 01V01 QW008 Invalid = comparison operation argument ve_button type INSTANCE (254)
+12:28:12 ERRS_0 01V01 QW004 Incompatible types INTEGER (189) and INSTANCE DB.DBA.vspx_control (254) in = for <constant> and ve_button
+12:28:12 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+12:28:12 ERRS_0 01V01 QW001 Local declaration of params shadows a definition of the same name
+12:28:12 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+12:28:12 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+12:28:12 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+12:28:12 ERRS_0 01V01 QW002 <unspec>:7239: vc_render_template3: The column _class in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:12 ERRS_0 01V01 QW001 <unspec>:7239: vc_render_template3: Local declaration of _class shadows a definition of the same name
+12:28:12 ERRS_0 01V01 QW002 <unspec>:7278: vc_render_template3: The column _class in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:12 ERRS_0 01V01 QW002 <unspec>:7278: vc_render_template3: The column _class in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:12 ERRS_0 01V01 QW001 <unspec>:7278: vc_render_template3: Local declaration of _class shadows a definition of the same name
+12:28:16 ERRS_0 42000 UD021 No user defined class DB.DBA.page_d190a278c2554ff79e0f0863a59b6c21AD_conductor_sparql__input_vspx
+12:28:16 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+12:28:20 ERRS_0 42000 UD021 No user defined class DB.DBA.page_908e67c2cf7b187e80c845d09496bd09VAD_conductor_rdf__schemas_vspx
+12:28:20 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+12:28:25 ERRS_0 42000 UD021 No user defined class DB.DBA.page_2615299c8eedddb143fc27492b82ca5aonductor_persistent__xmlns_vspx
+12:28:25 ERRS_0 01V01 QW008 Invalid = comparison operation argument ve_button type INSTANCE (254)
+12:28:25 ERRS_0 01V01 QW004 Incompatible types INTEGER (189) and INSTANCE DB.DBA.vspx_control (254) in = for <constant> and ve_button
+12:28:25 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+12:28:25 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+12:28:25 ERRS_0 01V01 QW004 Incompatible types INSTANCE DB.DBA.vspx_data_set (254) and INSTANCE DB.DBA.vspx_control (254) in := for callretSearchedCASE and control.vc_find_parent
+12:28:25 ERRS_0 01V01 QW004 Incompatible types INSTANCE DB.DBA.vspx_data_set (254) and INSTANCE DB.DBA.vspx_control (254) in := for callretSearchedCASE and control.vc_find_parent
+12:28:25 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+12:28:25 ERRS_0 01V01 QW004 Incompatible types INSTANCE DB.DBA.vspx_data_set (254) and INSTANCE DB.DBA.vspx_control (254) in := for ds and control
+12:28:25 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+12:28:29 ERRS_0 42000 UD021 No user defined class DB.DBA.page_7a685e3b6695011d262fdce8a7ec539econductor_db__rdf__objects_vspx
+12:28:29 ERRS_0 01V01 QW002 The column KEY_TABLE in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:29 ERRS_0 01V01 QW002 The column KEY_TABLE in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:29 ERRS_0 01V01 QW002 The column KEY_TABLE in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:29 ERRS_0 01V01 QW002 The column KEY_TABLE in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:29 ERRS_0 01V01 QW008 Invalid = comparison operation argument ve_button type INSTANCE (254)
+12:28:29 ERRS_0 01V01 QW004 Incompatible types INTEGER (189) and INSTANCE DB.DBA.vspx_control (254) in = for <constant> and ve_button
+12:28:29 ERRS_0 01V01 QW002 <unspec>:2198: vc_data_bind_ds_tables: The column KEY_TABLE in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:29 ERRS_0 01V01 QW002 <unspec>:2198: vc_data_bind_ds_tables: The column KEY_TABLE in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:29 ERRS_0 01V01 QW002 <unspec>:2198: vc_data_bind_ds_tables: The column KEY_TABLE in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:29 ERRS_0 01V01 QW002 <unspec>:2198: vc_data_bind_ds_tables: The column KEY_TABLE in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:29 ERRS_0 01V01 QW001 <unspec>:2198: vc_data_bind_ds_tables: Local declaration of inx shadows a definition of the same name
+12:28:29 ERRS_0 01V01 QW001 <unspec>:2198: vc_data_bind_ds_tables: Local declaration of control shadows a definition of the same name
+12:28:29 ERRS_0 01V01 QW002 The column KEY_TABLE in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:29 ERRS_0 01V01 QW002 The column KEY_TABLE in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:29 ERRS_0 01V01 QW002 The column KEY_TABLE in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:29 ERRS_0 01V01 QW002 The column KEY_TABLE in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:28:29 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+12:28:29 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+12:28:29 ERRS_0 01V01 QW004 Incompatible types INSTANCE DB.DBA.vspx_data_set (254) and INSTANCE DB.DBA.vspx_control (254) in := for ds and control
+12:28:29 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+12:28:39 ERRS_0 42000 UD021 No user defined class DB.DBA.page_312a733cc91f2d8d3e4373a5090e0b70VAD_conductor_graphs__page_vspx
+12:28:39 ERRS_0 01V01 QW001 Local declaration of params shadows a definition of the same name
+12:28:39 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+12:29:11 ERRS_0 42000 UD021 No user defined class DB.DBA.page_11423e4072be6bf89a6acf13a6482ebeAV_VAD_conductor_sys__info_vspx
+12:29:11 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+12:29:11 ERRS_0 42000 UD021 No user defined class DB.DBA.page_8c10852d8dad2c5e18e23d7c1f2ff447_conductor_dashboard__item_vspx
+12:29:11 ERRS_0 01V01 QW001 Local declaration of params shadows a definition of the same name
+12:29:23 ERRS_0 42000 UD021 No user defined class DB.DBA.page_daf94d896c312af02ee2b90bd5edd91bV_VAD_conductor_cont__page_vspx
+12:29:23 ERRS_0 01V01 QW001 Local declaration of p0 shadows a definition of the same name
+12:29:23 ERRS_0 01V01 QW008 Invalid = comparison operation argument ve_button type INSTANCE (254)
+12:29:23 ERRS_0 01V01 QW004 Incompatible types INTEGER (189) and INSTANCE DB.DBA.vspx_control (254) in = for <constant> and ve_button
+12:29:23 ERRS_0 01V01 QW001 <unspec>:2198: vc_data_bind_ds_versions: Local declaration of inx shadows a definition of the same name
+12:29:23 ERRS_0 01V01 QW001 <unspec>:2198: vc_data_bind_ds_versions: Local declaration of control shadows a definition of the same name
+12:29:23 ERRS_0 01V01 QW008 Invalid = comparison operation argument ve_button type INSTANCE (254)
+12:29:23 ERRS_0 01V01 QW004 Incompatible types INTEGER (189) and INSTANCE DB.DBA.vspx_control (254) in = for <constant> and ve_button
+12:29:23 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+12:29:23 ERRS_0 01V01 QW008 Invalid = comparison operation argument ve_button type INSTANCE (254)
+12:29:23 ERRS_0 01V01 QW004 Incompatible types INTEGER (189) and INSTANCE DB.DBA.vspx_control (254) in = for <constant> and ve_button
+12:29:23 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+12:29:23 ERRS_0 01V01 QW002 The column VS_DESCR in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:29:23 ERRS_0 01V01 QW002 The column VS_HOST in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:29:23 ERRS_0 01V01 QW002 The column VS_URL in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:29:23 ERRS_0 01V01 QW002 The column VS_ROOT in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:29:23 ERRS_0 01V01 QW002 The column VS_ID in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:29:23 ERRS_0 01V01 QW008 Invalid = comparison operation argument ve_button type INSTANCE (254)
+12:29:23 ERRS_0 01V01 QW004 Incompatible types INTEGER (189) and INSTANCE DB.DBA.vspx_control (254) in = for <constant> and ve_button
+12:29:23 ERRS_0 01V01 QW002 <unspec>:2198: vc_data_bind_data_set2: The column VS_DESCR in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:29:23 ERRS_0 01V01 QW002 <unspec>:2198: vc_data_bind_data_set2: The column VS_HOST in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:29:23 ERRS_0 01V01 QW002 <unspec>:2198: vc_data_bind_data_set2: The column VS_URL in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:29:23 ERRS_0 01V01 QW002 <unspec>:2198: vc_data_bind_data_set2: The column VS_ROOT in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:29:23 ERRS_0 01V01 QW002 <unspec>:2198: vc_data_bind_data_set2: The column VS_ID in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:29:23 ERRS_0 01V01 QW001 <unspec>:2198: vc_data_bind_data_set2: Local declaration of inx shadows a definition of the same name
+12:29:23 ERRS_0 01V01 QW001 <unspec>:2198: vc_data_bind_data_set2: Local declaration of control shadows a definition of the same name
+12:29:23 ERRS_0 01V01 QW001 Local declaration of params shadows a definition of the same name
+12:29:23 ERRS_0 01V01 QW008 Invalid = comparison operation argument ve_button type INSTANCE (254)
+12:29:23 ERRS_0 01V01 QW004 Incompatible types INTEGER (189) and INSTANCE DB.DBA.vspx_control (254) in = for <constant> and ve_button
+12:29:23 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+12:29:23 ERRS_0 01V01 QW002 The column VS_DESCR in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:29:23 ERRS_0 01V01 QW002 The column VS_HOST in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:29:23 ERRS_0 01V01 QW002 The column VS_URL in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:29:23 ERRS_0 01V01 QW002 The column VS_ROOT in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:29:23 ERRS_0 01V01 QW002 The column VS_ID in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:29:23 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+12:29:23 ERRS_0 01V01 QW001 <unspec>:-23433: vc_render_inx_form: Local declaration of V shadows a definition of the same name
+12:29:23 ERRS_0 01V01 QW004 Incompatible types INSTANCE DB.DBA.vspx_data_set (254) and INSTANCE DB.DBA.vspx_control (254) in := for callretSearchedCASE and control.vc_find_parent
+12:29:23 ERRS_0 01V01 QW004 Incompatible types INSTANCE DB.DBA.vspx_data_set (254) and INSTANCE DB.DBA.vspx_control (254) in := for callretSearchedCASE and control.vc_find_parent
+12:29:23 ERRS_0 01V01 QW004 <unspec>:-23020: vc_render_ctrl_id0x7f04782ee078: Incompatible types INTEGER (189) and VARCHAR (182) in := for callretSearchedCASE and <constant>
+12:29:23 ERRS_0 01V01 QW004 <unspec>:-23020: vc_render_ctrl_id0x7f04782ee078: Incompatible types INTEGER (189) and VARCHAR (182) in := for callretSearchedCASE and <constant>
+12:29:23 ERRS_0 01V01 QW004 <unspec>:-23020: vc_render_ctrl_id0x7f04782ee078: Incompatible types INTEGER (189) and VARCHAR (182) in := for callretSearchedCASE and <constant>
+12:29:23 ERRS_0 01V01 QW004 <unspec>:-23020: vc_render_ctrl_id0x7f04782ee078: Incompatible types INTEGER (189) and VARCHAR (182) in := for callretSearchedCASE and <constant>
+12:29:23 ERRS_0 01V01 QW001 <unspec>:-22796: vc_render_template_03: Local declaration of N shadows a definition of the same name
+12:29:23 ERRS_0 01V01 QW001 Local declaration of _keys shadows a definition of the same name
+12:29:23 ERRS_0 01V01 QW001 <unspec>:-20303: vc_render_src_17: Local declaration of _oauth shadows a definition of the same name
+12:29:23 ERRS_0 01V01 QW001 Local declaration of _keys shadows a definition of the same name
+12:29:23 ERRS_0 01V01 QW001 <unspec>:-19837: vc_render_src_21: Local declaration of _oauth shadows a definition of the same name
+12:29:23 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+12:29:23 ERRS_0 01V01 QW004 Incompatible types INSTANCE DB.DBA.vspx_data_set (254) and INSTANCE DB.DBA.vspx_control (254) in := for ds and control
+12:29:23 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+12:29:23 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+12:29:23 ERRS_0 01V01 QW004 Incompatible types INSTANCE DB.DBA.vspx_data_set (254) and INSTANCE DB.DBA.vspx_control (254) in := for ds and control
+12:29:23 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+12:29:23 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+12:29:23 ERRS_0 01V01 QW004 Incompatible types INSTANCE DB.DBA.vspx_data_set (254) and INSTANCE DB.DBA.vspx_control (254) in := for ds and control
+12:29:23 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+12:29:23 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+12:29:23 ERRS_0 01V01 QW004 Incompatible types INSTANCE DB.DBA.vspx_data_set (254) and INSTANCE DB.DBA.vspx_control (254) in := for ds and control
+12:29:23 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+12:29:23 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+12:29:23 ERRS_0 01V01 QW004 Incompatible types INSTANCE DB.DBA.vspx_data_set (254) and INSTANCE DB.DBA.vspx_control (254) in := for ds and control
+12:29:23 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+12:29:23 ERRS_0 S0002 SQ200 No table ODRIVE.WA.SETTINGS
+12:29:23 ERRS_0 42S02 SQ096 No table ODRIVE.WA.SETTINGS.
+12:29:27 ERRS_0 S0002 SQ200 No table ODRIVE.WA.SETTINGS
+12:29:27 ERRS_0 42S02 SQ096 No table ODRIVE.WA.SETTINGS.
+12:29:31 ERRS_0 42000 UD021 No user defined class DB.DBA.page_5fa3eb660e5300be31cd870413224e91DAV_VAD_conductor_xml__sql_vspx
+12:29:31 ERRS_0 01V01 QW001 Local declaration of path shadows a definition of the same name
+12:29:31 ERRS_0 01V01 QW001 Local declaration of lexems shadows a definition of the same name
+12:29:31 ERRS_0 01V01 QW008 Invalid = comparison operation argument ve_button type INSTANCE (254)
+12:29:31 ERRS_0 01V01 QW008 Invalid = comparison operation argument control type INSTANCE (254)
+12:29:31 ERRS_0 01V01 QW008 Invalid = comparison operation argument ve_initiator type INSTANCE (254)
+12:29:31 ERRS_0 01V01 QW008 Invalid = comparison operation argument apply_mapping_schema type INSTANCE (254)
+12:29:31 ERRS_0 01V01 QW008 Invalid = comparison operation argument query_text type LONG VARCHAR (125)
+12:29:31 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+12:29:31 ERRS_0 01V01 QW002 <unspec>:10654: vc_render_for_xml_query_list_template: The column PROP_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:29:31 ERRS_0 01V01 QW002 <unspec>:10654: vc_render_for_xml_query_list_template: The column PROP_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:29:34 ERRS_0 42000 UD021 No user defined class DB.DBA.page_d98d0955edf3a65d8adf3a0269ee5b37D_conductor_soap__services_vspx
+12:29:34 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+12:29:34 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+12:29:34 ERRS_0 01V01 QW001 Local declaration of inx shadows a definition of the same name
+12:30:03 ERRS_0 42000 UD021 No user defined class DB.DBA.page_3c1f68fd41ac3f706124dc50cf010713_VAD_conductor_rdf__import_vspx
+12:30:03 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+12:30:22 ERRS_0 42000 UD021 No user defined class DB.DBA.page_546166276e2127d76d94253d4161e255VAD_conductor_rdf__filters_vspx
+12:30:22 ERRS_0 01V01 QW008 Invalid = comparison operation argument ve_button type INSTANCE (254)
+12:30:22 ERRS_0 01V01 QW004 Incompatible types INTEGER (189) and INSTANCE DB.DBA.vspx_control (254) in = for <constant> and ve_button
+12:30:22 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+12:30:22 ERRS_0 01V01 QW001 Local declaration of params shadows a definition of the same name
+12:30:22 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+12:30:22 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+12:30:22 ERRS_0 01V01 QW004 Incompatible types INSTANCE DB.DBA.vspx_data_set (254) and INSTANCE DB.DBA.vspx_control (254) in := for ds and control
+12:30:22 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+12:30:23 ERRS_0 42000 UD021 No user defined class DB.DBA.page_d9b8c4f19a717aeeed792df3c30fb9f2AV_VAD_conductor_rdf__void_vspx
+12:30:23 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+12:30:48 ERRS_0 42000 UD021 No user defined class DB.DBA.page_1c9a397d8742786343b40cb41dc1a4f4_conductor_msg__news__conf_vspx
+12:30:48 ERRS_0 01V01 QW004 Incompatible types VARCHAR (182) and INTEGER (189) in < for _retrive and <constant>
+12:30:48 ERRS_0 01V01 QW004 Incompatible types VARCHAR (182) and INTEGER (189) in := for _retrive and <constant>
+12:30:48 ERRS_0 01V01 QW002 The column NS_ID in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:30:48 ERRS_0 01V01 QW002 The column NS_ID in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:30:48 ERRS_0 01V01 QW002 The column NS_SERVER in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:30:48 ERRS_0 01V01 QW002 The column NS_PORT in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:30:48 ERRS_0 01V01 QW002 The column NS_USER in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:30:48 ERRS_0 01V01 QW002 The column NS_PASS in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:30:48 ERRS_0 01V01 QW002 The column NS_GROUPS in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:30:48 ERRS_0 01V01 QW008 Invalid = comparison operation argument ve_button type INSTANCE (254)
+12:30:48 ERRS_0 01V01 QW004 Incompatible types INTEGER (189) and INSTANCE DB.DBA.vspx_control (254) in = for <constant> and ve_button
+12:30:48 ERRS_0 01V01 QW002 <unspec>:2200: vc_data_bind_data_set_delete: The column NS_ID in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:30:48 ERRS_0 01V01 QW002 <unspec>:2200: vc_data_bind_data_set_delete: The column NS_ID in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:30:48 ERRS_0 01V01 QW002 <unspec>:2200: vc_data_bind_data_set_delete: The column NS_SERVER in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:30:48 ERRS_0 01V01 QW002 <unspec>:2200: vc_data_bind_data_set_delete: The column NS_PORT in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:30:48 ERRS_0 01V01 QW002 <unspec>:2200: vc_data_bind_data_set_delete: The column NS_USER in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:30:48 ERRS_0 01V01 QW002 <unspec>:2200: vc_data_bind_data_set_delete: The column NS_PASS in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:30:48 ERRS_0 01V01 QW002 <unspec>:2200: vc_data_bind_data_set_delete: The column NS_GROUPS in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:30:48 ERRS_0 01V01 QW001 <unspec>:2200: vc_data_bind_data_set_delete: Local declaration of inx shadows a definition of the same name
+12:30:48 ERRS_0 01V01 QW001 <unspec>:2200: vc_data_bind_data_set_delete: Local declaration of control shadows a definition of the same name
+12:30:48 ERRS_0 01V01 QW002 The column NG_GROUP in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:30:48 ERRS_0 01V01 QW002 The column NG_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:30:48 ERRS_0 01V01 QW002 The column NG_UP_MESS in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:30:48 ERRS_0 01V01 QW002 The column NG_NUM in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:30:48 ERRS_0 01V01 QW002 The column NG_AUTO in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:30:48 ERRS_0 01V01 QW002 The column NG_GROUP in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:30:48 ERRS_0 01V01 QW008 Invalid = comparison operation argument ve_button type INSTANCE (254)
+12:30:48 ERRS_0 01V01 QW004 Incompatible types INTEGER (189) and INSTANCE DB.DBA.vspx_control (254) in = for <constant> and ve_button
+12:30:48 ERRS_0 01V01 QW002 <unspec>:2220: vc_data_bind_news_groups: The column NG_GROUP in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:30:48 ERRS_0 01V01 QW002 <unspec>:2220: vc_data_bind_news_groups: The column NG_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:30:48 ERRS_0 01V01 QW002 <unspec>:2220: vc_data_bind_news_groups: The column NG_UP_MESS in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:30:48 ERRS_0 01V01 QW002 <unspec>:2220: vc_data_bind_news_groups: The column NG_NUM in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:30:48 ERRS_0 01V01 QW002 <unspec>:2220: vc_data_bind_news_groups: The column NG_AUTO in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:30:48 ERRS_0 01V01 QW002 <unspec>:2220: vc_data_bind_news_groups: The column NG_GROUP in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:30:48 ERRS_0 01V01 QW001 <unspec>:2220: vc_data_bind_news_groups: Local declaration of inx shadows a definition of the same name
+12:30:48 ERRS_0 01V01 QW001 <unspec>:2220: vc_data_bind_news_groups: Local declaration of control shadows a definition of the same name
+12:30:48 ERRS_0 01V01 QW002 The column NS_ID in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:30:48 ERRS_0 01V01 QW002 The column NS_SERVER in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:30:48 ERRS_0 01V01 QW002 The column NS_PORT in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:30:48 ERRS_0 01V01 QW002 The column NS_USER in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:30:48 ERRS_0 01V01 QW002 The column NS_PASS in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:30:48 ERRS_0 01V01 QW002 The column NS_GROUPS in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:30:48 ERRS_0 01V01 QW002 The column NS_SERVER in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:30:48 ERRS_0 01V01 QW008 Invalid = comparison operation argument ve_button type INSTANCE (254)
+12:30:48 ERRS_0 01V01 QW004 Incompatible types INTEGER (189) and INSTANCE DB.DBA.vspx_control (254) in = for <constant> and ve_button
+12:30:48 ERRS_0 01V01 QW002 <unspec>:2200: vc_data_bind_ds: The column NS_ID in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:30:48 ERRS_0 01V01 QW002 <unspec>:2200: vc_data_bind_ds: The column NS_SERVER in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:30:48 ERRS_0 01V01 QW002 <unspec>:2200: vc_data_bind_ds: The column NS_PORT in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:30:48 ERRS_0 01V01 QW002 <unspec>:2200: vc_data_bind_ds: The column NS_USER in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:30:48 ERRS_0 01V01 QW002 <unspec>:2200: vc_data_bind_ds: The column NS_PASS in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:30:48 ERRS_0 01V01 QW002 <unspec>:2200: vc_data_bind_ds: The column NS_GROUPS in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:30:48 ERRS_0 01V01 QW002 <unspec>:2200: vc_data_bind_ds: The column NS_SERVER in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:30:48 ERRS_0 01V01 QW001 <unspec>:2200: vc_data_bind_ds: Local declaration of inx shadows a definition of the same name
+12:30:48 ERRS_0 01V01 QW001 <unspec>:2200: vc_data_bind_ds: Local declaration of control shadows a definition of the same name
+12:30:48 ERRS_0 01V01 QW004 <unspec>:254: vc_data_bind_ds_edit_form: Incompatible types INSTANCE DB.DBA.vspx_field (254) and INSTANCE DB.DBA.vspx_control (254) in := for field and uf
+12:30:48 ERRS_0 01V01 QW004 Incompatible types VARCHAR (182) and INTEGER (189) in COALESCE for coalesce_ret and <constant>
+12:30:48 ERRS_0 01V01 QW004 Incompatible types VARCHAR (182) and INTEGER (189) in := for coalesce_ret and <constant>
+12:30:48 ERRS_0 01V01 QW004 <unspec>:302: vc_data_bind_ds_add_form: Incompatible types INSTANCE DB.DBA.vspx_field (254) and INSTANCE DB.DBA.vspx_control (254) in := for field and uf
+12:30:48 ERRS_0 01V01 QW002 The column NS_ID in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:30:48 ERRS_0 01V01 QW002 The column NS_ID in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:30:48 ERRS_0 01V01 QW002 The column NS_SERVER in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:30:48 ERRS_0 01V01 QW002 The column NS_PORT in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:30:48 ERRS_0 01V01 QW002 The column NS_USER in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:30:48 ERRS_0 01V01 QW002 The column NS_PASS in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:30:48 ERRS_0 01V01 QW002 The column NS_GROUPS in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:30:48 ERRS_0 01V01 QW002 The column NG_GROUP in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:30:48 ERRS_0 01V01 QW002 The column NG_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:30:48 ERRS_0 01V01 QW002 The column NG_UP_MESS in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:30:48 ERRS_0 01V01 QW002 The column NG_NUM in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:30:48 ERRS_0 01V01 QW002 The column NG_AUTO in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:30:48 ERRS_0 01V01 QW002 The column NG_GROUP in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:30:48 ERRS_0 01V01 QW002 The column NS_ID in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:30:48 ERRS_0 01V01 QW002 The column NS_SERVER in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:30:48 ERRS_0 01V01 QW002 The column NS_PORT in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:30:48 ERRS_0 01V01 QW002 The column NS_USER in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:30:48 ERRS_0 01V01 QW002 The column NS_PASS in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:30:48 ERRS_0 01V01 QW002 The column NS_GROUPS in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:30:48 ERRS_0 01V01 QW002 The column NS_SERVER in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+12:30:48 ERRS_0 01V01 QW008 Invalid = comparison operation argument ds_data_source type INSTANCE (254)
+12:30:48 ERRS_0 01V01 QW004 Incompatible types INTEGER (189) and INSTANCE DB.DBA.vspx_data_source (254) in = for <constant> and ds_data_source
+12:30:48 ERRS_0 01V01 QW008 Invalid = comparison operation argument ds_data_source type INSTANCE (254)
+12:30:48 ERRS_0 01V01 QW004 Incompatible types INTEGER (189) and INSTANCE DB.DBA.vspx_data_source (254) in = for <constant> and ds_data_source
+12:30:48 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+12:30:48 ERRS_0 01V01 QW004 Incompatible types INSTANCE DB.DBA.vspx_data_set (254) and INSTANCE DB.DBA.vspx_control (254) in := for callretSearchedCASE and control.vc_find_parent
+12:30:48 ERRS_0 01V01 QW004 Incompatible types INSTANCE DB.DBA.vspx_data_set (254) and INSTANCE DB.DBA.vspx_control (254) in := for callretSearchedCASE and control.vc_find_parent
+12:30:48 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+12:30:48 ERRS_0 01V01 QW004 Incompatible types INSTANCE DB.DBA.vspx_data_set (254) and INSTANCE DB.DBA.vspx_control (254) in := for ds and control
+12:30:48 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+12:30:48 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+12:30:48 ERRS_0 01V01 QW004 Incompatible types INSTANCE DB.DBA.vspx_data_set (254) and INSTANCE DB.DBA.vspx_control (254) in := for ds and control
+12:30:48 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+12:30:48 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+12:30:48 ERRS_0 01V01 QW004 Incompatible types INSTANCE DB.DBA.vspx_data_set (254) and INSTANCE DB.DBA.vspx_control (254) in := for ds and control
+12:30:48 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+12:30:55 ERRS_0 42000 UD021 No user defined class DB.DBA.page_9b4394f23531d75eef8cbcfa4045cdb2AD_conductor_bpel__service_vspx
+12:30:55 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+12:30:56 ERRS_0 42000 UD021 No user defined class DB.DBA.page_b1f747f2fecbc5960c1de2664bdaf133D_conductor_wsdl__services_vspx
+12:30:56 ERRS_0 01V01 QW008 Invalid = comparison operation argument ve_button type INSTANCE (254)
+12:30:56 ERRS_0 01V01 QW008 Invalid = comparison operation argument control type INSTANCE (254)
+12:30:56 ERRS_0 01V01 QW008 Invalid = comparison operation argument ve_initiator type INSTANCE (254)
+12:30:56 ERRS_0 01V01 QW008 Invalid = comparison operation argument src_type type INSTANCE (254)
+12:30:56 ERRS_0 01V01 QW004 Incompatible types VARCHAR (182) and INTEGER (189) in = for _mode1 and <constant>
+12:30:56 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+12:30:56 ERRS_0 01V01 QW008 Invalid = comparison operation argument ve_button type INSTANCE (254)
+12:30:56 ERRS_0 01V01 QW008 Invalid = comparison operation argument execute_src type INSTANCE (254)
+13:27:04 Checkpoint started
+13:27:04 Checkpoint finished, log reused
+14:27:04 Checkpoint started
+14:27:04 Checkpoint finished, log reused
+
+		Mon Jul 31 2023
+15:06:58 OpenLink Virtuoso Universal Server
+15:06:58 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+15:06:58 uses OpenSSL 1.0.2n  7 Dec 2017
+15:06:58 uses parts of PCRE, Html Tidy
+15:06:58 Database version 3126
+15:06:58 SQL Optimizer enabled (max 1000 layouts)
+15:06:59 Compiler unit is timed at 0.000087 msec
+15:07:00 Roll forward started
+15:07:00 Roll forward complete
+15:07:00 Checkpoint started
+15:07:00 Checkpoint finished, log reused
+15:07:00 HTTP/WebDAV server online at 8890
+15:07:00 Server online at 1111 (pid 1)
+
+		Tue Aug 01 2023
+07:20:57 Checkpoint started
+07:20:57 Checkpoint finished, log reused
+07:41:23 Server received signal 15
+07:41:23 Initiating quick shutdown
+07:41:23 Server shutdown complete
+
+		Tue Aug 01 2023
+08:14:40 OpenLink Virtuoso Universal Server
+08:14:40 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+08:14:40 uses OpenSSL 1.0.2n  7 Dec 2017
+08:14:40 uses parts of PCRE, Html Tidy
+08:14:40 Database version 3126
+08:14:40 SQL Optimizer enabled (max 1000 layouts)
+08:14:41 Compiler unit is timed at 0.000088 msec
+08:14:41 Roll forward started
+08:14:41 Roll forward complete
+08:14:41 Checkpoint started
+08:14:41 Checkpoint finished, log reused
+08:14:41 HTTP/WebDAV server online at 8890
+08:14:41 Server online at 1111 (pid 1)
+
+		Tue Aug 01 2023
+08:47:57 OpenLink Virtuoso Universal Server
+08:47:57 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+08:47:57 uses OpenSSL 1.0.2n  7 Dec 2017
+08:47:57 uses parts of PCRE, Html Tidy
+08:47:57 Database version 3126
+08:47:57 SQL Optimizer enabled (max 1000 layouts)
+08:47:58 Compiler unit is timed at 0.000094 msec
+08:47:59 Roll forward started
+08:47:59 Roll forward complete
+08:47:59 Checkpoint started
+08:47:59 Checkpoint finished, log reused
+08:47:59 HTTP/WebDAV server online at 8890
+08:47:59 Server online at 1111 (pid 1)
+
+		Tue Aug 01 2023
+09:00:45 OpenLink Virtuoso Universal Server
+09:00:45 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+09:00:45 uses OpenSSL 1.0.2n  7 Dec 2017
+09:00:45 uses parts of PCRE, Html Tidy
+09:00:45 Database version 3126
+09:00:45 SQL Optimizer enabled (max 1000 layouts)
+09:00:46 Compiler unit is timed at 0.000088 msec
+09:00:47 Roll forward started
+09:00:47 Roll forward complete
+09:00:47 Checkpoint started
+09:00:47 Checkpoint finished, log reused
+09:00:47 HTTP/WebDAV server online at 8890
+09:00:47 Server online at 1111 (pid 1)
+
+		Tue Aug 01 2023
+09:23:17 OpenLink Virtuoso Universal Server
+09:23:17 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+09:23:17 uses OpenSSL 1.0.2n  7 Dec 2017
+09:23:17 uses parts of PCRE, Html Tidy
+09:23:17 Database version 3126
+09:23:17 SQL Optimizer enabled (max 1000 layouts)
+09:23:18 Compiler unit is timed at 0.000087 msec
+09:23:18 Roll forward started
+09:23:18 Roll forward complete
+09:23:18 Checkpoint started
+09:23:18 Checkpoint finished, log reused
+09:23:20 HTTP/WebDAV server online at 8890
+09:23:20 Server online at 1111 (pid 1)
+
+		Tue Aug 01 2023
+09:28:31 OpenLink Virtuoso Universal Server
+09:28:31 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+09:28:31 uses OpenSSL 1.0.2n  7 Dec 2017
+09:28:31 uses parts of PCRE, Html Tidy
+09:28:31 Database version 3126
+09:28:31 SQL Optimizer enabled (max 1000 layouts)
+09:28:32 Compiler unit is timed at 0.000086 msec
+09:28:32 Roll forward started
+09:28:32 Roll forward complete
+09:28:33 Checkpoint started
+09:28:33 Checkpoint finished, log reused
+09:28:33 HTTP/WebDAV server online at 8890
+09:28:33 Server online at 1111 (pid 1)
+
+		Tue Aug 01 2023
+09:30:13 OpenLink Virtuoso Universal Server
+09:30:13 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+09:30:13 uses OpenSSL 1.0.2n  7 Dec 2017
+09:30:13 uses parts of PCRE, Html Tidy
+09:30:13 Database version 3126
+09:30:13 SQL Optimizer enabled (max 1000 layouts)
+09:30:14 Compiler unit is timed at 0.000087 msec
+09:30:14 Roll forward started
+09:30:14 Roll forward complete
+09:30:15 Checkpoint started
+09:30:15 Checkpoint finished, log reused
+09:30:15 HTTP/WebDAV server online at 8890
+09:30:15 Server online at 1111 (pid 1)
+
+		Tue Aug 01 2023
+09:38:10 OpenLink Virtuoso Universal Server
+09:38:10 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+09:38:10 uses OpenSSL 1.0.2n  7 Dec 2017
+09:38:10 uses parts of PCRE, Html Tidy
+09:38:10 Database version 3126
+09:38:11 SQL Optimizer enabled (max 1000 layouts)
+09:38:12 Compiler unit is timed at 0.000105 msec
+09:38:12 Roll forward started
+09:38:12 Roll forward complete
+09:38:12 Checkpoint started
+09:38:12 Checkpoint finished, log reused
+09:38:12 HTTP/WebDAV server online at 8890
+09:38:12 Server online at 1111 (pid 1)
+
+		Tue Aug 01 2023
+09:39:37 OpenLink Virtuoso Universal Server
+09:39:37 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+09:39:37 uses OpenSSL 1.0.2n  7 Dec 2017
+09:39:37 uses parts of PCRE, Html Tidy
+09:39:37 Database version 3126
+09:39:37 SQL Optimizer enabled (max 1000 layouts)
+09:39:38 Compiler unit is timed at 0.000087 msec
+09:39:38 Roll forward started
+09:39:38 Roll forward complete
+09:39:38 Checkpoint started
+09:39:38 Checkpoint finished, log reused
+09:39:38 HTTP/WebDAV server online at 8890
+09:39:38 Server online at 1111 (pid 1)
+09:45:07 Server received signal 15
+09:45:07 Initiating quick shutdown
+09:45:07 Server shutdown complete
+
+		Tue Aug 01 2023
+09:45:15 OpenLink Virtuoso Universal Server
+09:45:15 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+09:45:15 uses OpenSSL 1.0.2n  7 Dec 2017
+09:45:15 uses parts of PCRE, Html Tidy
+09:45:15 Database version 3126
+09:45:15 SQL Optimizer enabled (max 1000 layouts)
+09:45:17 Compiler unit is timed at 0.000086 msec
+09:45:17 Roll forward started
+09:45:17 Roll forward complete
+09:45:17 Checkpoint started
+09:45:17 Checkpoint finished, log reused
+09:45:17 HTTP/WebDAV server online at 8890
+09:45:17 Server online at 1111 (pid 1)
+09:48:46 Server received signal 15
+09:48:46 Initiating quick shutdown
+09:48:46 Server shutdown complete
+
+		Tue Aug 01 2023
+09:49:11 OpenLink Virtuoso Universal Server
+09:49:11 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+09:49:11 uses OpenSSL 1.0.2n  7 Dec 2017
+09:49:11 uses parts of PCRE, Html Tidy
+09:49:11 Database version 3126
+09:49:11 SQL Optimizer enabled (max 1000 layouts)
+09:49:12 Compiler unit is timed at 0.000087 msec
+09:49:12 Roll forward started
+09:49:12 Roll forward complete
+09:49:13 Checkpoint started
+09:49:13 Checkpoint finished, log reused
+09:49:13 HTTP/WebDAV server online at 8890
+09:49:13 Server online at 1111 (pid 1)
+
+		Tue Aug 01 2023
+09:55:43 OpenLink Virtuoso Universal Server
+09:55:43 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+09:55:43 uses OpenSSL 1.0.2n  7 Dec 2017
+09:55:43 uses parts of PCRE, Html Tidy
+09:55:43 Database version 3126
+09:55:43 SQL Optimizer enabled (max 1000 layouts)
+09:55:44 Compiler unit is timed at 0.000088 msec
+09:55:44 Roll forward started
+09:55:44 Roll forward complete
+09:55:45 Checkpoint started
+09:55:45 Checkpoint finished, log reused
+09:55:47 HTTP/WebDAV server online at 8890
+09:55:47 Server online at 1111 (pid 1)
+
+		Tue Aug 01 2023
+10:09:25 OpenLink Virtuoso Universal Server
+10:09:25 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+10:09:25 uses OpenSSL 1.0.2n  7 Dec 2017
+10:09:25 uses parts of PCRE, Html Tidy
+10:09:25 Database version 3126
+10:09:25 SQL Optimizer enabled (max 1000 layouts)
+10:09:26 Compiler unit is timed at 0.000105 msec
+10:09:26 Roll forward started
+10:09:26 Roll forward complete
+10:09:27 Checkpoint started
+10:09:27 Checkpoint finished, log reused
+10:09:29 HTTP/WebDAV server online at 8890
+10:09:29 Server online at 1111 (pid 1)
+
+		Tue Aug 01 2023
+10:15:42 OpenLink Virtuoso Universal Server
+10:15:42 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+10:15:42 uses OpenSSL 1.0.2n  7 Dec 2017
+10:15:42 uses parts of PCRE, Html Tidy
+10:15:42 Database version 3126
+10:15:42 SQL Optimizer enabled (max 1000 layouts)
+10:15:43 Compiler unit is timed at 0.000088 msec
+10:15:43 Roll forward started
+10:15:43 Roll forward complete
+10:15:44 Checkpoint started
+10:15:44 Checkpoint finished, log reused
+10:15:44 HTTP/WebDAV server online at 8890
+10:15:44 Server online at 1111 (pid 1)
+
+		Tue Aug 01 2023
+10:17:50 OpenLink Virtuoso Universal Server
+10:17:50 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+10:17:50 uses OpenSSL 1.0.2n  7 Dec 2017
+10:17:50 uses parts of PCRE, Html Tidy
+10:17:50 Database version 3126
+10:17:50 SQL Optimizer enabled (max 1000 layouts)
+10:17:51 Compiler unit is timed at 0.000091 msec
+10:17:52 Roll forward started
+10:17:52 Roll forward complete
+10:17:52 Checkpoint started
+10:17:52 Checkpoint finished, log reused
+10:17:54 HTTP/WebDAV server online at 8890
+10:17:54 Server online at 1111 (pid 1)
+
+		Tue Aug 01 2023
+10:27:09 OpenLink Virtuoso Universal Server
+10:27:09 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+10:27:09 uses OpenSSL 1.0.2n  7 Dec 2017
+10:27:09 uses parts of PCRE, Html Tidy
+10:27:09 Database version 3126
+10:27:09 SQL Optimizer enabled (max 1000 layouts)
+10:27:10 Compiler unit is timed at 0.000102 msec
+10:27:10 Roll forward started
+10:27:10 Roll forward complete
+10:27:10 Checkpoint started
+10:27:10 Checkpoint finished, log reused
+10:27:12 HTTP/WebDAV server online at 8890
+10:27:12 Server online at 1111 (pid 1)
+10:34:11 ERRS_0 42000 UD021 No user defined class DB.DBA.page_f97a0fe94cf12fd45d8652041b3640e3V_VAD_conductor_main__tabs_vspx
+10:34:11 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+10:34:11 ERRS_0 42000 UD021 No user defined class DB.DBA.page_23a9644beceec46b97fd1b95fe9fad7ductor_adm__navigation__bar_vspx
+10:34:11 ERRS_0 01V01 QW008 Invalid = comparison operation argument control type INSTANCE (254)
+10:34:11 ERRS_0 01V01 QW008 Invalid = comparison operation argument control type INSTANCE (254)
+10:34:11 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+10:34:11 ERRS_0 01V01 QW001 Local declaration of inx shadows a definition of the same name
+10:34:11 ERRS_0 HY008 SR203 Async statement killed by SQLCancel.
+10:34:11 ERRS_0 S1T00 {CLI.. Client cancelled or disconnected
+10:34:11 ERRS_0 40001 SR337 Transaction aborted due to async rollback in cluster
+10:34:11 ERRS_0 S1T00 {CLI.. Client cancelled or disconnected
+10:34:11 ERRS_0 40001 SR337 Transaction aborted due to async rollback in cluster
+10:34:11 ERRS_0 S1T00 {CLI.. Client cancelled or disconnected
+10:34:11 ERRS_0 40001 SR337 Transaction aborted due to async rollback in cluster
+10:34:11 ERRS_0 40001 SR337 Transaction aborted due to async rollback in cluster
+10:34:11 ERRS_0 HY008 SR203 Async statement killed by SQLCancel.
+10:34:11 ERRS_0 HY008 SR203 Async statement killed by SQLCancel.
+10:34:11 ERRS_0 S1T00 {CLI.. Client cancelled or disconnected
+10:34:11 ERRS_0 40001 SR337 Transaction aborted due to async rollback in cluster
+10:34:11 ERRS_0 S1T00 {CLI.. Client cancelled or disconnected
+10:34:11 ERRS_0 40001 SR337 Transaction aborted due to async rollback in cluster
+10:34:11 ERRS_0 S1T00 {CLI.. Client cancelled or disconnected
+10:34:11 ERRS_0 40001 SR337 Transaction aborted due to async rollback in cluster
+10:34:11 ERRS_0 40001 SR337 Transaction aborted due to async rollback in cluster
+10:34:20 ERRS_0 42000 UD021 No user defined class DB.DBA.page__DAV_VAD_conductor_isql_vspx
+10:34:20 ERRS_0 01V01 QW004 Incompatible types INTEGER (189) and VARCHAR (182) in = for <constant> and gen_table_sel
+10:34:20 ERRS_0 01V01 QW004 Incompatible types INTEGER (189) and VARCHAR (182) in = for <constant> and load_sql
+10:34:20 ERRS_0 01V01 QW008 Invalid = comparison operation argument ve_button type INSTANCE (254)
+10:34:20 ERRS_0 01V01 QW008 Invalid = comparison operation argument control type INSTANCE (254)
+10:34:20 ERRS_0 01V01 QW008 Invalid = comparison operation argument ve_initiator type INSTANCE (254)
+10:34:20 ERRS_0 01V01 QW008 Invalid = comparison operation argument src_type type INSTANCE (254)
+10:34:20 ERRS_0 01V01 QW008 Invalid = comparison operation argument ve_button type INSTANCE (254)
+10:34:20 ERRS_0 01V01 QW008 Invalid = comparison operation argument control type INSTANCE (254)
+10:34:20 ERRS_0 01V01 QW008 Invalid = comparison operation argument ve_initiator type INSTANCE (254)
+10:34:20 ERRS_0 01V01 QW008 Invalid = comparison operation argument src_utype type INSTANCE (254)
+10:34:20 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+10:34:32 ERRS_0 42000 UD021 No user defined class DB.DBA.page_d190a278c2554ff79e0f0863a59b6c21AD_conductor_sparql__input_vspx
+10:34:32 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+10:35:24 ERRS_0 37000 SP030 SPARQL compiler, line 5: syntax error at '(' before '
+ ?O ?p ?s
+)'
+10:35:24 ERRS_0 37000 SQ074 Line 8: SP030: SPARQL compiler, line 5: syntax error at '(' before '
+ ?O ?p ?s
+)'
+10:35:24 ERRS_0 37000 SP030 SPARQL compiler, line 5: syntax error at '(' before '
+ ?O ?p ?s
+)'
+10:35:24 ERRS_0 37000 SQ074 Line 8: SP030: SPARQL compiler, line 5: syntax error at '(' before '
+ ?O ?p ?s
+)'
+10:35:24 ERRS_0 37000 SP030 SPARQL compiler, line 4: syntax error at '(' before '
+ ?O ?p ?s
+)'
+10:35:53 ERRS_0 37000 SP030 SPARQL compiler, line 5: syntax error at '(' before '
+ ?O ?p ?s
+)'
+10:35:53 ERRS_0 37000 SQ074 Line 8: SP030: SPARQL compiler, line 5: syntax error at '(' before '
+ ?O ?p ?s
+)'
+10:35:53 ERRS_0 37000 SP030 SPARQL compiler, line 5: syntax error at '(' before '
+ ?O ?p ?s
+)'
+10:35:53 ERRS_0 37000 SQ074 Line 8: SP030: SPARQL compiler, line 5: syntax error at '(' before '
+ ?O ?p ?s
+)'
+10:35:53 ERRS_0 37000 SP030 SPARQL compiler, line 4: syntax error at '(' before '
+ ?O ?p ?s
+)'
+10:37:03 ERRS_0 42000 UD021 No user defined class DB.DBA.page_11423e4072be6bf89a6acf13a6482ebeAV_VAD_conductor_sys__info_vspx
+10:37:03 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+10:37:03 ERRS_0 42000 UD021 No user defined class DB.DBA.page_8c10852d8dad2c5e18e23d7c1f2ff447_conductor_dashboard__item_vspx
+10:37:03 ERRS_0 01V01 QW001 Local declaration of params shadows a definition of the same name
+10:37:08 ERRS_0 42000 UD021 No user defined class DB.DBA.page_595004fee1c5fde185154fc61d5aea2dAV_VAD_conductor_databases_vspx
+10:37:08 ERRS_0 01V01 QW002 The column KEY_TABLE in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW002 The column KEY_TABLE in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW002 The column KEY_TABLE in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW002 The column KEY_TABLE in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW002 The column KEY_TABLE in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW008 Invalid = comparison operation argument ve_button type INSTANCE (254)
+10:37:08 ERRS_0 01V01 QW004 Incompatible types INTEGER (189) and INSTANCE DB.DBA.vspx_control (254) in = for <constant> and ve_button
+10:37:08 ERRS_0 01V01 QW002 <unspec>:2198: vc_data_bind_ds_tables: The column KEY_TABLE in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW002 <unspec>:2198: vc_data_bind_ds_tables: The column KEY_TABLE in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW002 <unspec>:2198: vc_data_bind_ds_tables: The column KEY_TABLE in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW002 <unspec>:2198: vc_data_bind_ds_tables: The column KEY_TABLE in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW002 <unspec>:2198: vc_data_bind_ds_tables: The column KEY_TABLE in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW001 <unspec>:2198: vc_data_bind_ds_tables: Local declaration of inx shadows a definition of the same name
+10:37:08 ERRS_0 01V01 QW001 <unspec>:2198: vc_data_bind_ds_tables: Local declaration of control shadows a definition of the same name
+10:37:08 ERRS_0 01V01 QW002 The column V_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW002 The column V_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW002 The column V_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW002 The column V_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW002 The column V_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW008 Invalid = comparison operation argument ve_button type INSTANCE (254)
+10:37:08 ERRS_0 01V01 QW004 Incompatible types INTEGER (189) and INSTANCE DB.DBA.vspx_control (254) in = for <constant> and ve_button
+10:37:08 ERRS_0 01V01 QW002 <unspec>:2198: vc_data_bind_ds_views: The column V_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW002 <unspec>:2198: vc_data_bind_ds_views: The column V_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW002 <unspec>:2198: vc_data_bind_ds_views: The column V_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW002 <unspec>:2198: vc_data_bind_ds_views: The column V_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW002 <unspec>:2198: vc_data_bind_ds_views: The column V_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW001 <unspec>:2198: vc_data_bind_ds_views: Local declaration of inx shadows a definition of the same name
+10:37:08 ERRS_0 01V01 QW001 <unspec>:2198: vc_data_bind_ds_views: Local declaration of control shadows a definition of the same name
+10:37:08 ERRS_0 01V01 QW002 The column P_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW002 The column P_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW002 The column P_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW002 The column P_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW002 The column P_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW002 The column P_TYPE in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW002 The column P_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW008 Invalid = comparison operation argument ve_button type INSTANCE (254)
+10:37:08 ERRS_0 01V01 QW004 Incompatible types INTEGER (189) and INSTANCE DB.DBA.vspx_control (254) in = for <constant> and ve_button
+10:37:08 ERRS_0 01V01 QW002 <unspec>:2198: vc_data_bind_ds_procs: The column P_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW002 <unspec>:2198: vc_data_bind_ds_procs: The column P_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW002 <unspec>:2198: vc_data_bind_ds_procs: The column P_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW002 <unspec>:2198: vc_data_bind_ds_procs: The column P_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW002 <unspec>:2198: vc_data_bind_ds_procs: The column P_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW002 <unspec>:2198: vc_data_bind_ds_procs: The column P_TYPE in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW002 <unspec>:2198: vc_data_bind_ds_procs: The column P_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW001 <unspec>:2198: vc_data_bind_ds_procs: Local declaration of inx shadows a definition of the same name
+10:37:08 ERRS_0 01V01 QW001 <unspec>:2198: vc_data_bind_ds_procs: Local declaration of control shadows a definition of the same name
+10:37:08 ERRS_0 01V01 QW002 The column UT_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW002 The column UT_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW002 The column UT_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW002 The column UT_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW002 The column UT_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW002 The column UT_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW008 Invalid = comparison operation argument ve_button type INSTANCE (254)
+10:37:08 ERRS_0 01V01 QW004 Incompatible types INTEGER (189) and INSTANCE DB.DBA.vspx_control (254) in = for <constant> and ve_button
+10:37:08 ERRS_0 01V01 QW002 <unspec>:2198: vc_data_bind_ds_udt: The column UT_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW002 <unspec>:2198: vc_data_bind_ds_udt: The column UT_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW002 <unspec>:2198: vc_data_bind_ds_udt: The column UT_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW002 <unspec>:2198: vc_data_bind_ds_udt: The column UT_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW002 <unspec>:2198: vc_data_bind_ds_udt: The column UT_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW002 <unspec>:2198: vc_data_bind_ds_udt: The column UT_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW001 <unspec>:2198: vc_data_bind_ds_udt: Local declaration of inx shadows a definition of the same name
+10:37:08 ERRS_0 01V01 QW001 <unspec>:2198: vc_data_bind_ds_udt: Local declaration of control shadows a definition of the same name
+10:37:08 ERRS_0 01V01 QW002 The column KEY_TABLE in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW002 The column KEY_TABLE in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW002 The column KEY_TABLE in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW002 The column KEY_TABLE in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW002 The column KEY_TABLE in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW002 The column V_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW002 The column V_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW002 The column V_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW002 The column V_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW002 The column V_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW002 The column P_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW002 The column P_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW002 The column P_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW002 The column P_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW002 The column P_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW002 The column P_TYPE in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW002 The column P_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW002 The column UT_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW002 The column UT_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW002 The column UT_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW002 The column UT_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW002 The column UT_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW002 The column UT_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:08 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+10:37:08 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+10:37:08 ERRS_0 01V01 QW004 Incompatible types INSTANCE DB.DBA.vspx_data_set (254) and INSTANCE DB.DBA.vspx_control (254) in := for ds and control
+10:37:08 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+10:37:08 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+10:37:08 ERRS_0 01V01 QW004 Incompatible types INSTANCE DB.DBA.vspx_data_set (254) and INSTANCE DB.DBA.vspx_control (254) in := for ds and control
+10:37:08 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+10:37:08 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+10:37:08 ERRS_0 01V01 QW004 Incompatible types INSTANCE DB.DBA.vspx_data_set (254) and INSTANCE DB.DBA.vspx_control (254) in := for ds and control
+10:37:08 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+10:37:08 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+10:37:08 ERRS_0 01V01 QW004 Incompatible types INSTANCE DB.DBA.vspx_data_set (254) and INSTANCE DB.DBA.vspx_control (254) in := for ds and control
+10:37:08 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+10:37:08 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+10:37:08 ERRS_0 01V01 QW001 Local declaration of inx shadows a definition of the same name
+10:37:12 ERRS_0 42000 UD021 No user defined class DB.DBA.page_30544eca16c0d57bfe635b34c8439526VAD_conductor_hosted__page_vspx
+10:37:12 ERRS_0 01V01 QW001 Local declaration of mask shadows a definition of the same name
+10:37:12 ERRS_0 01V01 QW002 The column _type in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:12 ERRS_0 01V01 QW002 The column _class in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:12 ERRS_0 01V01 QW008 Invalid = comparison operation argument ve_button type INSTANCE (254)
+10:37:12 ERRS_0 01V01 QW004 Incompatible types INTEGER (189) and INSTANCE DB.DBA.vspx_control (254) in = for <constant> and ve_button
+10:37:12 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+10:37:12 ERRS_0 01V01 QW001 Local declaration of mask shadows a definition of the same name
+10:37:12 ERRS_0 01V01 QW002 The column _class in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:12 ERRS_0 01V01 QW008 Invalid = comparison operation argument ve_button type INSTANCE (254)
+10:37:12 ERRS_0 01V01 QW004 Incompatible types INTEGER (189) and INSTANCE DB.DBA.vspx_control (254) in = for <constant> and ve_button
+10:37:12 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+10:37:12 ERRS_0 01V01 QW001 Local declaration of params shadows a definition of the same name
+10:37:12 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+10:37:12 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+10:37:12 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+10:37:12 ERRS_0 01V01 QW002 <unspec>:7239: vc_render_template3: The column _class in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:12 ERRS_0 01V01 QW001 <unspec>:7239: vc_render_template3: Local declaration of _class shadows a definition of the same name
+10:37:12 ERRS_0 01V01 QW002 <unspec>:7278: vc_render_template3: The column _class in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:12 ERRS_0 01V01 QW002 <unspec>:7278: vc_render_template3: The column _class in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:37:12 ERRS_0 01V01 QW001 <unspec>:7278: vc_render_template3: Local declaration of _class shadows a definition of the same name
+10:37:19 ERRS_0 42000 UD021 No user defined class DB.DBA.page_2b05642eae471c8ff246e94fd2fde30aV_VAD_conductor_isql__main_vspx
+10:37:19 ERRS_0 01V01 QW004 Incompatible types INTEGER (189) and VARCHAR (182) in = for <constant> and gen_table_sel
+10:37:19 ERRS_0 01V01 QW004 Incompatible types INTEGER (189) and VARCHAR (182) in = for <constant> and load_sql
+10:37:19 ERRS_0 01V01 QW008 Invalid = comparison operation argument ve_button type INSTANCE (254)
+10:37:19 ERRS_0 01V01 QW008 Invalid = comparison operation argument control type INSTANCE (254)
+10:37:19 ERRS_0 01V01 QW008 Invalid = comparison operation argument ve_initiator type INSTANCE (254)
+10:37:19 ERRS_0 01V01 QW008 Invalid = comparison operation argument src_type type INSTANCE (254)
+10:37:19 ERRS_0 01V01 QW008 Invalid = comparison operation argument ve_button type INSTANCE (254)
+10:37:19 ERRS_0 01V01 QW008 Invalid = comparison operation argument control type INSTANCE (254)
+10:37:19 ERRS_0 01V01 QW008 Invalid = comparison operation argument ve_initiator type INSTANCE (254)
+10:37:19 ERRS_0 01V01 QW008 Invalid = comparison operation argument src_utype type INSTANCE (254)
+10:37:19 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+10:37:23 ERRS_0 42000 UD021 No user defined class DB.DBA.page_fb13bcc65ac3cb570552ff923b07dffe_conductor_popup2__browser_vspx
+10:37:23 ERRS_0 01V01 QW001 Local declaration of curpath2 shadows a definition of the same name
+10:37:23 ERRS_0 01V01 QW001 Local declaration of filter2 shadows a definition of the same name
+10:37:23 ERRS_0 01V01 QW001 Local declaration of show_details shadows a definition of the same name
+10:37:23 ERRS_0 01V01 QW001 Local declaration of ord shadows a definition of the same name
+10:37:23 ERRS_0 01V01 QW001 Local declaration of ordseq shadows a definition of the same name
+10:37:23 ERRS_0 01V01 QW008 Invalid = comparison operation argument ve_button type INSTANCE (254)
+10:37:23 ERRS_0 01V01 QW004 Incompatible types INTEGER (189) and INSTANCE DB.DBA.vspx_control (254) in = for <constant> and ve_button
+10:37:23 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+10:37:23 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+10:37:23 ERRS_0 01V01 QW004 Incompatible types INSTANCE DB.DBA.vspx_data_set (254) and INSTANCE DB.DBA.vspx_control (254) in := for ds and control
+10:37:23 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+10:37:50 ERRS_0 01V01 QW001 Local declaration of state shadows a definition of the same name
+10:37:50 ERRS_0 42001 SR185 Undefined procedure DB.DBA.HELP_BIF_FUNCTIONS.
+10:38:34 ERRS_0 42000 UD021 No user defined class DB.DBA.page_307be8853e4a0620737a5a9d9d976c74conductor_vdb__linked__obj_vspx
+10:38:34 ERRS_0 01V01 QW001 Local declaration of n shadows a definition of the same name
+10:38:34 ERRS_0 01V01 QW001 <unspec>:273: vc_user_post_res_linked_form: Local declaration of i shadows a definition of the same name
+10:38:34 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+10:38:35 ERRS_0 42000 UD021 No user defined class DB.DBA.page_e12a7c47aff19feed1a338f42ff499cf_VAD_conductor_import__csv_vspx
+10:38:35 ERRS_0 01V01 QW001 Local declaration of path shadows a definition of the same name
+10:38:35 ERRS_0 01V01 QW001 Local declaration of ret shadows a definition of the same name
+10:38:35 ERRS_0 01V01 QW001 Local declaration of tb shadows a definition of the same name
+10:38:35 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+10:38:39 ERRS_0 42000 UD021 No user defined class DB.DBA.page_d98d0955edf3a65d8adf3a0269ee5b37D_conductor_soap__services_vspx
+10:38:39 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+10:38:39 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+10:38:39 ERRS_0 01V01 QW001 Local declaration of inx shadows a definition of the same name
+10:38:41 ERRS_0 42000 UD021 No user defined class DB.DBA.page_5fa3eb660e5300be31cd870413224e91DAV_VAD_conductor_xml__sql_vspx
+10:38:41 ERRS_0 01V01 QW001 Local declaration of path shadows a definition of the same name
+10:38:41 ERRS_0 01V01 QW001 Local declaration of lexems shadows a definition of the same name
+10:38:41 ERRS_0 01V01 QW008 Invalid = comparison operation argument ve_button type INSTANCE (254)
+10:38:41 ERRS_0 01V01 QW008 Invalid = comparison operation argument control type INSTANCE (254)
+10:38:41 ERRS_0 01V01 QW008 Invalid = comparison operation argument ve_initiator type INSTANCE (254)
+10:38:41 ERRS_0 01V01 QW008 Invalid = comparison operation argument apply_mapping_schema type INSTANCE (254)
+10:38:41 ERRS_0 01V01 QW008 Invalid = comparison operation argument query_text type LONG VARCHAR (125)
+10:38:41 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+10:38:41 ERRS_0 01V01 QW002 <unspec>:10654: vc_render_for_xml_query_list_template: The column PROP_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:38:41 ERRS_0 01V01 QW002 <unspec>:10654: vc_render_for_xml_query_list_template: The column PROP_NAME in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:38:43 ERRS_0 42000 UD021 No user defined class DB.DBA.page_daf94d896c312af02ee2b90bd5edd91bV_VAD_conductor_cont__page_vspx
+10:38:43 ERRS_0 01V01 QW001 Local declaration of p0 shadows a definition of the same name
+10:38:43 ERRS_0 01V01 QW008 Invalid = comparison operation argument ve_button type INSTANCE (254)
+10:38:43 ERRS_0 01V01 QW004 Incompatible types INTEGER (189) and INSTANCE DB.DBA.vspx_control (254) in = for <constant> and ve_button
+10:38:43 ERRS_0 01V01 QW001 <unspec>:2198: vc_data_bind_ds_versions: Local declaration of inx shadows a definition of the same name
+10:38:43 ERRS_0 01V01 QW001 <unspec>:2198: vc_data_bind_ds_versions: Local declaration of control shadows a definition of the same name
+10:38:43 ERRS_0 01V01 QW008 Invalid = comparison operation argument ve_button type INSTANCE (254)
+10:38:43 ERRS_0 01V01 QW004 Incompatible types INTEGER (189) and INSTANCE DB.DBA.vspx_control (254) in = for <constant> and ve_button
+10:38:43 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+10:38:43 ERRS_0 01V01 QW008 Invalid = comparison operation argument ve_button type INSTANCE (254)
+10:38:43 ERRS_0 01V01 QW004 Incompatible types INTEGER (189) and INSTANCE DB.DBA.vspx_control (254) in = for <constant> and ve_button
+10:38:43 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+10:38:43 ERRS_0 01V01 QW002 The column VS_DESCR in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:38:43 ERRS_0 01V01 QW002 The column VS_HOST in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:38:43 ERRS_0 01V01 QW002 The column VS_URL in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:38:43 ERRS_0 01V01 QW002 The column VS_ROOT in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:38:43 ERRS_0 01V01 QW002 The column VS_ID in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:38:43 ERRS_0 01V01 QW008 Invalid = comparison operation argument ve_button type INSTANCE (254)
+10:38:43 ERRS_0 01V01 QW004 Incompatible types INTEGER (189) and INSTANCE DB.DBA.vspx_control (254) in = for <constant> and ve_button
+10:38:43 ERRS_0 01V01 QW002 <unspec>:2198: vc_data_bind_data_set2: The column VS_DESCR in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:38:43 ERRS_0 01V01 QW002 <unspec>:2198: vc_data_bind_data_set2: The column VS_HOST in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:38:43 ERRS_0 01V01 QW002 <unspec>:2198: vc_data_bind_data_set2: The column VS_URL in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:38:43 ERRS_0 01V01 QW002 <unspec>:2198: vc_data_bind_data_set2: The column VS_ROOT in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:38:43 ERRS_0 01V01 QW002 <unspec>:2198: vc_data_bind_data_set2: The column VS_ID in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:38:43 ERRS_0 01V01 QW001 <unspec>:2198: vc_data_bind_data_set2: Local declaration of inx shadows a definition of the same name
+10:38:43 ERRS_0 01V01 QW001 <unspec>:2198: vc_data_bind_data_set2: Local declaration of control shadows a definition of the same name
+10:38:43 ERRS_0 01V01 QW001 Local declaration of params shadows a definition of the same name
+10:38:43 ERRS_0 01V01 QW008 Invalid = comparison operation argument ve_button type INSTANCE (254)
+10:38:43 ERRS_0 01V01 QW004 Incompatible types INTEGER (189) and INSTANCE DB.DBA.vspx_control (254) in = for <constant> and ve_button
+10:38:43 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+10:38:43 ERRS_0 01V01 QW002 The column VS_DESCR in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:38:43 ERRS_0 01V01 QW002 The column VS_HOST in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:38:43 ERRS_0 01V01 QW002 The column VS_URL in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:38:43 ERRS_0 01V01 QW002 The column VS_ROOT in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:38:43 ERRS_0 01V01 QW002 The column VS_ID in an SQL statement shadows the local variable of the same name.Either qualify the the column reference or use the AS to rename it
+10:38:43 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+10:38:43 ERRS_0 01V01 QW001 <unspec>:-23433: vc_render_inx_form: Local declaration of V shadows a definition of the same name
+10:38:43 ERRS_0 01V01 QW004 Incompatible types INSTANCE DB.DBA.vspx_data_set (254) and INSTANCE DB.DBA.vspx_control (254) in := for callretSearchedCASE and control.vc_find_parent
+10:38:43 ERRS_0 01V01 QW004 Incompatible types INSTANCE DB.DBA.vspx_data_set (254) and INSTANCE DB.DBA.vspx_control (254) in := for callretSearchedCASE and control.vc_find_parent
+10:38:43 ERRS_0 01V01 QW004 <unspec>:-23020: vc_render_ctrl_id0x7f5b50c5dc68: Incompatible types INTEGER (189) and VARCHAR (182) in := for callretSearchedCASE and <constant>
+10:38:43 ERRS_0 01V01 QW004 <unspec>:-23020: vc_render_ctrl_id0x7f5b50c5dc68: Incompatible types INTEGER (189) and VARCHAR (182) in := for callretSearchedCASE and <constant>
+10:38:43 ERRS_0 01V01 QW004 <unspec>:-23020: vc_render_ctrl_id0x7f5b50c5dc68: Incompatible types INTEGER (189) and VARCHAR (182) in := for callretSearchedCASE and <constant>
+10:38:43 ERRS_0 01V01 QW004 <unspec>:-23020: vc_render_ctrl_id0x7f5b50c5dc68: Incompatible types INTEGER (189) and VARCHAR (182) in := for callretSearchedCASE and <constant>
+10:38:43 ERRS_0 01V01 QW001 <unspec>:-22796: vc_render_template_03: Local declaration of N shadows a definition of the same name
+10:38:43 ERRS_0 01V01 QW001 Local declaration of _keys shadows a definition of the same name
+10:38:43 ERRS_0 01V01 QW001 <unspec>:-20303: vc_render_src_17: Local declaration of _oauth shadows a definition of the same name
+10:38:43 ERRS_0 01V01 QW001 Local declaration of _keys shadows a definition of the same name
+10:38:43 ERRS_0 01V01 QW001 <unspec>:-19837: vc_render_src_21: Local declaration of _oauth shadows a definition of the same name
+10:38:43 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+10:38:43 ERRS_0 01V01 QW004 Incompatible types INSTANCE DB.DBA.vspx_data_set (254) and INSTANCE DB.DBA.vspx_control (254) in := for ds and control
+10:38:43 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+10:38:43 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+10:38:43 ERRS_0 01V01 QW004 Incompatible types INSTANCE DB.DBA.vspx_data_set (254) and INSTANCE DB.DBA.vspx_control (254) in := for ds and control
+10:38:43 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+10:38:43 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+10:38:43 ERRS_0 01V01 QW004 Incompatible types INSTANCE DB.DBA.vspx_data_set (254) and INSTANCE DB.DBA.vspx_control (254) in := for ds and control
+10:38:43 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+10:38:43 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+10:38:43 ERRS_0 01V01 QW004 Incompatible types INSTANCE DB.DBA.vspx_data_set (254) and INSTANCE DB.DBA.vspx_control (254) in := for ds and control
+10:38:43 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+10:38:43 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+10:38:43 ERRS_0 01V01 QW004 Incompatible types INSTANCE DB.DBA.vspx_data_set (254) and INSTANCE DB.DBA.vspx_control (254) in := for ds and control
+10:38:43 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+10:38:43 ERRS_0 S0002 SQ200 No table ODRIVE.WA.SETTINGS
+10:38:43 ERRS_0 42S02 SQ096 No table ODRIVE.WA.SETTINGS.
+10:38:43 ERRS_0 HY008 SR203 Async statement killed by SQLCancel.
+10:38:43 ERRS_0 S1T00 {CLI.. Client cancelled or disconnected
+10:38:43 ERRS_0 40001 SR337 Transaction aborted due to async rollback in cluster
+10:38:43 ERRS_0 S1T00 {CLI.. Client cancelled or disconnected
+10:38:43 ERRS_0 40001 SR337 Transaction aborted due to async rollback in cluster
+10:38:43 ERRS_0 40001 SR337 Transaction aborted due to async rollback in cluster
+
+		Tue Aug 01 2023
+10:42:43 OpenLink Virtuoso Universal Server
+10:42:43 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+10:42:43 uses OpenSSL 1.0.2n  7 Dec 2017
+10:42:43 uses parts of PCRE, Html Tidy
+10:42:43 Database version 3126
+10:42:43 SQL Optimizer enabled (max 1000 layouts)
+10:42:44 Compiler unit is timed at 0.000096 msec
+10:42:44 Roll forward started
+10:42:44 Roll forward complete
+10:42:44 Checkpoint started
+10:42:44 Checkpoint finished, log reused
+10:42:44 HTTP/WebDAV server online at 8890
+10:42:44 Server online at 1111 (pid 1)
+10:46:52 Server received signal 15
+10:46:52 Initiating quick shutdown
+10:46:52 Server shutdown complete
+
+		Tue Aug 01 2023
+10:47:09 OpenLink Virtuoso Universal Server
+10:47:09 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+10:47:09 uses OpenSSL 1.0.2n  7 Dec 2017
+10:47:09 uses parts of PCRE, Html Tidy
+10:47:09 Database version 3126
+10:47:09 SQL Optimizer enabled (max 1000 layouts)
+10:47:10 Compiler unit is timed at 0.000086 msec
+10:47:10 Roll forward started
+10:47:10 Roll forward complete
+10:47:11 Checkpoint started
+10:47:11 Checkpoint finished, log reused
+10:47:11 HTTP/WebDAV server online at 8890
+10:47:11 Server online at 1111 (pid 1)
+
+		Tue Aug 01 2023
+10:59:19 OpenLink Virtuoso Universal Server
+10:59:19 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+10:59:19 uses OpenSSL 1.0.2n  7 Dec 2017
+10:59:19 uses parts of PCRE, Html Tidy
+10:59:19 Database version 3126
+10:59:19 SQL Optimizer enabled (max 1000 layouts)
+10:59:20 Compiler unit is timed at 0.000086 msec
+10:59:20 Roll forward started
+10:59:20 Roll forward complete
+10:59:21 Checkpoint started
+10:59:21 Checkpoint finished, log reused
+10:59:21 HTTP/WebDAV server online at 8890
+10:59:21 Server online at 1111 (pid 1)
+11:00:45 Server received signal 15
+11:00:45 Initiating quick shutdown
+11:00:45 Server shutdown complete
+
+		Tue Aug 01 2023
+11:05:29 OpenLink Virtuoso Universal Server
+11:05:29 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+11:05:29 uses OpenSSL 1.0.2n  7 Dec 2017
+11:05:29 uses parts of PCRE, Html Tidy
+11:05:29 Database version 3126
+11:05:29 SQL Optimizer enabled (max 1000 layouts)
+11:05:30 Compiler unit is timed at 0.000089 msec
+11:05:31 Roll forward started
+11:05:31 Roll forward complete
+11:05:31 Checkpoint started
+11:05:31 Checkpoint finished, log reused
+11:05:31 HTTP/WebDAV server online at 8890
+11:05:31 Server online at 1111 (pid 1)
+
+		Tue Aug 01 2023
+11:24:16 OpenLink Virtuoso Universal Server
+11:24:16 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+11:24:16 uses OpenSSL 1.0.2n  7 Dec 2017
+11:24:16 uses parts of PCRE, Html Tidy
+11:24:16 Database version 3126
+11:24:16 SQL Optimizer enabled (max 1000 layouts)
+11:24:17 Compiler unit is timed at 0.000086 msec
+11:24:17 Roll forward started
+11:24:17 Roll forward complete
+11:24:17 Checkpoint started
+11:24:17 Checkpoint finished, log reused
+11:24:19 HTTP/WebDAV server online at 8890
+11:24:19 Server online at 1111 (pid 1)
+
+		Tue Aug 01 2023
+11:37:41 OpenLink Virtuoso Universal Server
+11:37:41 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+11:37:41 uses OpenSSL 1.0.2n  7 Dec 2017
+11:37:41 uses parts of PCRE, Html Tidy
+11:37:41 Database version 3126
+11:37:41 SQL Optimizer enabled (max 1000 layouts)
+11:37:42 Compiler unit is timed at 0.000086 msec
+11:37:42 Roll forward started
+11:37:42 Roll forward complete
+11:37:42 Checkpoint started
+11:37:42 Checkpoint finished, log reused
+11:37:42 HTTP/WebDAV server online at 8890
+11:37:42 Server online at 1111 (pid 1)
+
+		Tue Aug 01 2023
+11:40:43 OpenLink Virtuoso Universal Server
+11:40:43 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+11:40:43 uses OpenSSL 1.0.2n  7 Dec 2017
+11:40:43 uses parts of PCRE, Html Tidy
+11:40:43 Database version 3126
+11:40:43 SQL Optimizer enabled (max 1000 layouts)
+11:40:44 Compiler unit is timed at 0.000105 msec
+11:40:45 Roll forward started
+11:40:45 Roll forward complete
+11:40:45 Checkpoint started
+11:40:45 Checkpoint finished, log reused
+11:40:47 HTTP/WebDAV server online at 8890
+11:40:47 Server online at 1111 (pid 1)
+
+		Tue Aug 01 2023
+11:45:59 OpenLink Virtuoso Universal Server
+11:45:59 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+11:45:59 uses OpenSSL 1.0.2n  7 Dec 2017
+11:45:59 uses parts of PCRE, Html Tidy
+11:45:59 Database version 3126
+11:45:59 SQL Optimizer enabled (max 1000 layouts)
+11:46:00 Compiler unit is timed at 0.000087 msec
+11:46:00 Roll forward started
+11:46:00 Roll forward complete
+11:46:01 Checkpoint started
+11:46:01 Checkpoint finished, log reused
+11:46:01 HTTP/WebDAV server online at 8890
+11:46:01 Server online at 1111 (pid 1)
+
+		Tue Aug 01 2023
+11:50:08 OpenLink Virtuoso Universal Server
+11:50:08 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+11:50:08 uses OpenSSL 1.0.2n  7 Dec 2017
+11:50:08 uses parts of PCRE, Html Tidy
+11:50:08 Database version 3126
+11:50:08 SQL Optimizer enabled (max 1000 layouts)
+11:50:09 Compiler unit is timed at 0.000105 msec
+11:50:09 Roll forward started
+11:50:09 Roll forward complete
+11:50:10 Checkpoint started
+11:50:10 Checkpoint finished, log reused
+11:50:12 HTTP/WebDAV server online at 8890
+11:50:12 Server online at 1111 (pid 1)
+
+		Tue Aug 01 2023
+11:51:23 OpenLink Virtuoso Universal Server
+11:51:23 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+11:51:23 uses OpenSSL 1.0.2n  7 Dec 2017
+11:51:23 uses parts of PCRE, Html Tidy
+11:51:23 Database version 3126
+11:51:23 SQL Optimizer enabled (max 1000 layouts)
+11:51:24 Compiler unit is timed at 0.000090 msec
+11:51:25 Roll forward started
+11:51:25 Roll forward complete
+11:51:25 Checkpoint started
+11:51:25 Checkpoint finished, log reused
+11:51:25 HTTP/WebDAV server online at 8890
+11:51:25 Server online at 1111 (pid 1)
+
+		Tue Aug 01 2023
+11:53:25 OpenLink Virtuoso Universal Server
+11:53:25 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+11:53:25 uses OpenSSL 1.0.2n  7 Dec 2017
+11:53:25 uses parts of PCRE, Html Tidy
+11:53:25 Database version 3126
+11:53:25 SQL Optimizer enabled (max 1000 layouts)
+11:53:26 Compiler unit is timed at 0.000101 msec
+11:53:26 Roll forward started
+11:53:26 Roll forward complete
+11:53:26 Checkpoint started
+11:53:26 Checkpoint finished, log reused
+11:53:26 HTTP/WebDAV server online at 8890
+11:53:26 Server online at 1111 (pid 1)
+
+		Tue Aug 01 2023
+11:54:08 OpenLink Virtuoso Universal Server
+11:54:08 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+11:54:08 uses OpenSSL 1.0.2n  7 Dec 2017
+11:54:08 uses parts of PCRE, Html Tidy
+11:54:08 Database version 3126
+11:54:08 SQL Optimizer enabled (max 1000 layouts)
+11:54:09 Compiler unit is timed at 0.000088 msec
+11:54:09 Roll forward started
+11:54:09 Roll forward complete
+11:54:10 Checkpoint started
+11:54:10 Checkpoint finished, log reused
+11:54:12 HTTP/WebDAV server online at 8890
+11:54:12 Server online at 1111 (pid 1)
+
+		Tue Aug 01 2023
+11:56:40 OpenLink Virtuoso Universal Server
+11:56:40 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+11:56:40 uses OpenSSL 1.0.2n  7 Dec 2017
+11:56:40 uses parts of PCRE, Html Tidy
+11:56:40 Database version 3126
+11:56:40 SQL Optimizer enabled (max 1000 layouts)
+11:56:41 Compiler unit is timed at 0.000104 msec
+11:56:41 Roll forward started
+11:56:41 Roll forward complete
+11:56:42 Checkpoint started
+11:56:42 Checkpoint finished, log reused
+11:56:44 HTTP/WebDAV server online at 8890
+11:56:44 Server online at 1111 (pid 1)
+12:47:28 ERRS_0 HY008 SR203 Async statement killed by SQLCancel.
+12:47:28 ERRS_0 S1T00 {CLI.. Client cancelled or disconnected
+12:47:28 ERRS_0 40001 SR337 Transaction aborted due to async rollback in cluster
+12:47:28 ERRS_0 S1T00 {CLI.. Client cancelled or disconnected
+12:47:28 ERRS_0 40001 SR337 Transaction aborted due to async rollback in cluster
+12:47:28 ERRS_0 40001 SR337 Transaction aborted due to async rollback in cluster
+
+		Tue Aug 01 2023
+12:49:24 OpenLink Virtuoso Universal Server
+12:49:24 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+12:49:24 uses OpenSSL 1.0.2n  7 Dec 2017
+12:49:24 uses parts of PCRE, Html Tidy
+12:49:24 Database version 3126
+12:49:24 SQL Optimizer enabled (max 1000 layouts)
+12:49:25 Compiler unit is timed at 0.000088 msec
+12:49:26 Roll forward started
+12:49:26 Roll forward complete
+12:49:26 Checkpoint started
+12:49:26 Checkpoint finished, log reused
+12:49:26 HTTP/WebDAV server online at 8890
+12:49:26 Server online at 1111 (pid 1)
+
+		Tue Aug 01 2023
+12:51:38 OpenLink Virtuoso Universal Server
+12:51:38 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+12:51:38 uses OpenSSL 1.0.2n  7 Dec 2017
+12:51:38 uses parts of PCRE, Html Tidy
+12:51:38 Database version 3126
+12:51:38 SQL Optimizer enabled (max 1000 layouts)
+12:51:39 Compiler unit is timed at 0.000087 msec
+12:51:40 Roll forward started
+12:51:40 Roll forward complete
+12:51:40 Checkpoint started
+12:51:40 Checkpoint finished, log reused
+12:51:40 HTTP/WebDAV server online at 8890
+12:51:40 Server online at 1111 (pid 1)
+
+		Tue Aug 01 2023
+13:08:27 OpenLink Virtuoso Universal Server
+13:08:27 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+13:08:27 uses OpenSSL 1.0.2n  7 Dec 2017
+13:08:27 uses parts of PCRE, Html Tidy
+13:08:27 Database version 3126
+13:08:27 SQL Optimizer enabled (max 1000 layouts)
+13:08:28 Compiler unit is timed at 0.000087 msec
+13:08:28 Roll forward started
+13:08:28 Roll forward complete
+13:08:28 Checkpoint started
+13:08:28 Checkpoint finished, log reused
+13:08:28 HTTP/WebDAV server online at 8890
+13:08:28 Server online at 1111 (pid 1)
+
+		Tue Aug 01 2023
+13:08:47 OpenLink Virtuoso Universal Server
+13:08:47 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+13:08:47 uses OpenSSL 1.0.2n  7 Dec 2017
+13:08:47 uses parts of PCRE, Html Tidy
+13:08:47 Database version 3126
+13:08:47 SQL Optimizer enabled (max 1000 layouts)
+13:08:48 Compiler unit is timed at 0.000088 msec
+13:08:48 Roll forward started
+13:08:48 Roll forward complete
+13:08:48 Checkpoint started
+13:08:48 Checkpoint finished, log reused
+13:08:48 HTTP/WebDAV server online at 8890
+13:08:48 Server online at 1111 (pid 1)
+
+		Tue Aug 01 2023
+13:12:30 OpenLink Virtuoso Universal Server
+13:12:30 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+13:12:30 uses OpenSSL 1.0.2n  7 Dec 2017
+13:12:30 uses parts of PCRE, Html Tidy
+13:12:30 Database version 3126
+13:12:30 SQL Optimizer enabled (max 1000 layouts)
+13:12:31 Compiler unit is timed at 0.000086 msec
+13:12:31 Roll forward started
+13:12:31 Roll forward complete
+13:12:32 Checkpoint started
+13:12:32 Checkpoint finished, log reused
+13:12:32 HTTP/WebDAV server online at 8890
+13:12:32 Server online at 1111 (pid 1)
+
+		Tue Aug 01 2023
+13:14:44 OpenLink Virtuoso Universal Server
+13:14:44 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+13:14:44 uses OpenSSL 1.0.2n  7 Dec 2017
+13:14:44 uses parts of PCRE, Html Tidy
+13:14:44 Database version 3126
+13:14:44 SQL Optimizer enabled (max 1000 layouts)
+13:14:45 Compiler unit is timed at 0.000091 msec
+13:14:45 Roll forward started
+13:14:45 Roll forward complete
+13:14:46 Checkpoint started
+13:14:46 Checkpoint finished, log reused
+13:14:46 HTTP/WebDAV server online at 8890
+13:14:46 Server online at 1111 (pid 1)
+
+		Tue Aug 01 2023
+13:24:10 OpenLink Virtuoso Universal Server
+13:24:10 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+13:24:10 uses OpenSSL 1.0.2n  7 Dec 2017
+13:24:10 uses parts of PCRE, Html Tidy
+13:24:10 Database version 3126
+13:24:10 SQL Optimizer enabled (max 1000 layouts)
+13:24:11 Compiler unit is timed at 0.000093 msec
+13:24:11 Roll forward started
+13:24:11 Roll forward complete
+13:24:11 Checkpoint started
+13:24:11 Checkpoint finished, log reused
+13:24:11 HTTP/WebDAV server online at 8890
+13:24:11 Server online at 1111 (pid 1)
+
+		Tue Aug 01 2023
+13:37:08 OpenLink Virtuoso Universal Server
+13:37:08 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+13:37:08 uses OpenSSL 1.0.2n  7 Dec 2017
+13:37:08 uses parts of PCRE, Html Tidy
+13:37:08 Database version 3126
+13:37:08 SQL Optimizer enabled (max 1000 layouts)
+13:37:09 Compiler unit is timed at 0.000107 msec
+13:37:10 Roll forward started
+13:37:10 Roll forward complete
+13:37:10 Checkpoint started
+13:37:10 Checkpoint finished, log reused
+13:37:10 HTTP/WebDAV server online at 8890
+13:37:10 Server online at 1111 (pid 1)
+14:37:10 Checkpoint started
+14:37:10 Checkpoint finished, log reused
+
+		Wed Aug 02 2023
+07:39:17 Checkpoint started
+07:39:17 Checkpoint finished, log reused
+
+		Wed Aug 02 2023
+08:02:02 OpenLink Virtuoso Universal Server
+08:02:02 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+08:02:02 uses OpenSSL 1.0.2n  7 Dec 2017
+08:02:02 uses parts of PCRE, Html Tidy
+08:02:02 Database version 3126
+08:02:02 SQL Optimizer enabled (max 1000 layouts)
+08:02:03 Compiler unit is timed at 0.000087 msec
+08:02:03 Roll forward started
+08:02:03 Roll forward complete
+08:02:03 Checkpoint started
+08:02:03 Checkpoint finished, log reused
+08:02:03 HTTP/WebDAV server online at 8890
+08:02:03 Server online at 1111 (pid 1)
+
+		Wed Aug 02 2023
+08:02:30 OpenLink Virtuoso Universal Server
+08:02:30 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+08:02:30 uses OpenSSL 1.0.2n  7 Dec 2017
+08:02:30 uses parts of PCRE, Html Tidy
+08:02:30 Database version 3126
+08:02:30 SQL Optimizer enabled (max 1000 layouts)
+08:02:31 Compiler unit is timed at 0.000098 msec
+08:02:31 Roll forward started
+08:02:31 Roll forward complete
+08:02:32 Checkpoint started
+08:02:32 Checkpoint finished, log reused
+08:02:32 HTTP/WebDAV server online at 8890
+08:02:32 Server online at 1111 (pid 1)
+
+		Wed Aug 02 2023
+08:07:20 OpenLink Virtuoso Universal Server
+08:07:20 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+08:07:20 uses OpenSSL 1.0.2n  7 Dec 2017
+08:07:20 uses parts of PCRE, Html Tidy
+08:07:20 Database version 3126
+08:07:20 SQL Optimizer enabled (max 1000 layouts)
+08:07:21 Compiler unit is timed at 0.000106 msec
+08:07:22 Roll forward started
+08:07:22 Roll forward complete
+08:07:22 Checkpoint started
+08:07:22 Checkpoint finished, log reused
+08:07:22 HTTP/WebDAV server online at 8890
+08:07:22 Server online at 1111 (pid 1)
+
+		Wed Aug 02 2023
+08:14:23 OpenLink Virtuoso Universal Server
+08:14:23 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+08:14:23 uses OpenSSL 1.0.2n  7 Dec 2017
+08:14:23 uses parts of PCRE, Html Tidy
+08:14:23 Database version 3126
+08:14:23 SQL Optimizer enabled (max 1000 layouts)
+08:14:24 Compiler unit is timed at 0.000087 msec
+08:14:25 Roll forward started
+08:14:25 Roll forward complete
+08:14:25 Checkpoint started
+08:14:25 Checkpoint finished, log reused
+08:14:25 HTTP/WebDAV server online at 8890
+08:14:25 Server online at 1111 (pid 1)
+
+		Wed Aug 02 2023
+08:17:42 OpenLink Virtuoso Universal Server
+08:17:42 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+08:17:42 uses OpenSSL 1.0.2n  7 Dec 2017
+08:17:42 uses parts of PCRE, Html Tidy
+08:17:42 Database version 3126
+08:17:42 SQL Optimizer enabled (max 1000 layouts)
+08:17:44 Compiler unit is timed at 0.000091 msec
+08:17:44 Roll forward started
+08:17:44 Roll forward complete
+08:17:44 Checkpoint started
+08:17:44 Checkpoint finished, log reused
+08:17:44 HTTP/WebDAV server online at 8890
+08:17:44 Server online at 1111 (pid 1)
+
+		Wed Aug 02 2023
+08:38:30 OpenLink Virtuoso Universal Server
+08:38:30 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+08:38:30 uses OpenSSL 1.0.2n  7 Dec 2017
+08:38:30 uses parts of PCRE, Html Tidy
+08:38:30 Database version 3126
+08:38:30 SQL Optimizer enabled (max 1000 layouts)
+08:38:31 Compiler unit is timed at 0.000093 msec
+08:38:32 Roll forward started
+08:38:32 Roll forward complete
+08:38:32 Checkpoint started
+08:38:32 Checkpoint finished, log reused
+08:38:32 HTTP/WebDAV server online at 8890
+08:38:32 Server online at 1111 (pid 1)
+09:38:33 Checkpoint started
+09:38:33 Checkpoint finished, log reused
+10:38:34 Checkpoint started
+10:38:34 Checkpoint finished, log reused
+11:38:35 Checkpoint started
+11:38:35 Checkpoint finished, log reused
+
+		Wed Aug 02 2023
+12:08:37 OpenLink Virtuoso Universal Server
+12:08:37 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+12:08:37 uses OpenSSL 1.0.2n  7 Dec 2017
+12:08:37 uses parts of PCRE, Html Tidy
+12:08:37 Database version 3126
+12:08:37 SQL Optimizer enabled (max 1000 layouts)
+12:08:38 Compiler unit is timed at 0.000102 msec
+12:08:39 Roll forward started
+12:08:39 Roll forward complete
+12:08:39 Checkpoint started
+12:08:39 Checkpoint finished, log reused
+12:08:39 HTTP/WebDAV server online at 8890
+12:08:39 Server online at 1111 (pid 1)
+
+		Wed Aug 02 2023
+12:51:14 OpenLink Virtuoso Universal Server
+12:51:14 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+12:51:14 uses OpenSSL 1.0.2n  7 Dec 2017
+12:51:14 uses parts of PCRE, Html Tidy
+12:51:14 Database version 3126
+12:51:14 SQL Optimizer enabled (max 1000 layouts)
+12:51:15 Compiler unit is timed at 0.000092 msec
+12:51:16 Roll forward started
+12:51:16 Roll forward complete
+12:51:16 Checkpoint started
+12:51:16 Checkpoint finished, log reused
+12:51:16 HTTP/WebDAV server online at 8890
+12:51:16 Server online at 1111 (pid 1)
+
+		Wed Aug 02 2023
+13:05:06 OpenLink Virtuoso Universal Server
+13:05:06 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+13:05:06 uses OpenSSL 1.0.2n  7 Dec 2017
+13:05:06 uses parts of PCRE, Html Tidy
+13:05:06 Database version 3126
+13:05:06 SQL Optimizer enabled (max 1000 layouts)
+13:05:07 Compiler unit is timed at 0.000105 msec
+13:05:07 Roll forward started
+13:05:07 Roll forward complete
+13:05:08 Checkpoint started
+13:05:08 Checkpoint finished, log reused
+13:05:08 HTTP/WebDAV server online at 8890
+13:05:08 Server online at 1111 (pid 1)
+
+		Wed Aug 02 2023
+13:09:53 OpenLink Virtuoso Universal Server
+13:09:53 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+13:09:53 uses OpenSSL 1.0.2n  7 Dec 2017
+13:09:53 uses parts of PCRE, Html Tidy
+13:09:53 Database version 3126
+13:09:53 SQL Optimizer enabled (max 1000 layouts)
+13:09:54 Compiler unit is timed at 0.000099 msec
+13:09:55 Roll forward started
+13:09:55 Roll forward complete
+13:09:55 Checkpoint started
+13:09:55 Checkpoint finished, log reused
+13:09:55 HTTP/WebDAV server online at 8890
+13:09:55 Server online at 1111 (pid 1)
+
+		Wed Aug 02 2023
+13:25:54 OpenLink Virtuoso Universal Server
+13:25:54 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+13:25:54 uses OpenSSL 1.0.2n  7 Dec 2017
+13:25:54 uses parts of PCRE, Html Tidy
+13:25:54 Database version 3126
+13:25:54 SQL Optimizer enabled (max 1000 layouts)
+13:25:55 Compiler unit is timed at 0.000087 msec
+13:25:55 Roll forward started
+13:25:55 Roll forward complete
+13:25:56 Checkpoint started
+13:25:56 Checkpoint finished, log reused
+13:25:56 HTTP/WebDAV server online at 8890
+13:25:56 Server online at 1111 (pid 1)
+
+		Wed Aug 02 2023
+13:27:40 OpenLink Virtuoso Universal Server
+13:27:40 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+13:27:40 uses OpenSSL 1.0.2n  7 Dec 2017
+13:27:40 uses parts of PCRE, Html Tidy
+13:27:40 Database version 3126
+13:27:40 SQL Optimizer enabled (max 1000 layouts)
+
+		Wed Aug 02 2023
+13:27:45 OpenLink Virtuoso Universal Server
+13:27:45 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+13:27:45 uses OpenSSL 1.0.2n  7 Dec 2017
+13:27:45 uses parts of PCRE, Html Tidy
+13:27:45 Database version 3126
+13:27:45 SQL Optimizer enabled (max 1000 layouts)
+13:27:46 Compiler unit is timed at 0.000088 msec
+13:27:47 Roll forward started
+13:27:47 Roll forward complete
+13:27:47 Checkpoint started
+13:27:47 Checkpoint finished, log reused
+13:27:47 HTTP/WebDAV server online at 8890
+13:27:47 Server online at 1111 (pid 1)
+
+		Wed Aug 02 2023
+13:48:41 OpenLink Virtuoso Universal Server
+13:48:41 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+13:48:41 uses OpenSSL 1.0.2n  7 Dec 2017
+13:48:41 uses parts of PCRE, Html Tidy
+13:48:41 Database version 3126
+13:48:41 SQL Optimizer enabled (max 1000 layouts)
+13:48:42 Compiler unit is timed at 0.000086 msec
+13:48:42 Roll forward started
+13:48:42 Roll forward complete
+13:48:42 Checkpoint started
+13:48:42 Checkpoint finished, log reused
+13:48:45 HTTP/WebDAV server online at 8890
+13:48:45 Server online at 1111 (pid 1)
+
+		Wed Aug 02 2023
+13:54:17 OpenLink Virtuoso Universal Server
+13:54:17 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+13:54:17 uses OpenSSL 1.0.2n  7 Dec 2017
+13:54:17 uses parts of PCRE, Html Tidy
+13:54:17 Database version 3126
+13:54:17 SQL Optimizer enabled (max 1000 layouts)
+13:54:18 Compiler unit is timed at 0.000089 msec
+13:54:18 Roll forward started
+13:54:18 Roll forward complete
+13:54:19 Checkpoint started
+13:54:19 Checkpoint finished, log reused
+13:54:21 HTTP/WebDAV server online at 8890
+13:54:21 Server online at 1111 (pid 1)
+
+		Thu Aug 03 2023
+06:38:55 Checkpoint started
+06:38:55 Checkpoint finished, log reused
+07:38:55 Checkpoint started
+07:38:55 Checkpoint finished, log reused
+
+		Thu Aug 03 2023
+08:39:03 OpenLink Virtuoso Universal Server
+08:39:03 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+08:39:03 uses OpenSSL 1.0.2n  7 Dec 2017
+08:39:03 uses parts of PCRE, Html Tidy
+08:39:03 Database version 3126
+08:39:03 SQL Optimizer enabled (max 1000 layouts)
+08:39:04 Compiler unit is timed at 0.000086 msec
+08:39:04 Roll forward started
+08:39:04 Roll forward complete
+08:39:04 Checkpoint started
+08:39:04 Checkpoint finished, log reused
+08:39:04 HTTP/WebDAV server online at 8890
+08:39:04 Server online at 1111 (pid 1)
+08:57:41 Server received signal 15
+08:57:41 Initiating quick shutdown
+08:57:41 Server shutdown complete
+
+		Thu Aug 03 2023
+09:09:34 OpenLink Virtuoso Universal Server
+09:09:34 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+09:09:34 uses OpenSSL 1.0.2n  7 Dec 2017
+09:09:34 uses parts of PCRE, Html Tidy
+09:09:34 Database version 3126
+09:09:34 SQL Optimizer enabled (max 1000 layouts)
+09:09:35 Compiler unit is timed at 0.000091 msec
+09:09:36 Roll forward started
+09:09:36 Roll forward complete
+09:09:36 Checkpoint started
+09:09:36 Checkpoint finished, log reused
+09:09:36 HTTP/WebDAV server online at 8890
+09:09:36 Server online at 1111 (pid 1)
+
+		Thu Aug 03 2023
+09:10:04 OpenLink Virtuoso Universal Server
+09:10:04 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+09:10:04 uses OpenSSL 1.0.2n  7 Dec 2017
+09:10:04 uses parts of PCRE, Html Tidy
+09:10:04 Database version 3126
+09:10:04 SQL Optimizer enabled (max 1000 layouts)
+09:10:05 Compiler unit is timed at 0.000089 msec
+09:10:05 Roll forward started
+09:10:05 Roll forward complete
+09:10:06 Checkpoint started
+09:10:06 Checkpoint finished, log reused
+09:10:08 HTTP/WebDAV server online at 8890
+09:10:08 Server online at 1111 (pid 1)
+
+		Thu Aug 03 2023
+09:15:10 OpenLink Virtuoso Universal Server
+09:15:10 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+09:15:10 uses OpenSSL 1.0.2n  7 Dec 2017
+09:15:10 uses parts of PCRE, Html Tidy
+09:15:10 Database version 3126
+09:15:10 SQL Optimizer enabled (max 1000 layouts)
+09:15:11 Compiler unit is timed at 0.000087 msec
+09:15:12 Roll forward started
+09:15:12 Roll forward complete
+09:15:12 Checkpoint started
+09:15:12 Checkpoint finished, log reused
+09:15:12 HTTP/WebDAV server online at 8890
+09:15:12 Server online at 1111 (pid 1)
+10:15:14 Checkpoint started
+10:15:14 Checkpoint finished, log reused
+10:43:29 Server received signal 15
+10:43:29 Initiating quick shutdown
+10:43:29 Server shutdown complete
+
+		Thu Aug 03 2023
+11:03:38 OpenLink Virtuoso Universal Server
+11:03:38 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+11:03:38 uses OpenSSL 1.0.2n  7 Dec 2017
+11:03:38 uses parts of PCRE, Html Tidy
+11:03:38 Database version 3126
+11:03:38 SQL Optimizer enabled (max 1000 layouts)
+11:03:39 Compiler unit is timed at 0.000089 msec
+11:03:40 Roll forward started
+11:03:40 Roll forward complete
+11:03:40 Checkpoint started
+11:03:40 Checkpoint finished, log reused
+11:03:42 HTTP/WebDAV server online at 8890
+11:03:42 Server online at 1111 (pid 1)
+12:03:43 Checkpoint started
+12:03:43 Checkpoint finished, log reused
+13:03:44 Checkpoint started
+13:03:44 Checkpoint finished, log reused
+
+		Fri Aug 04 2023
+06:09:26 Checkpoint started
+06:09:26 Checkpoint finished, log reused
+07:09:27 Checkpoint started
+07:09:27 Checkpoint finished, log reused
+
+		Fri Aug 04 2023
+07:34:49 OpenLink Virtuoso Universal Server
+07:34:49 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+07:34:49 uses OpenSSL 1.0.2n  7 Dec 2017
+07:34:49 uses parts of PCRE, Html Tidy
+07:34:49 Database version 3126
+07:34:49 SQL Optimizer enabled (max 1000 layouts)
+07:34:50 Compiler unit is timed at 0.000097 msec
+07:34:50 Roll forward started
+07:34:50 Roll forward complete
+07:34:50 Checkpoint started
+07:34:50 Checkpoint finished, log reused
+07:34:50 HTTP/WebDAV server online at 8890
+07:34:50 Server online at 1111 (pid 1)
+08:34:51 Checkpoint started
+08:34:51 Checkpoint finished, log reused
+09:18:51 Server received signal 15
+09:18:51 Initiating quick shutdown
+09:18:51 Server shutdown complete
+
+		Fri Aug 04 2023
+09:41:09 OpenLink Virtuoso Universal Server
+09:41:09 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+09:41:09 uses OpenSSL 1.0.2n  7 Dec 2017
+09:41:09 uses parts of PCRE, Html Tidy
+09:41:09 Database version 3126
+09:41:09 SQL Optimizer enabled (max 1000 layouts)
+09:41:10 Compiler unit is timed at 0.000106 msec
+09:41:10 Roll forward started
+09:41:10 Roll forward complete
+09:41:11 Checkpoint started
+09:41:11 Checkpoint finished, log reused
+09:41:13 HTTP/WebDAV server online at 8890
+09:41:13 Server online at 1111 (pid 1)
+10:41:13 Checkpoint started
+10:41:13 Checkpoint finished, log reused
+
+		Fri Aug 04 2023
+11:13:52 OpenLink Virtuoso Universal Server
+11:13:52 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+11:13:52 uses OpenSSL 1.0.2n  7 Dec 2017
+11:13:52 uses parts of PCRE, Html Tidy
+11:13:52 Database version 3126
+11:13:52 SQL Optimizer enabled (max 1000 layouts)
+11:13:53 Compiler unit is timed at 0.000089 msec
+11:13:53 Roll forward started
+11:13:53 Roll forward complete
+11:13:54 Checkpoint started
+11:13:54 Checkpoint finished, log reused
+11:13:56 HTTP/WebDAV server online at 8890
+11:13:56 Server online at 1111 (pid 1)
