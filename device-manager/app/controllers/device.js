@@ -7,11 +7,15 @@ import { ResourceModel } from '../helpers/resource-models';
 export default class DeviceController extends Controller {
   @tracked newDevice = '';
   @tracked newBrand = '';
-  @tracked channelType = '';
+  @tracked selectedChannel = '';
   @tracked channelCount = '';
   @tracked selectedType = '';
   @tracked listOfTypes = '';
-
+  @tracked allChannels = '';
+  @tracked channelList = '';
+  @tracked message = '';
+  @tracked typeIsSelected = false;
+  @tracked hasData = false;
 
   @service store;
 
@@ -21,57 +25,72 @@ export default class DeviceController extends Controller {
 
   async init() {
     super.init();
-
     try {
-      this.listOfTypes = await this.store.findAll('devicetype');
+      this.listOfTypes = await this.store.findAll(ResourceModel.DEVICETYPE);
+      this.allChannels = await this.store.findAll(ResourceModel.CHANNEL);
     } catch (e) {
-      console.error('Error fetching types:', e);
+      this.message = 'Error fetching types:' + e;
+      this.showBlock('errorMessage')
     }
-
-    // try {
-    //   this.recipes = await this.store.findAll('recipe');
-    // } catch (e) {
-    //   console.error('Error fetching restaurants:', e);
-    // }
   }
 
   @action
-  async updateLinkedType()
-  {
-    const type = this.store
-      .peekRecord(ResourceModel.DEVICETYPE, this.selectedType.id)
-      //this.store.peekRecord("devicetype", typeid);
-
-      return type;
-
+  async updateLinkedType(type) {
+    console.log('this: ' + type.id);
   }
-
-
 
   @action
   async createDevice(event) {
     event.preventDefault();
-        // create the new device
-    const device = this.store.createRecord('device', {
+    if(!this.typeIsSelected){
+      this.message = 'There was no type selected. Please select a type for your device';
+      this.showBlock('typeMissingError');
+      return;
+    }
+    // create the new device
+    const device = await this.store.createRecord(ResourceModel.DEVICE, {
       model: this.newDevice,
       brand: this.newBrand,
-      channeltype: this.channelType,
-      channels: this.channelCount
     });
-    
-    device.type = this.selectedType;
-    device.save();
+    device.deviceType = this.selectedType;
+    console.log(this.channelList);
+
+    device.channels = this.channelList;
+
+    try {
+      await device.save();
+      this.message = 'Your device ' + device.model + 'has successfully been created';
+      this.showBlock('successMessage');
+    } catch (e) {
+      this.message = 'Something went wrong while creating your device: ' + e;
+      this.showBlock('errorMessage');
+    }
+
+    console.log(device);
 
     this.newDevice = '';
     this.newBrand = '';
-    this.channelType = '';
+    this.selectedChannel = '';
     this.channelCount = '';
-    this.deviceType = '';
+    this.selectedType = '';
+    this.channelList = '';
+    this.typeIsSelected = false;
+  }
+
+  @action successMessage() {
+    document.getElementById('');
   }
 
   @action
   setChannelType(value) {
-    this.channelType = value;
+    this.selectedChannel = value;
+    let channelCountField = document.getElementById('channelcount');
+    if (value.audiotype.includes('MIDI')) {
+      this.channelCount = 1;
+      channelCountField.setAttribute('disabled', true);
+      return;
+    }
+    channelCountField.removeAttribute('disabled');
   }
 
   @action
@@ -81,7 +100,49 @@ export default class DeviceController extends Controller {
   }
 
   @action
-  setType(value){
+  setType(value) {
     this.selectedType = value;
+    this.typeIsSelected = true;
+  }
+
+  @action
+  addChannel() {
+    for (let i = 0; i < this.channelCount; i++) {
+      this.channelList = [...this.channelList, this.selectedChannel];
+    }
+    this.selectedChannel = '';
+    this.channelCount = '';
+    return this.channelList;
+  }
+
+  @action
+  removeChannels() {
+    let checkboxes = document.getElementsByClassName('channel');
+    for (var i = 0; i < checkboxes.length; i++) {
+      // And stick the checked ones onto an array...
+      if (checkboxes[i].checked) {
+        console.log(i);
+        console.log(this.channelList.length);
+        let item = this.channelList.indexOf(this.channelList[i]);
+        if (item > -1) {
+          this.channelList = this.channelList.splice(item, 1);
+        }
+        console.log(this.channelList);
+      }
+    }
+    console.log(this.channelList.length);
+  }
+
+  @action
+  hideBlock(blockId){
+    console.log(blockId);
+    let block = document.getElementById(blockId);
+    block.style.display = "none"; 
+  }
+
+  @action
+  showBlock(blockId){
+    let block = document.getElementById(blockId);
+    block.style.display = "block"; 
   }
 }

@@ -32,7 +32,7 @@ a {
 
 .devlist {
   float: right;
-  width: 60%;
+  width: 40%;
   max-width: 60%;
   height: auto;
   margin-left: 8rem;
@@ -68,4 +68,42 @@ td {
 .header {
   display: flex;
   justify-content: space-between;
+}
+
+.channels {
+  float: center;
+  width: 60%;
+  max-width: 60%;
+  height: auto;
+  margin-left: 8rem;
+  color: aquamarine;
+  border-bottom: #b5f1cc;
+}
+
+.alert {
+  padding: 20px;
+  background-color: #f44336;
+  color: white;
+  opacity: 1;
+  transition: opacity 0.6s;
+  margin-bottom: 15px;
+}
+
+.alert.success {
+  background-color: #04aa6d;
+}
+
+.closebtn {
+  margin-left: 15px;
+  color: white;
+  font-weight: bold;
+  float: right;
+  font-size: 22px;
+  line-height: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.closebtn:hover {
+  color: black;
 }

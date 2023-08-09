@@ -20,14 +20,17 @@ defmodule Dispatcher do
   # this file.
 
   match "/devices/*path" do 
-    Proxy.forward conn, path, "http://devices/devices/"
+    Proxy.forward conn, path, "http://resource/devices/"
   end  
-  match "/devicetypes/*path" do 
-    Proxy.forward conn, path, "http://devices/devicetypes/"
+  match "/device-types/*path" do 
+    Proxy.forward conn, path, "http://resource/device-types/"
   end  
-  match "/brands/*path" do 
-    Proxy.forward conn, path, "http://devices/brands/"
+  match "/channels/*path" do 
+    Proxy.forward conn, path, "http://resource/channels/"
   end  
+  # match "/brands/*path" do 
+  #   Proxy.forward conn, path, "http://resource/brands/"
+  # end  
 
   match "/*_", %{ last_call: true } do
     send_resp( conn, 404, "Route not found.  See config/dispatcher.ex" )

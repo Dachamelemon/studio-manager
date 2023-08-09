@@ -8,6 +8,8 @@ export default class Router extends EmberRouter {
 
 Router.map(function () {
   this.route('device');
-  this.route('devicetypes');
+  this.route('device-type');
   this.route('home');
+  this.route('channel');
+  this.route('mydevices');
 });

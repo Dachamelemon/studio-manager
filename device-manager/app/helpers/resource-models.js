@@ -1,4 +1,5 @@
 export const ResourceModel = {
-    DEVICE: 'device',
-    DEVICETYPE: 'devicetype',
-  }
+  DEVICE: 'device',
+  DEVICETYPE: 'deviceType',
+  CHANNEL: 'channel',
+};

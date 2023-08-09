@@ -1,0 +1,49 @@
+PREFIX schema: <http://schema.org/>
+PREFIX mu: <http://mu.semte.ch/vocabularies/core/>
+
+INSERT DATA{
+  GRAPH  <http://mu.semte.ch/application> {
+    <http://mu.semte.ch/application/device-service/channels/64C21B44F410B00009000001> a schema:ItemList;
+    mu:uuid "64C21B44F410B00009000001";
+    schema:itemListElement "MIDI";
+    schema:itemListOrder "n/a";
+    schema:additionalType "IN" .
+
+    <http://mu.semte.ch/application/device-service/channels/64C21B44F410B00009000002> a schema:ItemList;
+    mu:uuid "64C21B44F410B00009000002";
+    schema:itemListElement "MIDI";
+    schema:itemListOrder "n/a";
+    schema:additionalType "OUT" .
+
+    <http://mu.semte.ch/application/device-service/channels/64C21B44F410B00009000003> a schema:ItemList;
+    mu:uuid "64C21B44F410B00009000003";
+    schema:itemListElement "MIDI";
+    schema:itemListOrder "n/a";
+    schema:additionalType "THRU" .
+
+    <http://mu.semte.ch/application/device-service/channels/64C21B44F410B00009000004> a schema:ItemList;
+    mu:uuid "64C21B44F410B00009000004";
+    schema:itemListElement "LINE (s-in)";
+    schema:itemListOrder "STEREO";
+    schema:additionalType "IN" .
+
+     <http://mu.semte.ch/application/device-service/channels/64C21B44F410B00009000005> a schema:ItemList;
+     mu:uuid "64C21B44F410B00009000005";
+    schema:itemListElement "LINE (s-out)";
+    schema:itemListOrder "STEREO";
+    schema:additionalType "OUT" .
+
+    <http://mu.semte.ch/application/device-service/channels/64C21B44F410B00009000006> a schema:ItemList;
+    mu:uuid "64C21B44F410B00009000006";
+    schema:itemListElement "LINE (m-in)";
+    schema:itemListOrder "MONO";
+    schema:additionalType "IN" .
+
+    <http://mu.semte.ch/application/device-service/channels/64C21B44F410B00009000007> a schema:ItemList;
+    mu:uuid "64C21B44F410B00009000007";
+    schema:itemListElement "LINE (m-out)";
+    schema:itemListOrder "MONO";
+    schema:additionalType "OUT" .
+
+  }
+}

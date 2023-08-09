@@ -2044,3 +2044,756 @@
 11:13:54 Checkpoint finished, log reused
 11:13:56 HTTP/WebDAV server online at 8890
 11:13:56 Server online at 1111 (pid 1)
+
+		Mon Aug 07 2023
+08:44:28 OpenLink Virtuoso Universal Server
+08:44:28 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+08:44:28 uses OpenSSL 1.0.2n  7 Dec 2017
+08:44:28 uses parts of PCRE, Html Tidy
+08:44:28 Database version 3126
+08:44:28 SQL Optimizer enabled (max 1000 layouts)
+08:44:29 Compiler unit is timed at 0.000100 msec
+08:44:29 Roll forward started
+08:44:29 Roll forward complete
+08:44:30 Checkpoint started
+08:44:30 Checkpoint finished, log reused
+08:44:30 HTTP/WebDAV server online at 8890
+08:44:30 Server online at 1111 (pid 1)
+
+		Mon Aug 07 2023
+08:47:23 OpenLink Virtuoso Universal Server
+08:47:23 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+08:47:23 uses OpenSSL 1.0.2n  7 Dec 2017
+08:47:23 uses parts of PCRE, Html Tidy
+08:47:23 Database version 3126
+08:47:23 SQL Optimizer enabled (max 1000 layouts)
+08:47:24 Compiler unit is timed at 0.000085 msec
+08:47:25 Roll forward started
+08:47:25 Roll forward complete
+08:47:25 Checkpoint started
+08:47:25 Checkpoint finished, log reused
+08:47:25 HTTP/WebDAV server online at 8890
+08:47:25 Server online at 1111 (pid 1)
+
+		Mon Aug 07 2023
+08:52:34 OpenLink Virtuoso Universal Server
+08:52:34 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+08:52:34 uses OpenSSL 1.0.2n  7 Dec 2017
+08:52:34 uses parts of PCRE, Html Tidy
+08:52:34 Database version 3126
+08:52:34 SQL Optimizer enabled (max 1000 layouts)
+08:52:35 Compiler unit is timed at 0.000087 msec
+08:52:36 Roll forward started
+08:52:36 Roll forward complete
+08:52:36 Checkpoint started
+08:52:36 Checkpoint finished, log reused
+08:52:36 HTTP/WebDAV server online at 8890
+08:52:36 Server online at 1111 (pid 1)
+
+		Mon Aug 07 2023
+09:18:29 OpenLink Virtuoso Universal Server
+09:18:29 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+09:18:29 uses OpenSSL 1.0.2n  7 Dec 2017
+09:18:29 uses parts of PCRE, Html Tidy
+09:18:29 Database version 3126
+09:18:29 SQL Optimizer enabled (max 1000 layouts)
+09:18:30 Compiler unit is timed at 0.000089 msec
+09:18:31 Roll forward started
+09:18:31 Roll forward complete
+09:18:31 Checkpoint started
+09:18:31 Checkpoint finished, log reused
+09:18:31 HTTP/WebDAV server online at 8890
+09:18:31 Server online at 1111 (pid 1)
+
+		Mon Aug 07 2023
+09:22:52 OpenLink Virtuoso Universal Server
+09:22:52 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+09:22:52 uses OpenSSL 1.0.2n  7 Dec 2017
+09:22:52 uses parts of PCRE, Html Tidy
+09:22:52 Database version 3126
+09:22:52 SQL Optimizer enabled (max 1000 layouts)
+09:22:53 Compiler unit is timed at 0.000086 msec
+09:22:54 Roll forward started
+09:22:54 Roll forward complete
+09:22:54 Checkpoint started
+09:22:54 Checkpoint finished, log reused
+09:22:54 HTTP/WebDAV server online at 8890
+09:22:54 Server online at 1111 (pid 1)
+
+		Mon Aug 07 2023
+09:34:49 OpenLink Virtuoso Universal Server
+09:34:49 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+09:34:49 uses OpenSSL 1.0.2n  7 Dec 2017
+09:34:49 uses parts of PCRE, Html Tidy
+09:34:49 Database version 3126
+09:34:49 SQL Optimizer enabled (max 1000 layouts)
+09:34:51 Compiler unit is timed at 0.000086 msec
+09:34:51 Roll forward started
+09:34:51 Roll forward complete
+09:34:51 Checkpoint started
+09:34:51 Checkpoint finished, log reused
+09:34:51 HTTP/WebDAV server online at 8890
+09:34:51 Server online at 1111 (pid 1)
+09:41:12 ERRS_0 42000 UD021 No user defined class DB.DBA.page_f97a0fe94cf12fd45d8652041b3640e3V_VAD_conductor_main__tabs_vspx
+09:41:12 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+09:41:12 ERRS_0 42000 UD021 No user defined class DB.DBA.page_23a9644beceec46b97fd1b95fe9fad7ductor_adm__navigation__bar_vspx
+09:41:12 ERRS_0 01V01 QW008 Invalid = comparison operation argument control type INSTANCE (254)
+09:41:12 ERRS_0 01V01 QW008 Invalid = comparison operation argument control type INSTANCE (254)
+09:41:12 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+09:41:12 ERRS_0 01V01 QW001 Local declaration of inx shadows a definition of the same name
+09:41:24 ERRS_0 42000 UD021 No user defined class DB.DBA.page_d190a278c2554ff79e0f0863a59b6c21AD_conductor_sparql__input_vspx
+09:41:24 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+09:41:30 ERRS_0 42000 UD021 No user defined class DB.DBA.page_312a733cc91f2d8d3e4373a5090e0b70VAD_conductor_graphs__page_vspx
+09:41:30 ERRS_0 01V01 QW001 Local declaration of params shadows a definition of the same name
+09:41:30 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+09:45:46 ERRS_0 37000 SP030 SPARQL compiler, line 7: Undefined namespace prefix at 'schema' before ';'
+09:45:46 ERRS_0 37000 SQ074 Line 10: SP030: SPARQL compiler, line 7: Undefined namespace prefix at 'schema' before ';'
+09:45:46 ERRS_0 37000 SP030 SPARQL compiler, line 7: Undefined namespace prefix at 'schema' before ';'
+09:45:46 ERRS_0 37000 SQ074 Line 10: SP030: SPARQL compiler, line 7: Undefined namespace prefix at 'schema' before ';'
+09:45:46 ERRS_0 37000 SP030 SPARQL compiler, line 6: Undefined namespace prefix at 'schema' before ';'
+10:34:51 Checkpoint started
+10:34:51 Checkpoint finished, log reused
+11:34:52 Checkpoint started
+11:34:52 Checkpoint finished, log reused
+
+		Mon Aug 07 2023
+12:31:57 OpenLink Virtuoso Universal Server
+12:31:57 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+12:31:57 uses OpenSSL 1.0.2n  7 Dec 2017
+12:31:57 uses parts of PCRE, Html Tidy
+12:31:57 Database version 3126
+12:31:57 SQL Optimizer enabled (max 1000 layouts)
+12:31:58 Compiler unit is timed at 0.000089 msec
+12:31:58 Roll forward started
+12:31:58 Roll forward complete
+12:31:58 Checkpoint started
+12:31:58 Checkpoint finished, log reused
+12:32:00 HTTP/WebDAV server online at 8890
+12:32:00 Server online at 1111 (pid 1)
+12:52:23 Server received signal 15
+12:52:23 Initiating quick shutdown
+12:52:23 Server shutdown complete
+
+		Mon Aug 07 2023
+13:15:52 OpenLink Virtuoso Universal Server
+13:15:52 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+13:15:52 uses OpenSSL 1.0.2n  7 Dec 2017
+13:15:52 uses parts of PCRE, Html Tidy
+13:15:52 Database version 3126
+13:15:52 SQL Optimizer enabled (max 1000 layouts)
+13:15:53 Compiler unit is timed at 0.000100 msec
+13:15:53 Roll forward started
+13:15:53 Roll forward complete
+13:15:53 Checkpoint started
+13:15:53 Checkpoint finished, log reused
+13:15:53 HTTP/WebDAV server online at 8890
+13:15:53 Server online at 1111 (pid 1)
+13:19:56 Server received signal 15
+13:19:56 Initiating quick shutdown
+13:19:56 Server shutdown complete
+
+		Mon Aug 07 2023
+13:24:54 OpenLink Virtuoso Universal Server
+13:24:54 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+13:24:54 uses OpenSSL 1.0.2n  7 Dec 2017
+13:24:54 uses parts of PCRE, Html Tidy
+13:24:54 Database version 3126
+13:24:54 SQL Optimizer enabled (max 1000 layouts)
+13:24:55 Compiler unit is timed at 0.000090 msec
+13:24:56 Roll forward started
+13:24:56 Roll forward complete
+13:24:56 Checkpoint started
+13:24:56 Checkpoint finished, log reused
+13:24:58 HTTP/WebDAV server online at 8890
+13:24:58 Server online at 1111 (pid 1)
+
+		Mon Aug 07 2023
+13:26:23 OpenLink Virtuoso Universal Server
+13:26:23 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+13:26:23 uses OpenSSL 1.0.2n  7 Dec 2017
+13:26:23 uses parts of PCRE, Html Tidy
+13:26:23 Database version 3126
+13:26:24 SQL Optimizer enabled (max 1000 layouts)
+13:26:25 Compiler unit is timed at 0.000093 msec
+13:26:25 Roll forward started
+13:26:25 Roll forward complete
+13:26:25 Checkpoint started
+13:26:25 Checkpoint finished, log reused
+13:26:27 HTTP/WebDAV server online at 8890
+13:26:27 Server online at 1111 (pid 1)
+13:26:46 ERRS_0 42000 UD021 No user defined class DB.DBA.page_f97a0fe94cf12fd45d8652041b3640e3V_VAD_conductor_main__tabs_vspx
+13:26:46 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+13:26:46 ERRS_0 42000 UD021 No user defined class DB.DBA.page_23a9644beceec46b97fd1b95fe9fad7ductor_adm__navigation__bar_vspx
+13:26:46 ERRS_0 01V01 QW008 Invalid = comparison operation argument control type INSTANCE (254)
+13:26:46 ERRS_0 01V01 QW008 Invalid = comparison operation argument control type INSTANCE (254)
+13:26:46 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+13:26:46 ERRS_0 01V01 QW001 Local declaration of inx shadows a definition of the same name
+13:26:53 ERRS_0 42000 UD021 No user defined class DB.DBA.page_d190a278c2554ff79e0f0863a59b6c21AD_conductor_sparql__input_vspx
+13:26:53 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+14:02:36 Server received signal 15
+14:02:36 Initiating quick shutdown
+14:02:36 Server shutdown complete
+
+		Mon Aug 07 2023
+14:03:11 OpenLink Virtuoso Universal Server
+14:03:11 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+14:03:11 uses OpenSSL 1.0.2n  7 Dec 2017
+14:03:11 uses parts of PCRE, Html Tidy
+14:03:11 Database version 3126
+14:03:11 SQL Optimizer enabled (max 1000 layouts)
+14:03:12 Compiler unit is timed at 0.000089 msec
+14:03:13 Roll forward started
+14:03:13 Roll forward complete
+14:03:13 Checkpoint started
+14:03:13 Checkpoint finished, log reused
+14:03:13 HTTP/WebDAV server online at 8890
+14:03:13 Server online at 1111 (pid 1)
+14:03:54 ERRS_0 42000 UD021 No user defined class DB.DBA.page_312a733cc91f2d8d3e4373a5090e0b70VAD_conductor_graphs__page_vspx
+14:03:54 ERRS_0 01V01 QW001 Local declaration of params shadows a definition of the same name
+14:03:54 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+14:03:54 ERRS_0 42000 UD021 No user defined class DB.DBA.page_23a9644beceec46b97fd1b95fe9fad7ductor_adm__navigation__bar_vspx
+14:03:54 ERRS_0 01V01 QW008 Invalid = comparison operation argument control type INSTANCE (254)
+14:03:54 ERRS_0 01V01 QW008 Invalid = comparison operation argument control type INSTANCE (254)
+14:03:54 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+14:03:54 ERRS_0 01V01 QW001 Local declaration of inx shadows a definition of the same name
+14:03:54 ERRS_0 42000 UD021 No user defined class DB.DBA.page_f97a0fe94cf12fd45d8652041b3640e3V_VAD_conductor_main__tabs_vspx
+14:03:54 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+15:03:15 Checkpoint started
+15:03:15 Checkpoint finished, log reused
+
+		Mon Aug 07 2023
+15:12:14 OpenLink Virtuoso Universal Server
+15:12:14 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+15:12:14 uses OpenSSL 1.0.2n  7 Dec 2017
+15:12:14 uses parts of PCRE, Html Tidy
+15:12:14 Database version 3126
+15:12:14 SQL Optimizer enabled (max 1000 layouts)
+15:12:15 Compiler unit is timed at 0.000090 msec
+15:12:15 Roll forward started
+15:12:15 Roll forward complete
+15:12:16 Checkpoint started
+15:12:16 Checkpoint finished, log reused
+15:12:18 HTTP/WebDAV server online at 8890
+15:12:18 Server online at 1111 (pid 1)
+15:12:56 ERRS_0 37000 SP030 SPARQL compiler, line 3: syntax error at 'REFIX' before 'schema:'
+15:12:56 ERRS_0 37000 SQ074 Line 11: SP030: SPARQL compiler, line 3: syntax error at 'REFIX' before 'schema:'
+15:12:56 ERRS_0 37000 SP030 SPARQL compiler, line 3: syntax error at 'REFIX' before 'schema:'
+15:12:56 ERRS_0 37000 SQ074 Line 11: SP030: SPARQL compiler, line 3: syntax error at 'REFIX' before 'schema:'
+15:12:56 ERRS_0 37000 SP030 SPARQL compiler, line 2: syntax error at 'REFIX' before 'schema:'
+15:13:48 Server received signal 15
+15:13:48 Initiating quick shutdown
+15:13:48 Server shutdown complete
+
+		Mon Aug 07 2023
+15:14:03 OpenLink Virtuoso Universal Server
+15:14:03 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+15:14:03 uses OpenSSL 1.0.2n  7 Dec 2017
+15:14:03 uses parts of PCRE, Html Tidy
+15:14:03 Database version 3126
+15:14:03 SQL Optimizer enabled (max 1000 layouts)
+15:14:04 Compiler unit is timed at 0.000091 msec
+15:14:05 Roll forward started
+15:14:05 Roll forward complete
+15:14:05 Checkpoint started
+15:14:05 Checkpoint finished, log reused
+15:14:07 HTTP/WebDAV server online at 8890
+15:14:07 Server online at 1111 (pid 1)
+
+		Mon Aug 07 2023
+15:15:29 OpenLink Virtuoso Universal Server
+15:15:29 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+15:15:29 uses OpenSSL 1.0.2n  7 Dec 2017
+15:15:29 uses parts of PCRE, Html Tidy
+15:15:29 Database version 3126
+15:15:29 SQL Optimizer enabled (max 1000 layouts)
+15:15:30 Compiler unit is timed at 0.000091 msec
+15:15:30 Roll forward started
+15:15:30 Roll forward complete
+15:15:30 Checkpoint started
+15:15:31 Checkpoint finished, log reused
+15:15:31 HTTP/WebDAV server online at 8890
+15:15:31 Server online at 1111 (pid 1)
+
+		Mon Aug 07 2023
+15:16:49 OpenLink Virtuoso Universal Server
+15:16:49 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+15:16:49 uses OpenSSL 1.0.2n  7 Dec 2017
+15:16:49 uses parts of PCRE, Html Tidy
+15:16:49 Database version 3126
+15:16:49 SQL Optimizer enabled (max 1000 layouts)
+15:16:50 Compiler unit is timed at 0.000090 msec
+15:16:50 Roll forward started
+15:16:50 Roll forward complete
+15:16:50 Checkpoint started
+15:16:50 Checkpoint finished, log reused
+15:16:50 HTTP/WebDAV server online at 8890
+15:16:50 Server online at 1111 (pid 1)
+
+		Tue Aug 08 2023
+07:11:59 Checkpoint started
+07:11:59 Checkpoint finished, log reused
+
+		Tue Aug 08 2023
+07:27:43 OpenLink Virtuoso Universal Server
+07:27:43 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+07:27:43 uses OpenSSL 1.0.2n  7 Dec 2017
+07:27:43 uses parts of PCRE, Html Tidy
+07:27:43 Database version 3126
+07:27:43 SQL Optimizer enabled (max 1000 layouts)
+07:27:44 Compiler unit is timed at 0.000092 msec
+07:27:45 Roll forward started
+07:27:45 Roll forward complete
+07:27:45 Checkpoint started
+07:27:45 Checkpoint finished, log reused
+07:27:45 HTTP/WebDAV server online at 8890
+07:27:45 Server online at 1111 (pid 1)
+
+		Tue Aug 08 2023
+07:53:26 OpenLink Virtuoso Universal Server
+07:53:26 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+07:53:26 uses OpenSSL 1.0.2n  7 Dec 2017
+07:53:26 uses parts of PCRE, Html Tidy
+07:53:26 Database version 3126
+07:53:26 SQL Optimizer enabled (max 1000 layouts)
+07:53:27 Compiler unit is timed at 0.000092 msec
+07:53:27 Roll forward started
+07:53:27 Roll forward complete
+07:53:28 Checkpoint started
+07:53:28 Checkpoint finished, log reused
+07:53:28 HTTP/WebDAV server online at 8890
+07:53:28 Server online at 1111 (pid 1)
+
+		Tue Aug 08 2023
+08:11:53 OpenLink Virtuoso Universal Server
+08:11:53 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+08:11:53 uses OpenSSL 1.0.2n  7 Dec 2017
+08:11:53 uses parts of PCRE, Html Tidy
+08:11:53 Database version 3126
+08:11:53 SQL Optimizer enabled (max 1000 layouts)
+08:11:54 Compiler unit is timed at 0.000092 msec
+08:11:54 Roll forward started
+08:11:54 Roll forward complete
+08:11:55 Checkpoint started
+08:11:55 Checkpoint finished, log reused
+08:11:57 HTTP/WebDAV server online at 8890
+08:11:57 Server online at 1111 (pid 1)
+
+		Tue Aug 08 2023
+08:12:47 OpenLink Virtuoso Universal Server
+08:12:47 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+08:12:47 uses OpenSSL 1.0.2n  7 Dec 2017
+08:12:47 uses parts of PCRE, Html Tidy
+08:12:47 Database version 3126
+08:12:47 SQL Optimizer enabled (max 1000 layouts)
+08:12:48 Compiler unit is timed at 0.000098 msec
+08:12:49 Roll forward started
+08:12:49 Roll forward complete
+08:12:49 Checkpoint started
+08:12:49 Checkpoint finished, log reused
+08:12:49 HTTP/WebDAV server online at 8890
+08:12:49 Server online at 1111 (pid 1)
+08:13:04 ERRS_0 37000 SQ074 Line 7: End-of-line in a SPARQL short double-quoted string
+08:13:04 ERRS_0 37000 SQ074 Line 7: End-of-line in a SPARQL short double-quoted string
+08:13:04 ERRS_0 37000 SP030 SPARQL compiler, line 0: End-of-line in a short double-quoted string at '"> a schema:ItemList;
+'
+
+		Tue Aug 08 2023
+08:14:15 OpenLink Virtuoso Universal Server
+08:14:15 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+08:14:15 uses OpenSSL 1.0.2n  7 Dec 2017
+08:14:15 uses parts of PCRE, Html Tidy
+08:14:15 Database version 3126
+08:14:15 SQL Optimizer enabled (max 1000 layouts)
+08:14:16 Compiler unit is timed at 0.000100 msec
+08:14:16 Roll forward started
+08:14:16 Roll forward complete
+08:14:16 Checkpoint started
+08:14:16 Checkpoint finished, log reused
+08:14:16 HTTP/WebDAV server online at 8890
+08:14:16 Server online at 1111 (pid 1)
+08:14:30 ERRS_0 37000 SP030 SPARQL compiler, line 14: syntax error at 'schema:itemListOrder' before '"n/a"'
+08:14:30 ERRS_0 37000 SQ074 Line 45: SP030: SPARQL compiler, line 14: syntax error at 'schema:itemListOrder' before '"n/a"'
+08:14:30 ERRS_0 37000 SP030 SPARQL compiler, line 14: syntax error at 'schema:itemListOrder' before '"n/a"'
+08:14:30 ERRS_0 37000 SQ074 Line 45: SP030: SPARQL compiler, line 14: syntax error at 'schema:itemListOrder' before '"n/a"'
+08:14:30 ERRS_0 37000 SP030 SPARQL compiler, line 13: syntax error at 'schema:itemListOrder' before '"n/a"'
+08:17:10 ERRS_0 37000 SP030 SPARQL compiler, line 17: syntax error
+08:17:10 ERRS_0 37000 SQ074 Line 17: SP030: SPARQL compiler, line 17: syntax error
+08:17:10 ERRS_0 37000 SP030 SPARQL compiler, line 17: syntax error
+08:17:10 ERRS_0 37000 SQ074 Line 17: SP030: SPARQL compiler, line 17: syntax error
+08:17:10 ERRS_0 37000 SP030 SPARQL compiler, line 16: syntax error
+08:19:00 ERRS_0 37000 SP030 SPARQL compiler, line 16: syntax error
+08:19:00 ERRS_0 37000 SQ074 Line 16: SP030: SPARQL compiler, line 16: syntax error
+08:19:00 ERRS_0 37000 SP030 SPARQL compiler, line 16: syntax error
+08:19:00 ERRS_0 37000 SQ074 Line 16: SP030: SPARQL compiler, line 16: syntax error
+08:19:00 ERRS_0 37000 SP030 SPARQL compiler, line 15: syntax error
+08:19:01 ERRS_0 37000 SP030 SPARQL compiler, line 16: syntax error
+08:19:01 ERRS_0 37000 SQ074 Line 16: SP030: SPARQL compiler, line 16: syntax error
+08:19:01 ERRS_0 37000 SP030 SPARQL compiler, line 16: syntax error
+08:19:01 ERRS_0 37000 SQ074 Line 16: SP030: SPARQL compiler, line 16: syntax error
+08:19:01 ERRS_0 37000 SP030 SPARQL compiler, line 15: syntax error
+08:19:50 ERRS_0 37000 SP030 SPARQL compiler, line 16: syntax error
+08:19:50 ERRS_0 37000 SQ074 Line 16: SP030: SPARQL compiler, line 16: syntax error
+08:19:50 ERRS_0 37000 SP030 SPARQL compiler, line 16: syntax error
+08:19:50 ERRS_0 37000 SQ074 Line 16: SP030: SPARQL compiler, line 16: syntax error
+08:19:50 ERRS_0 37000 SP030 SPARQL compiler, line 15: syntax error
+08:19:51 ERRS_0 37000 SP030 SPARQL compiler, line 16: syntax error
+08:19:51 ERRS_0 37000 SQ074 Line 16: SP030: SPARQL compiler, line 16: syntax error
+08:19:51 ERRS_0 37000 SP030 SPARQL compiler, line 16: syntax error
+08:19:51 ERRS_0 37000 SQ074 Line 16: SP030: SPARQL compiler, line 16: syntax error
+08:19:51 ERRS_0 37000 SP030 SPARQL compiler, line 15: syntax error
+08:19:51 ERRS_0 37000 SP030 SPARQL compiler, line 16: syntax error
+08:19:51 ERRS_0 37000 SQ074 Line 16: SP030: SPARQL compiler, line 16: syntax error
+08:19:51 ERRS_0 37000 SP030 SPARQL compiler, line 16: syntax error
+08:19:51 ERRS_0 37000 SQ074 Line 16: SP030: SPARQL compiler, line 16: syntax error
+08:19:51 ERRS_0 37000 SP030 SPARQL compiler, line 15: syntax error
+08:19:51 ERRS_0 37000 SP030 SPARQL compiler, line 16: syntax error
+08:19:51 ERRS_0 37000 SQ074 Line 16: SP030: SPARQL compiler, line 16: syntax error
+08:19:51 ERRS_0 37000 SP030 SPARQL compiler, line 16: syntax error
+08:19:51 ERRS_0 37000 SQ074 Line 16: SP030: SPARQL compiler, line 16: syntax error
+08:19:51 ERRS_0 37000 SP030 SPARQL compiler, line 15: syntax error
+08:19:55 ERRS_0 37000 SP030 SPARQL compiler, line 12: Dot immediately after semicolon is permitted in pure SPARQL but not in SPARQL-BI at '.' before '}'
+08:19:55 ERRS_0 37000 SQ074 Line 16: SP030: SPARQL compiler, line 12: Dot immediately after semicolon is permitted in pure SPARQL but not in SPARQL-BI at '.' before '}'
+08:19:55 ERRS_0 37000 SP030 SPARQL compiler, line 12: Dot immediately after semicolon is permitted in pure SPARQL but not in SPARQL-BI at '.' before '}'
+08:19:55 ERRS_0 37000 SQ074 Line 16: SP030: SPARQL compiler, line 12: Dot immediately after semicolon is permitted in pure SPARQL but not in SPARQL-BI at '.' before '}'
+08:19:55 ERRS_0 37000 SP030 SPARQL compiler, line 11: Dot immediately after semicolon is permitted in pure SPARQL but not in SPARQL-BI at '.' before '}'
+08:20:02 ERRS_0 37000 SP030 SPARQL compiler, line 12: syntax error at '.' before '}'
+08:20:02 ERRS_0 37000 SQ074 Line 16: SP030: SPARQL compiler, line 12: syntax error at '.' before '}'
+08:20:02 ERRS_0 37000 SP030 SPARQL compiler, line 12: syntax error at '.' before '}'
+08:20:02 ERRS_0 37000 SQ074 Line 16: SP030: SPARQL compiler, line 12: syntax error at '.' before '}'
+08:20:02 ERRS_0 37000 SP030 SPARQL compiler, line 11: syntax error at '.' before '}'
+08:20:21 ERRS_0 37000 SP030 SPARQL compiler, line 14: syntax error
+08:20:21 ERRS_0 37000 SQ074 Line 14: SP030: SPARQL compiler, line 14: syntax error
+08:20:21 ERRS_0 37000 SP030 SPARQL compiler, line 14: syntax error
+08:20:21 ERRS_0 37000 SQ074 Line 14: SP030: SPARQL compiler, line 14: syntax error
+08:20:21 ERRS_0 37000 SP030 SPARQL compiler, line 13: syntax error
+08:21:01 ERRS_0 37000 SP030 SPARQL compiler, line 14: syntax error
+08:21:01 ERRS_0 37000 SQ074 Line 14: SP030: SPARQL compiler, line 14: syntax error
+08:21:01 ERRS_0 37000 SP030 SPARQL compiler, line 14: syntax error
+08:21:01 ERRS_0 37000 SQ074 Line 14: SP030: SPARQL compiler, line 14: syntax error
+08:21:01 ERRS_0 37000 SP030 SPARQL compiler, line 13: syntax error
+08:21:02 ERRS_0 37000 SP030 SPARQL compiler, line 14: syntax error
+08:21:02 ERRS_0 37000 SQ074 Line 14: SP030: SPARQL compiler, line 14: syntax error
+08:21:02 ERRS_0 37000 SP030 SPARQL compiler, line 14: syntax error
+08:21:02 ERRS_0 37000 SQ074 Line 14: SP030: SPARQL compiler, line 14: syntax error
+08:21:02 ERRS_0 37000 SP030 SPARQL compiler, line 13: syntax error
+08:21:02 ERRS_0 37000 SP030 SPARQL compiler, line 14: syntax error
+08:21:02 ERRS_0 37000 SQ074 Line 14: SP030: SPARQL compiler, line 14: syntax error
+08:21:02 ERRS_0 37000 SP030 SPARQL compiler, line 14: syntax error
+08:21:02 ERRS_0 37000 SQ074 Line 14: SP030: SPARQL compiler, line 14: syntax error
+08:21:02 ERRS_0 37000 SP030 SPARQL compiler, line 13: syntax error
+08:21:02 ERRS_0 37000 SP030 SPARQL compiler, line 14: syntax error
+08:21:02 ERRS_0 37000 SQ074 Line 14: SP030: SPARQL compiler, line 14: syntax error
+08:21:02 ERRS_0 37000 SP030 SPARQL compiler, line 14: syntax error
+08:21:02 ERRS_0 37000 SQ074 Line 14: SP030: SPARQL compiler, line 14: syntax error
+08:21:02 ERRS_0 37000 SP030 SPARQL compiler, line 13: syntax error
+08:21:02 ERRS_0 37000 SP030 SPARQL compiler, line 14: syntax error
+08:21:02 ERRS_0 37000 SQ074 Line 14: SP030: SPARQL compiler, line 14: syntax error
+08:21:02 ERRS_0 37000 SP030 SPARQL compiler, line 14: syntax error
+08:21:02 ERRS_0 37000 SQ074 Line 14: SP030: SPARQL compiler, line 14: syntax error
+08:21:02 ERRS_0 37000 SP030 SPARQL compiler, line 13: syntax error
+08:21:02 ERRS_0 37000 SP030 SPARQL compiler, line 14: syntax error
+08:21:02 ERRS_0 37000 SQ074 Line 14: SP030: SPARQL compiler, line 14: syntax error
+08:21:02 ERRS_0 37000 SP030 SPARQL compiler, line 14: syntax error
+08:21:02 ERRS_0 37000 SQ074 Line 14: SP030: SPARQL compiler, line 14: syntax error
+08:21:02 ERRS_0 37000 SP030 SPARQL compiler, line 13: syntax error
+08:21:17 ERRS_0 37000 SP030 SPARQL compiler, line 14: syntax error
+08:21:17 ERRS_0 37000 SQ074 Line 14: SP030: SPARQL compiler, line 14: syntax error
+08:21:17 ERRS_0 37000 SP030 SPARQL compiler, line 14: syntax error
+08:21:17 ERRS_0 37000 SQ074 Line 14: SP030: SPARQL compiler, line 14: syntax error
+08:21:17 ERRS_0 37000 SP030 SPARQL compiler, line 13: syntax error
+08:21:17 ERRS_0 37000 SP030 SPARQL compiler, line 14: syntax error
+08:21:17 ERRS_0 37000 SQ074 Line 14: SP030: SPARQL compiler, line 14: syntax error
+08:21:17 ERRS_0 37000 SP030 SPARQL compiler, line 14: syntax error
+08:21:17 ERRS_0 37000 SQ074 Line 14: SP030: SPARQL compiler, line 14: syntax error
+08:21:17 ERRS_0 37000 SP030 SPARQL compiler, line 13: syntax error
+08:21:17 ERRS_0 37000 SP030 SPARQL compiler, line 14: syntax error
+08:21:17 ERRS_0 37000 SQ074 Line 14: SP030: SPARQL compiler, line 14: syntax error
+08:21:17 ERRS_0 37000 SP030 SPARQL compiler, line 14: syntax error
+08:21:17 ERRS_0 37000 SQ074 Line 14: SP030: SPARQL compiler, line 14: syntax error
+08:21:17 ERRS_0 37000 SP030 SPARQL compiler, line 13: syntax error
+08:21:17 ERRS_0 37000 SP030 SPARQL compiler, line 14: syntax error
+08:21:17 ERRS_0 37000 SQ074 Line 14: SP030: SPARQL compiler, line 14: syntax error
+08:21:17 ERRS_0 37000 SP030 SPARQL compiler, line 14: syntax error
+08:21:17 ERRS_0 37000 SQ074 Line 14: SP030: SPARQL compiler, line 14: syntax error
+08:21:17 ERRS_0 37000 SP030 SPARQL compiler, line 13: syntax error
+08:21:17 ERRS_0 37000 SP030 SPARQL compiler, line 14: syntax error
+08:21:17 ERRS_0 37000 SQ074 Line 14: SP030: SPARQL compiler, line 14: syntax error
+08:21:17 ERRS_0 37000 SP030 SPARQL compiler, line 14: syntax error
+08:21:17 ERRS_0 37000 SQ074 Line 14: SP030: SPARQL compiler, line 14: syntax error
+08:21:17 ERRS_0 37000 SP030 SPARQL compiler, line 13: syntax error
+08:21:17 ERRS_0 37000 SP030 SPARQL compiler, line 14: syntax error
+08:21:17 ERRS_0 37000 SQ074 Line 14: SP030: SPARQL compiler, line 14: syntax error
+08:21:17 ERRS_0 37000 SP030 SPARQL compiler, line 14: syntax error
+08:21:17 ERRS_0 37000 SQ074 Line 14: SP030: SPARQL compiler, line 14: syntax error
+08:21:17 ERRS_0 37000 SP030 SPARQL compiler, line 13: syntax error
+08:21:18 ERRS_0 37000 SP030 SPARQL compiler, line 14: syntax error
+08:21:18 ERRS_0 37000 SQ074 Line 14: SP030: SPARQL compiler, line 14: syntax error
+08:21:18 ERRS_0 37000 SP030 SPARQL compiler, line 14: syntax error
+08:21:18 ERRS_0 37000 SQ074 Line 14: SP030: SPARQL compiler, line 14: syntax error
+08:21:18 ERRS_0 37000 SP030 SPARQL compiler, line 13: syntax error
+08:21:18 ERRS_0 37000 SP030 SPARQL compiler, line 14: syntax error
+08:21:18 ERRS_0 37000 SQ074 Line 14: SP030: SPARQL compiler, line 14: syntax error
+08:21:18 ERRS_0 37000 SP030 SPARQL compiler, line 14: syntax error
+08:21:18 ERRS_0 37000 SQ074 Line 14: SP030: SPARQL compiler, line 14: syntax error
+08:21:18 ERRS_0 37000 SP030 SPARQL compiler, line 13: syntax error
+08:21:18 ERRS_0 37000 SP030 SPARQL compiler, line 14: syntax error
+08:21:18 ERRS_0 37000 SQ074 Line 14: SP030: SPARQL compiler, line 14: syntax error
+08:21:18 ERRS_0 37000 SP030 SPARQL compiler, line 14: syntax error
+08:21:18 ERRS_0 37000 SQ074 Line 14: SP030: SPARQL compiler, line 14: syntax error
+08:21:18 ERRS_0 37000 SP030 SPARQL compiler, line 13: syntax error
+08:23:52 ERRS_0 37000 SP030 SPARQL compiler, line 16: syntax error
+08:23:52 ERRS_0 37000 SQ074 Line 16: SP030: SPARQL compiler, line 16: syntax error
+08:23:52 ERRS_0 37000 SP030 SPARQL compiler, line 16: syntax error
+08:23:52 ERRS_0 37000 SQ074 Line 16: SP030: SPARQL compiler, line 16: syntax error
+08:23:52 ERRS_0 37000 SP030 SPARQL compiler, line 15: syntax error
+08:25:49 ERRS_0 37000 SP030 SPARQL compiler, line 17: syntax error
+08:25:49 ERRS_0 37000 SQ074 Line 17: SP030: SPARQL compiler, line 17: syntax error
+08:25:49 ERRS_0 37000 SP030 SPARQL compiler, line 17: syntax error
+08:25:49 ERRS_0 37000 SQ074 Line 17: SP030: SPARQL compiler, line 17: syntax error
+08:25:49 ERRS_0 37000 SP030 SPARQL compiler, line 16: syntax error
+08:25:50 ERRS_0 37000 SP030 SPARQL compiler, line 17: syntax error
+08:25:50 ERRS_0 37000 SQ074 Line 17: SP030: SPARQL compiler, line 17: syntax error
+08:25:50 ERRS_0 37000 SP030 SPARQL compiler, line 17: syntax error
+08:25:50 ERRS_0 37000 SQ074 Line 17: SP030: SPARQL compiler, line 17: syntax error
+08:25:50 ERRS_0 37000 SP030 SPARQL compiler, line 16: syntax error
+08:25:50 ERRS_0 37000 SP030 SPARQL compiler, line 17: syntax error
+08:25:50 ERRS_0 37000 SQ074 Line 17: SP030: SPARQL compiler, line 17: syntax error
+08:25:50 ERRS_0 37000 SP030 SPARQL compiler, line 17: syntax error
+08:25:50 ERRS_0 37000 SQ074 Line 17: SP030: SPARQL compiler, line 17: syntax error
+08:25:50 ERRS_0 37000 SP030 SPARQL compiler, line 16: syntax error
+08:25:51 ERRS_0 37000 SP030 SPARQL compiler, line 17: syntax error
+08:25:51 ERRS_0 37000 SQ074 Line 17: SP030: SPARQL compiler, line 17: syntax error
+08:25:51 ERRS_0 37000 SP030 SPARQL compiler, line 17: syntax error
+08:25:51 ERRS_0 37000 SQ074 Line 17: SP030: SPARQL compiler, line 17: syntax error
+08:25:51 ERRS_0 37000 SP030 SPARQL compiler, line 16: syntax error
+08:25:51 ERRS_0 37000 SP030 SPARQL compiler, line 17: syntax error
+08:25:51 ERRS_0 37000 SQ074 Line 17: SP030: SPARQL compiler, line 17: syntax error
+08:25:51 ERRS_0 37000 SP030 SPARQL compiler, line 17: syntax error
+08:25:51 ERRS_0 37000 SQ074 Line 17: SP030: SPARQL compiler, line 17: syntax error
+08:25:51 ERRS_0 37000 SP030 SPARQL compiler, line 16: syntax error
+08:25:51 ERRS_0 37000 SP030 SPARQL compiler, line 17: syntax error
+08:25:51 ERRS_0 37000 SQ074 Line 17: SP030: SPARQL compiler, line 17: syntax error
+08:25:51 ERRS_0 37000 SP030 SPARQL compiler, line 17: syntax error
+08:25:51 ERRS_0 37000 SQ074 Line 17: SP030: SPARQL compiler, line 17: syntax error
+08:25:51 ERRS_0 37000 SP030 SPARQL compiler, line 16: syntax error
+08:25:51 ERRS_0 37000 SP030 SPARQL compiler, line 17: syntax error
+08:25:51 ERRS_0 37000 SQ074 Line 17: SP030: SPARQL compiler, line 17: syntax error
+08:25:51 ERRS_0 37000 SP030 SPARQL compiler, line 17: syntax error
+08:25:51 ERRS_0 37000 SQ074 Line 17: SP030: SPARQL compiler, line 17: syntax error
+08:25:51 ERRS_0 37000 SP030 SPARQL compiler, line 16: syntax error
+08:25:51 ERRS_0 37000 SP030 SPARQL compiler, line 17: syntax error
+08:25:51 ERRS_0 37000 SQ074 Line 17: SP030: SPARQL compiler, line 17: syntax error
+08:25:51 ERRS_0 37000 SP030 SPARQL compiler, line 17: syntax error
+08:25:51 ERRS_0 37000 SQ074 Line 17: SP030: SPARQL compiler, line 17: syntax error
+08:25:51 ERRS_0 37000 SP030 SPARQL compiler, line 16: syntax error
+08:25:51 ERRS_0 37000 SP030 SPARQL compiler, line 17: syntax error
+08:25:51 ERRS_0 37000 SQ074 Line 17: SP030: SPARQL compiler, line 17: syntax error
+08:25:51 ERRS_0 37000 SP030 SPARQL compiler, line 17: syntax error
+08:25:51 ERRS_0 37000 SQ074 Line 17: SP030: SPARQL compiler, line 17: syntax error
+08:25:51 ERRS_0 37000 SP030 SPARQL compiler, line 16: syntax error
+08:25:51 ERRS_0 37000 SP030 SPARQL compiler, line 17: syntax error
+08:25:51 ERRS_0 37000 SQ074 Line 17: SP030: SPARQL compiler, line 17: syntax error
+08:25:51 ERRS_0 37000 SP030 SPARQL compiler, line 17: syntax error
+08:25:51 ERRS_0 37000 SQ074 Line 17: SP030: SPARQL compiler, line 17: syntax error
+08:25:51 ERRS_0 37000 SP030 SPARQL compiler, line 16: syntax error
+08:27:29 ERRS_0 42000 UD021 No user defined class DB.DBA.page_f97a0fe94cf12fd45d8652041b3640e3V_VAD_conductor_main__tabs_vspx
+08:27:29 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+08:27:29 ERRS_0 42000 UD021 No user defined class DB.DBA.page_23a9644beceec46b97fd1b95fe9fad7ductor_adm__navigation__bar_vspx
+08:27:29 ERRS_0 01V01 QW008 Invalid = comparison operation argument control type INSTANCE (254)
+08:27:29 ERRS_0 01V01 QW008 Invalid = comparison operation argument control type INSTANCE (254)
+08:27:29 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+08:27:29 ERRS_0 01V01 QW001 Local declaration of inx shadows a definition of the same name
+08:29:03 ERRS_0 37000 SP031 SPARQL compiler: Variable 'o' is used in the query result set but not assigned
+08:29:03 ERRS_0 37000 SQ074 Line 7: SP031: SPARQL compiler: Variable 'o' is used in the query result set but not assigned
+08:29:03 ERRS_0 37000 SP031 SPARQL compiler: Variable 'o' is used in the query result set but not assigned
+08:29:03 ERRS_0 37000 SQ074 Line 7: SP031: SPARQL compiler: Variable 'o' is used in the query result set but not assigned
+08:29:03 ERRS_0 37000 SP031 SPARQL compiler: Variable 'o' is used in the query result set but not assigned
+08:30:48 ERRS_0 37000 SP030 SPARQL compiler, line 6: syntax error at 'distinct' before '?s'
+08:30:48 ERRS_0 37000 SQ074 Line 7: SP030: SPARQL compiler, line 6: syntax error at 'distinct' before '?s'
+08:30:48 ERRS_0 37000 SP030 SPARQL compiler, line 6: syntax error at 'distinct' before '?s'
+08:30:48 ERRS_0 37000 SQ074 Line 7: SP030: SPARQL compiler, line 6: syntax error at 'distinct' before '?s'
+08:30:48 ERRS_0 37000 SP030 SPARQL compiler, line 5: syntax error at 'distinct' before '?s'
+08:31:15 ERRS_0 37000 SP030 SPARQL compiler, line 6: syntax error at '?s' before '?p'
+08:31:15 ERRS_0 37000 SQ074 Line 7: SP030: SPARQL compiler, line 6: syntax error at '?s' before '?p'
+08:31:15 ERRS_0 37000 SP030 SPARQL compiler, line 6: syntax error at '?s' before '?p'
+08:31:15 ERRS_0 37000 SQ074 Line 7: SP030: SPARQL compiler, line 6: syntax error at '?s' before '?p'
+08:31:15 ERRS_0 37000 SP030 SPARQL compiler, line 5: syntax error at '?s' before '?p'
+08:41:30 ERRS_0 37000 SP030 SPARQL compiler, line 6: syntax error at 'slelect' before '?s'
+08:41:30 ERRS_0 37000 SQ074 Line 7: SP030: SPARQL compiler, line 6: syntax error at 'slelect' before '?s'
+08:41:30 ERRS_0 37000 SP030 SPARQL compiler, line 6: syntax error at 'slelect' before '?s'
+08:41:30 ERRS_0 37000 SQ074 Line 7: SP030: SPARQL compiler, line 6: syntax error at 'slelect' before '?s'
+08:41:30 ERRS_0 37000 SP030 SPARQL compiler, line 5: syntax error at 'slelect' before '?s'
+08:45:47 ERRS_0 37000 SP030 SPARQL compiler, line 8: Undefined namespace prefix at 'schema' before ';'
+08:45:47 ERRS_0 37000 SQ074 Line 11: SP030: SPARQL compiler, line 8: Undefined namespace prefix at 'schema' before ';'
+08:45:47 ERRS_0 37000 SP030 SPARQL compiler, line 8: Undefined namespace prefix at 'schema' before ';'
+08:45:47 ERRS_0 37000 SQ074 Line 11: SP030: SPARQL compiler, line 8: Undefined namespace prefix at 'schema' before ';'
+08:45:47 ERRS_0 37000 SP030 SPARQL compiler, line 7: Undefined namespace prefix at 'schema' before ';'
+08:47:36 ERRS_0 37000 SP030 SPARQL compiler, line 8: Undefined namespace prefix at 'schema' before ';'
+08:47:36 ERRS_0 37000 SQ074 Line 22: SP030: SPARQL compiler, line 8: Undefined namespace prefix at 'schema' before ';'
+08:47:36 ERRS_0 37000 SP030 SPARQL compiler, line 8: Undefined namespace prefix at 'schema' before ';'
+08:47:36 ERRS_0 37000 SQ074 Line 22: SP030: SPARQL compiler, line 8: Undefined namespace prefix at 'schema' before ';'
+08:47:36 ERRS_0 37000 SP030 SPARQL compiler, line 7: Undefined namespace prefix at 'schema' before ';'
+09:00:12 Server received signal 15
+09:00:12 Initiating quick shutdown
+09:00:12 Server shutdown complete
+
+		Tue Aug 08 2023
+09:01:01 OpenLink Virtuoso Universal Server
+09:01:01 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+09:01:01 uses OpenSSL 1.0.2n  7 Dec 2017
+09:01:01 uses parts of PCRE, Html Tidy
+09:01:01 Database version 3126
+09:01:01 SQL Optimizer enabled (max 1000 layouts)
+09:01:02 Compiler unit is timed at 0.000092 msec
+09:01:02 Roll forward started
+09:01:02 Roll forward complete
+09:01:03 Checkpoint started
+09:01:03 Checkpoint finished, log reused
+09:01:03 HTTP/WebDAV server online at 8890
+09:01:03 Server online at 1111 (pid 1)
+09:01:16 ERRS_0 37000 SP030 SPARQL compiler, line 10: syntax error at 'schema:name' before '"Synthesizer"'
+09:01:16 ERRS_0 37000 SQ074 Line 25: SP030: SPARQL compiler, line 10: syntax error at 'schema:name' before '"Synthesizer"'
+09:01:16 ERRS_0 37000 SP030 SPARQL compiler, line 10: syntax error at 'schema:name' before '"Synthesizer"'
+09:01:16 ERRS_0 37000 SQ074 Line 25: SP030: SPARQL compiler, line 10: syntax error at 'schema:name' before '"Synthesizer"'
+09:01:16 ERRS_0 37000 SP030 SPARQL compiler, line 9: syntax error at 'schema:name' before '"Synthesizer"'
+
+		Tue Aug 08 2023
+09:02:18 OpenLink Virtuoso Universal Server
+09:02:18 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+09:02:18 uses OpenSSL 1.0.2n  7 Dec 2017
+09:02:18 uses parts of PCRE, Html Tidy
+09:02:18 Database version 3126
+09:02:18 SQL Optimizer enabled (max 1000 layouts)
+09:02:19 Compiler unit is timed at 0.000091 msec
+09:02:19 Roll forward started
+09:02:19 Roll forward complete
+09:02:19 Checkpoint started
+09:02:19 Checkpoint finished, log reused
+09:02:19 HTTP/WebDAV server online at 8890
+09:02:19 Server online at 1111 (pid 1)
+09:02:32 ERRS_0 37000 SP030 SPARQL compiler, line 10: syntax error at 'schema:name' before '"Synthesizer"'
+09:02:32 ERRS_0 37000 SQ074 Line 25: SP030: SPARQL compiler, line 10: syntax error at 'schema:name' before '"Synthesizer"'
+09:02:32 ERRS_0 37000 SP030 SPARQL compiler, line 10: syntax error at 'schema:name' before '"Synthesizer"'
+09:02:32 ERRS_0 37000 SQ074 Line 25: SP030: SPARQL compiler, line 10: syntax error at 'schema:name' before '"Synthesizer"'
+09:02:32 ERRS_0 37000 SP030 SPARQL compiler, line 9: syntax error at 'schema:name' before '"Synthesizer"'
+
+		Tue Aug 08 2023
+09:02:59 OpenLink Virtuoso Universal Server
+09:02:59 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+09:02:59 uses OpenSSL 1.0.2n  7 Dec 2017
+09:02:59 uses parts of PCRE, Html Tidy
+09:02:59 Database version 3126
+09:02:59 SQL Optimizer enabled (max 1000 layouts)
+09:03:00 Compiler unit is timed at 0.000089 msec
+09:03:00 Roll forward started
+09:03:00 Roll forward complete
+09:03:01 Checkpoint started
+09:03:01 Checkpoint finished, log reused
+09:03:03 HTTP/WebDAV server online at 8890
+09:03:03 Server online at 1111 (pid 1)
+09:03:14 ERRS_0 37000 SP030 SPARQL compiler, line 10: syntax error at 'schema:itemListElement' before '"MIDI (in)"'
+09:03:14 ERRS_0 37000 SQ074 Line 53: SP030: SPARQL compiler, line 10: syntax error at 'schema:itemListElement' before '"MIDI (in)"'
+09:03:14 ERRS_0 37000 SP030 SPARQL compiler, line 10: syntax error at 'schema:itemListElement' before '"MIDI (in)"'
+09:03:14 ERRS_0 37000 SQ074 Line 53: SP030: SPARQL compiler, line 10: syntax error at 'schema:itemListElement' before '"MIDI (in)"'
+09:03:14 ERRS_0 37000 SP030 SPARQL compiler, line 9: syntax error at 'schema:itemListElement' before '"MIDI (in)"'
+
+		Tue Aug 08 2023
+09:04:05 OpenLink Virtuoso Universal Server
+09:04:05 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+09:04:05 uses OpenSSL 1.0.2n  7 Dec 2017
+09:04:05 uses parts of PCRE, Html Tidy
+09:04:05 Database version 3126
+09:04:05 SQL Optimizer enabled (max 1000 layouts)
+09:04:06 Compiler unit is timed at 0.000114 msec
+09:04:07 Roll forward started
+09:04:07 Roll forward complete
+09:04:07 Checkpoint started
+09:04:07 Checkpoint finished, log reused
+09:04:09 HTTP/WebDAV server online at 8890
+09:04:09 Server online at 1111 (pid 1)
+09:04:44 ERRS_0 37000 SP030 SPARQL compiler, line 10: syntax error at 'schema:itemListElement' before '"MIDI (in)"'
+09:04:44 ERRS_0 37000 SQ074 Line 53: SP030: SPARQL compiler, line 10: syntax error at 'schema:itemListElement' before '"MIDI (in)"'
+09:04:44 ERRS_0 37000 SP030 SPARQL compiler, line 10: syntax error at 'schema:itemListElement' before '"MIDI (in)"'
+09:04:44 ERRS_0 37000 SQ074 Line 53: SP030: SPARQL compiler, line 10: syntax error at 'schema:itemListElement' before '"MIDI (in)"'
+09:04:44 ERRS_0 37000 SP030 SPARQL compiler, line 9: syntax error at 'schema:itemListElement' before '"MIDI (in)"'
+
+		Tue Aug 08 2023
+09:07:58 OpenLink Virtuoso Universal Server
+09:07:58 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+09:07:58 uses OpenSSL 1.0.2n  7 Dec 2017
+09:07:58 uses parts of PCRE, Html Tidy
+09:07:58 Database version 3126
+09:07:58 SQL Optimizer enabled (max 1000 layouts)
+09:07:59 Compiler unit is timed at 0.000100 msec
+09:07:59 Roll forward started
+09:07:59 Roll forward complete
+09:08:00 Checkpoint started
+09:08:00 Checkpoint finished, log reused
+09:08:00 HTTP/WebDAV server online at 8890
+09:08:00 Server online at 1111 (pid 1)
+
+		Tue Aug 08 2023
+09:26:28 OpenLink Virtuoso Universal Server
+09:26:28 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+09:26:28 uses OpenSSL 1.0.2n  7 Dec 2017
+09:26:28 uses parts of PCRE, Html Tidy
+09:26:28 Database version 3126
+09:26:28 SQL Optimizer enabled (max 1000 layouts)
+09:26:29 Compiler unit is timed at 0.000092 msec
+09:26:29 Roll forward started
+09:26:29 Roll forward complete
+09:26:30 Checkpoint started
+09:26:30 Checkpoint finished, log reused
+09:26:32 HTTP/WebDAV server online at 8890
+09:26:32 Server online at 1111 (pid 1)
+10:26:32 Checkpoint started
+10:26:32 Checkpoint finished, log reused
+11:26:34 Checkpoint started
+11:26:34 Checkpoint finished, log reused
+12:26:35 Checkpoint started
+12:26:35 Checkpoint finished, log reused
+13:26:37 Checkpoint started
+13:26:37 Checkpoint finished, log reused
+14:36:57 Checkpoint started
+14:36:57 Checkpoint finished, log reused
+
+		Wed Aug 09 2023
+07:49:19 OpenLink Virtuoso Universal Server
+07:49:19 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+07:49:19 uses OpenSSL 1.0.2n  7 Dec 2017
+07:49:19 uses parts of PCRE, Html Tidy
+07:49:19 Database version 3126
+07:49:19 SQL Optimizer enabled (max 1000 layouts)
+07:49:20 Compiler unit is timed at 0.000100 msec
+07:49:21 Roll forward started
+07:49:21 Roll forward complete
+07:49:21 Checkpoint started
+07:49:21 Checkpoint finished, log reused
+07:49:21 HTTP/WebDAV server online at 8890
+07:49:21 Server online at 1111 (pid 1)
+08:49:21 Server received signal 15
+08:49:21 Initiating quick shutdown
+08:49:21 Server shutdown complete
+
+		Wed Aug 09 2023
+09:12:30 OpenLink Virtuoso Universal Server
+09:12:30 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+09:12:30 uses OpenSSL 1.0.2n  7 Dec 2017
+09:12:30 uses parts of PCRE, Html Tidy
+09:12:30 Database version 3126
+09:12:30 SQL Optimizer enabled (max 1000 layouts)
+09:12:31 Compiler unit is timed at 0.000101 msec
+09:12:31 Roll forward started
+09:12:31 Roll forward complete
+09:12:32 Checkpoint started
+09:12:32 Checkpoint finished, log reused
+09:12:32 HTTP/WebDAV server online at 8890
+09:12:32 Server online at 1111 (pid 1)
+10:12:32 Checkpoint started
+10:12:32 Checkpoint finished, log reused
+11:12:32 Checkpoint started
+11:12:32 Checkpoint finished, log reused
+12:12:32 Checkpoint started
+12:12:32 Checkpoint finished, log reused
+13:12:34 Checkpoint started
+13:12:34 Checkpoint finished, log reused

@@ -7,13 +7,13 @@
                 (:channeltype :string ,(s-prefix "schema:text"))
                 (:channels :number ,(s-prefix "schema:size")))
   :has-one `((devicetype :via ,(s-prefix "schema:category")
-                     :as "devicetypes"))       
+                     :as "device-type"))       
   ; :has-one `((brand :via ,(s-prefix "schema:owns")
   ;                    :as "brand"))              
   :resource-base (s-url "http://mu.semte.ch/application/device-service/devices/")
 :on-path "devices")
 
-(define-resource devicetype()
+(define-resource device-type()
   :class (s-prefix "schema:Thing")
   :properties  `((:type :string ,(s-prefix "schema:name")))
   :has-many `((device :via ,(s-prefix "schema:category")
@@ -23,7 +23,7 @@
   ;                    :inverse t
   ;                    :as "brands"))                                  
   :resource-base (s-url "http://mu.semte.ch/application/device-service/devicetypes/")
-:on-path "devicetypes")
+:on-path "device-types")
 
 
 (define-resource brand()

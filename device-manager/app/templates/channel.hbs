@@ -1,0 +1,24 @@
+{{page-title "Channel"}}
+
+<table class="channels">
+    <tr>
+      <th>Channel</th>
+      <th>Stereo/Mono</th>
+      <th>type</th>
+    </tr>
+    {{#each @model as |channel|}}
+      <tr>
+        <td>{{channel.audiotype}}</td>
+        <td>{{channel.channeltype}}</td>
+        <td>{{channel.channeldirection}}</td>
+        <td>
+          {{!-- <button
+            type="button"
+            {{on "click" (fn this.removeDevice device)}}
+          >Remove</button> --}}
+        </td>
+      </tr>
+    {{/each}}
+  </table>
+    
+{{outlet}}
