@@ -48,4 +48,12 @@ services:
       - triplestore:database
     volumes:
       - ./config/resources:/config
+  emberjs:
+    build:
+      context: ./device-manager/frontend
+      dockerfile: docker/Dockerfile
+    ports:
+      - "4200:4200"
+    volumes:
+      - ./device-manager/frontend:/usr/src/app
           

@@ -3280,3 +3280,145 @@
 11:02:04 Checkpoint finished, log reused
 12:02:06 Checkpoint started
 12:02:06 Checkpoint finished, log reused
+
+		Thu Aug 17 2023
+12:23:01 OpenLink Virtuoso Universal Server
+12:23:01 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+12:23:01 uses OpenSSL 1.0.2n  7 Dec 2017
+12:23:01 uses parts of PCRE, Html Tidy
+12:23:01 Database version 3126
+12:23:01 SQL Optimizer enabled (max 1000 layouts)
+12:23:02 Compiler unit is timed at 0.000091 msec
+12:23:03 Roll forward started
+12:23:03 Roll forward complete
+12:23:03 Checkpoint started
+12:23:03 Checkpoint finished, log reused
+12:23:03 HTTP/WebDAV server online at 8890
+12:23:03 Server online at 1111 (pid 1)
+13:23:03 Checkpoint started
+13:23:03 Checkpoint finished, log reused
+14:23:04 Checkpoint started
+14:23:04 Checkpoint finished, log reused
+14:41:48 Server received signal 15
+14:41:48 Initiating quick shutdown
+14:41:48 Server shutdown complete
+
+		Thu Aug 17 2023
+14:42:53 OpenLink Virtuoso Universal Server
+14:42:53 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+14:42:53 uses OpenSSL 1.0.2n  7 Dec 2017
+14:42:53 uses parts of PCRE, Html Tidy
+14:42:53 Database version 3126
+14:42:53 SQL Optimizer enabled (max 1000 layouts)
+14:42:54 Compiler unit is timed at 0.000090 msec
+14:42:54 Roll forward started
+14:42:54 Roll forward complete
+14:42:54 Checkpoint started
+14:42:54 Checkpoint finished, log reused
+14:42:56 HTTP/WebDAV server online at 8890
+14:42:56 Server online at 1111 (pid 1)
+
+		Thu Aug 17 2023
+15:42:31 OpenLink Virtuoso Universal Server
+15:42:31 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+15:42:31 uses OpenSSL 1.0.2n  7 Dec 2017
+15:42:31 uses parts of PCRE, Html Tidy
+15:42:31 Database version 3126
+15:42:31 SQL Optimizer enabled (max 1000 layouts)
+15:42:32 Compiler unit is timed at 0.000085 msec
+15:42:32 Roll forward started
+15:42:32 Roll forward complete
+15:42:33 Checkpoint started
+15:42:33 Checkpoint finished, log reused
+15:42:33 HTTP/WebDAV server online at 8890
+15:42:33 Server online at 1111 (pid 1)
+15:46:12 Server received signal 15
+15:46:12 Initiating quick shutdown
+15:46:12 Server shutdown complete
+
+		Thu Aug 17 2023
+15:46:32 OpenLink Virtuoso Universal Server
+15:46:32 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+15:46:32 uses OpenSSL 1.0.2n  7 Dec 2017
+15:46:32 uses parts of PCRE, Html Tidy
+15:46:32 Database version 3126
+15:46:32 SQL Optimizer enabled (max 1000 layouts)
+15:46:33 Compiler unit is timed at 0.000086 msec
+15:46:33 Roll forward started
+15:46:33 Roll forward complete
+15:46:34 Checkpoint started
+15:46:34 Checkpoint finished, log reused
+15:46:34 HTTP/WebDAV server online at 8890
+15:46:34 Server online at 1111 (pid 1)
+15:53:05 Server received signal 15
+15:53:05 Initiating quick shutdown
+15:53:05 Server shutdown complete
+
+		Thu Aug 17 2023
+15:53:29 OpenLink Virtuoso Universal Server
+15:53:29 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+15:53:29 uses OpenSSL 1.0.2n  7 Dec 2017
+15:53:29 uses parts of PCRE, Html Tidy
+15:53:29 Database version 3126
+15:53:29 SQL Optimizer enabled (max 1000 layouts)
+15:53:30 Compiler unit is timed at 0.000087 msec
+15:53:30 Roll forward started
+15:53:30 Roll forward complete
+15:53:30 Checkpoint started
+15:53:30 Checkpoint finished, log reused
+15:53:30 HTTP/WebDAV server online at 8890
+15:53:30 Server online at 1111 (pid 1)
+15:55:57 Server received signal 15
+15:55:57 Initiating quick shutdown
+15:55:57 Server shutdown complete
+
+		Thu Aug 17 2023
+15:56:56 OpenLink Virtuoso Universal Server
+15:56:56 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+15:56:56 uses OpenSSL 1.0.2n  7 Dec 2017
+15:56:56 uses parts of PCRE, Html Tidy
+15:56:56 Database version 3126
+15:56:56 SQL Optimizer enabled (max 1000 layouts)
+15:56:57 Compiler unit is timed at 0.000083 msec
+15:56:58 Roll forward started
+15:56:58 Roll forward complete
+15:56:58 Checkpoint started
+15:56:58 Checkpoint finished, log reused
+15:56:58 HTTP/WebDAV server online at 8890
+15:56:58 Server online at 1111 (pid 1)
+15:57:51 ERRS_0 HY008 SR203 Async statement killed by SQLCancel.
+15:57:51 ERRS_0 S1T00 {CLI.. Client cancelled or disconnected
+15:57:51 ERRS_0 40001 SR337 Transaction aborted due to async rollback in cluster
+15:57:51 ERRS_0 40001 SR337 Transaction aborted due to async rollback in cluster
+15:57:51 ERRS_0 HY008 SR203 Async statement killed by SQLCancel.
+15:57:51 ERRS_0 HY008 SR203 Async statement killed by SQLCancel.
+15:57:51 ERRS_0 S1T00 {CLI.. Client cancelled or disconnected
+15:57:51 ERRS_0 40001 SR337 Transaction aborted due to async rollback in cluster
+15:57:51 ERRS_0 S1T00 {CLI.. Client cancelled or disconnected
+15:57:51 ERRS_0 40001 SR337 Transaction aborted due to async rollback in cluster
+15:57:51 ERRS_0 S1T00 {CLI.. Client cancelled or disconnected
+15:57:51 ERRS_0 40001 SR337 Transaction aborted due to async rollback in cluster
+15:57:51 ERRS_0 S1T00 {CLI.. Client cancelled or disconnected
+15:57:51 ERRS_0 40001 SR337 Transaction aborted due to async rollback in cluster
+15:57:51 ERRS_0 S1T00 {CLI.. Client cancelled or disconnected
+15:57:51 ERRS_0 40001 SR337 Transaction aborted due to async rollback in cluster
+15:57:51 ERRS_0 S1T00 {CLI.. Client cancelled or disconnected
+15:57:51 ERRS_0 40001 SR337 Transaction aborted due to async rollback in cluster
+15:57:51 ERRS_0 S1T00 {CLI.. Client cancelled or disconnected
+15:57:51 ERRS_0 40001 SR337 Transaction aborted due to async rollback in cluster
+15:57:51 ERRS_0 40001 SR337 Transaction aborted due to async rollback in cluster
+
+		Thu Aug 17 2023
+16:33:12 OpenLink Virtuoso Universal Server
+16:33:12 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+16:33:12 uses OpenSSL 1.0.2n  7 Dec 2017
+16:33:12 uses parts of PCRE, Html Tidy
+16:33:12 Database version 3126
+16:33:12 SQL Optimizer enabled (max 1000 layouts)
+16:33:13 Compiler unit is timed at 0.000090 msec
+16:33:13 Roll forward started
+16:33:13 Roll forward complete
+16:33:14 Checkpoint started
+16:33:14 Checkpoint finished, log reused
+16:33:14 HTTP/WebDAV server online at 8890
+16:33:14 Server online at 1111 (pid 1)
