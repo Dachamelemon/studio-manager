@@ -1,0 +1,17 @@
+{{page-title "Mydevices"}}
+<h2>{{this.deviceName}}</h2>
+<table class="channels">
+  <tr>
+    <th>Device Name:</th>
+    <th>Device Type:</th>
+    <th>Channel Count:</th>
+  </tr>
+  {{#each this.mydevices as |device|}}
+    <tr>
+      <td><LinkTo @route="deviceinfo" @query={{hash id=device.id}}>{{device.brand}} {{device.model}}</LinkTo></td>
+      <td>{{device.deviceType.type}}</td>
+      <td>{{device.channels.length}}</td>
+    </tr>
+  {{/each}}
+</table>
+{{outlet}}

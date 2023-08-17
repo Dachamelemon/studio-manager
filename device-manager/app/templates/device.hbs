@@ -65,11 +65,9 @@
           <ul>
             {{#each this.channelList as |channel|}}
               <li><input class="channel" type="checkbox" />
-                {{channel.audiotype}}
+                {{channel.channel.audiotype}}
                 -
-                {{channel.channeltype}}
-                -
-                {{channel.channeldirection}}</li>
+                {{channel.channel.channeldirection}}</li>
             {{/each}}
           </ul>
           <br />

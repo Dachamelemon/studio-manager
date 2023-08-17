@@ -7,5 +7,4 @@ export default class DeviceModel extends Model {
   @hasMany(ResourceModel.CHANNEL, { async: true, inverse: null }) channels;
   @belongsTo(ResourceModel.DEVICETYPE, { async: true, inverse: null })
   deviceType;
-  @hasMany(ResourceModel.DEVICE, { async: true, inverse: null }) devices;
 }

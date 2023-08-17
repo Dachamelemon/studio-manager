@@ -14,6 +14,8 @@ export default class DeviceController extends Controller {
   @tracked allChannels = '';
   @tracked channelList = '';
   @tracked message = '';
+  @tracked success = 'successMessage'
+  @tracked error = 'errorMessage'
   @tracked typeIsSelected = false;
   @tracked hasData = false;
 
@@ -27,10 +29,10 @@ export default class DeviceController extends Controller {
     super.init();
     try {
       this.listOfTypes = await this.store.findAll(ResourceModel.DEVICETYPE);
-      this.allChannels = await this.store.findAll(ResourceModel.CHANNEL);
+      this.allChannels = await this.store.findAll(ResourceModel.CHANNELTYPE);
     } catch (e) {
       this.message = 'Error fetching types:' + e;
-      this.showBlock('errorMessage')
+      this.showBlock(this.error)
     }
   }
 
@@ -60,10 +62,10 @@ export default class DeviceController extends Controller {
     try {
       await device.save();
       this.message = 'Your device ' + device.model + 'has successfully been created';
-      this.showBlock('successMessage');
+      this.showBlock(this.success);
     } catch (e) {
       this.message = 'Something went wrong while creating your device: ' + e;
-      this.showBlock('errorMessage');
+      this.showBlock(this.error);
     }
 
     console.log(device);
@@ -106,13 +108,24 @@ export default class DeviceController extends Controller {
   }
 
   @action
-  addChannel() {
+ async addChannel() {
+  let channel = '';
+  
     for (let i = 0; i < this.channelCount; i++) {
-      this.channelList = [...this.channelList, this.selectedChannel];
+      try{
+        channel = await this.store.createRecord(ResourceModel.CHANNEL, {
+          channelposition: i + 1, 
+        });
+        channel.channel = this.selectedChannel;
+        await channel.save();
+        this.channelList = [...this.channelList, channel];
+      }catch(e){
+        this.message = "something went wrong while creating this channel " + e;
+        this.showBlock(this.error)
+      }
     }
     this.selectedChannel = '';
     this.channelCount = '';
-    return this.channelList;
   }
 
   @action

@@ -10,6 +10,8 @@ Router.map(function () {
   this.route('device');
   this.route('device-type');
   this.route('home');
+  this.route('channel-type');
   this.route('channel');
   this.route('mydevices');
+  this.route('deviceinfo');
 });

@@ -25,6 +25,9 @@ defmodule Dispatcher do
   match "/device-types/*path" do 
     Proxy.forward conn, path, "http://resource/device-types/"
   end  
+  match "/channel-types/*path" do 
+    Proxy.forward conn, path, "http://resource/channel-types/"
+  end  
   match "/channels/*path" do 
     Proxy.forward conn, path, "http://resource/channels/"
   end  

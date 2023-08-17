@@ -2797,3 +2797,484 @@
 12:12:32 Checkpoint finished, log reused
 13:12:34 Checkpoint started
 13:12:34 Checkpoint finished, log reused
+14:12:34 Checkpoint started
+14:12:34 Checkpoint finished, log reused
+
+		Thu Aug 10 2023
+07:19:29 Checkpoint started
+07:19:29 Checkpoint finished, log reused
+08:19:30 Checkpoint started
+08:19:30 Checkpoint finished, log reused
+09:19:31 Checkpoint started
+09:19:31 Checkpoint finished, log reused
+10:19:32 Checkpoint started
+10:19:32 Checkpoint finished, log reused
+11:19:32 Checkpoint started
+11:19:32 Checkpoint finished, log reused
+12:19:33 Checkpoint started
+12:19:33 Checkpoint finished, log reused
+13:19:33 Checkpoint started
+13:19:33 Checkpoint finished, log reused
+14:19:34 Checkpoint started
+14:19:34 Checkpoint finished, log reused
+15:19:35 Checkpoint started
+15:19:35 Checkpoint finished, log reused
+16:19:35 Checkpoint started
+16:19:35 Checkpoint finished, log reused
+17:19:36 Checkpoint started
+17:19:36 Checkpoint finished, log reused
+18:19:36 Checkpoint started
+18:19:37 Checkpoint finished, log reused
+19:19:37 Checkpoint started
+19:19:37 Checkpoint finished, log reused
+20:19:38 Checkpoint started
+20:19:38 Checkpoint finished, log reused
+21:19:38 Checkpoint started
+21:19:38 Checkpoint finished, log reused
+22:19:39 Checkpoint started
+22:19:39 Checkpoint finished, log reused
+23:19:40 Checkpoint started
+23:19:40 Checkpoint finished, log reused
+
+		Fri Aug 11 2023
+00:19:40 Checkpoint started
+00:19:40 Checkpoint finished, log reused
+01:19:41 Checkpoint started
+01:19:41 Checkpoint finished, log reused
+02:19:42 Checkpoint started
+02:19:42 Checkpoint finished, log reused
+03:19:42 Checkpoint started
+03:19:42 Checkpoint finished, log reused
+04:19:43 Checkpoint started
+04:19:43 Checkpoint finished, log reused
+05:19:43 Checkpoint started
+05:19:43 Checkpoint finished, log reused
+06:19:44 Checkpoint started
+06:19:44 Checkpoint finished, log reused
+07:19:45 Checkpoint started
+07:19:45 Checkpoint finished, log reused
+08:19:46 Checkpoint started
+08:19:46 Checkpoint finished, log reused
+09:19:47 Checkpoint started
+09:19:47 Checkpoint finished, log reused
+09:28:45 ERRS_0 42000 UD021 No user defined class DB.DBA.page_f97a0fe94cf12fd45d8652041b3640e3V_VAD_conductor_main__tabs_vspx
+09:28:45 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+09:28:45 ERRS_0 42000 UD021 No user defined class DB.DBA.page_23a9644beceec46b97fd1b95fe9fad7ductor_adm__navigation__bar_vspx
+09:28:45 ERRS_0 01V01 QW008 Invalid = comparison operation argument control type INSTANCE (254)
+09:28:45 ERRS_0 01V01 QW008 Invalid = comparison operation argument control type INSTANCE (254)
+09:28:45 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+09:28:45 ERRS_0 01V01 QW001 Local declaration of inx shadows a definition of the same name
+09:33:27 ERRS_0 42000 UD021 No user defined class DB.DBA.page_d190a278c2554ff79e0f0863a59b6c21AD_conductor_sparql__input_vspx
+09:33:27 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+
+		Fri Aug 11 2023
+09:53:20 OpenLink Virtuoso Universal Server
+09:53:20 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+09:53:20 uses OpenSSL 1.0.2n  7 Dec 2017
+09:53:20 uses parts of PCRE, Html Tidy
+09:53:20 Database version 3126
+09:53:20 SQL Optimizer enabled (max 1000 layouts)
+09:53:21 Compiler unit is timed at 0.000089 msec
+09:53:21 Roll forward started
+09:53:21 Roll forward complete
+09:53:22 Checkpoint started
+09:53:22 Checkpoint finished, log reused
+09:53:22 HTTP/WebDAV server online at 8890
+09:53:22 Server online at 1111 (pid 1)
+
+		Fri Aug 11 2023
+10:00:06 OpenLink Virtuoso Universal Server
+10:00:06 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+10:00:06 uses OpenSSL 1.0.2n  7 Dec 2017
+10:00:06 uses parts of PCRE, Html Tidy
+10:00:06 Database version 3126
+10:00:06 SQL Optimizer enabled (max 1000 layouts)
+10:00:07 Compiler unit is timed at 0.000106 msec
+10:00:07 Roll forward started
+10:00:07 Roll forward complete
+10:00:08 Checkpoint started
+10:00:08 Checkpoint finished, log reused
+10:00:08 HTTP/WebDAV server online at 8890
+10:00:08 Server online at 1111 (pid 1)
+
+		Fri Aug 11 2023
+10:12:04 OpenLink Virtuoso Universal Server
+10:12:04 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+10:12:04 uses OpenSSL 1.0.2n  7 Dec 2017
+10:12:04 uses parts of PCRE, Html Tidy
+10:12:04 Database version 3126
+10:12:04 SQL Optimizer enabled (max 1000 layouts)
+10:12:05 Compiler unit is timed at 0.000095 msec
+10:12:05 Roll forward started
+10:12:05 Roll forward complete
+10:12:05 Checkpoint started
+10:12:05 Checkpoint finished, log reused
+10:12:05 HTTP/WebDAV server online at 8890
+10:12:05 Server online at 1111 (pid 1)
+
+		Fri Aug 11 2023
+10:22:03 OpenLink Virtuoso Universal Server
+10:22:03 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+10:22:03 uses OpenSSL 1.0.2n  7 Dec 2017
+10:22:03 uses parts of PCRE, Html Tidy
+10:22:03 Database version 3126
+10:22:03 SQL Optimizer enabled (max 1000 layouts)
+10:22:04 Compiler unit is timed at 0.000092 msec
+10:22:04 Roll forward started
+10:22:04 Roll forward complete
+10:22:05 Checkpoint started
+10:22:05 Checkpoint finished, log reused
+10:22:05 HTTP/WebDAV server online at 8890
+10:22:05 Server online at 1111 (pid 1)
+
+		Fri Aug 11 2023
+10:45:51 OpenLink Virtuoso Universal Server
+10:45:51 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+10:45:51 uses OpenSSL 1.0.2n  7 Dec 2017
+10:45:51 uses parts of PCRE, Html Tidy
+10:45:51 Database version 3126
+10:45:51 SQL Optimizer enabled (max 1000 layouts)
+10:45:52 Compiler unit is timed at 0.000096 msec
+10:45:53 Roll forward started
+10:45:53 Roll forward complete
+10:45:53 Checkpoint started
+10:45:53 Checkpoint finished, log reused
+10:45:53 HTTP/WebDAV server online at 8890
+10:45:53 Server online at 1111 (pid 1)
+
+		Fri Aug 11 2023
+11:13:02 OpenLink Virtuoso Universal Server
+11:13:02 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+11:13:02 uses OpenSSL 1.0.2n  7 Dec 2017
+11:13:02 uses parts of PCRE, Html Tidy
+11:13:02 Database version 3126
+11:13:02 SQL Optimizer enabled (max 1000 layouts)
+11:13:03 Compiler unit is timed at 0.000094 msec
+11:13:03 Roll forward started
+11:13:03 Roll forward complete
+11:13:03 Checkpoint started
+11:13:03 Checkpoint finished, log reused
+11:13:05 HTTP/WebDAV server online at 8890
+11:13:05 Server online at 1111 (pid 1)
+
+		Fri Aug 11 2023
+11:39:06 OpenLink Virtuoso Universal Server
+11:39:06 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+11:39:06 uses OpenSSL 1.0.2n  7 Dec 2017
+11:39:06 uses parts of PCRE, Html Tidy
+11:39:06 Database version 3126
+11:39:06 SQL Optimizer enabled (max 1000 layouts)
+11:39:07 Compiler unit is timed at 0.000102 msec
+11:39:07 Roll forward started
+11:39:07 Roll forward complete
+11:39:08 Checkpoint started
+11:39:08 Checkpoint finished, log reused
+11:39:08 HTTP/WebDAV server online at 8890
+11:39:08 Server online at 1111 (pid 1)
+
+		Fri Aug 11 2023
+11:39:49 OpenLink Virtuoso Universal Server
+11:39:49 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+11:39:49 uses OpenSSL 1.0.2n  7 Dec 2017
+11:39:49 uses parts of PCRE, Html Tidy
+11:39:49 Database version 3126
+11:39:49 SQL Optimizer enabled (max 1000 layouts)
+11:39:50 Compiler unit is timed at 0.000091 msec
+11:39:50 Roll forward started
+11:39:50 Roll forward complete
+11:39:50 Checkpoint started
+11:39:50 Checkpoint finished, log reused
+11:39:50 HTTP/WebDAV server online at 8890
+11:39:50 Server online at 1111 (pid 1)
+
+		Fri Aug 11 2023
+11:45:04 OpenLink Virtuoso Universal Server
+11:45:04 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+11:45:04 uses OpenSSL 1.0.2n  7 Dec 2017
+11:45:04 uses parts of PCRE, Html Tidy
+11:45:04 Database version 3126
+11:45:04 SQL Optimizer enabled (max 1000 layouts)
+11:45:05 Compiler unit is timed at 0.000089 msec
+11:45:05 Roll forward started
+11:45:05 Roll forward complete
+11:45:06 Checkpoint started
+11:45:06 Checkpoint finished, log reused
+11:45:06 HTTP/WebDAV server online at 8890
+11:45:06 Server online at 1111 (pid 1)
+11:45:49 ERRS_0 42000 UD021 No user defined class DB.DBA.page_f97a0fe94cf12fd45d8652041b3640e3V_VAD_conductor_main__tabs_vspx
+11:45:49 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+11:45:49 ERRS_0 42000 UD021 No user defined class DB.DBA.page_23a9644beceec46b97fd1b95fe9fad7ductor_adm__navigation__bar_vspx
+11:45:49 ERRS_0 01V01 QW008 Invalid = comparison operation argument control type INSTANCE (254)
+11:45:49 ERRS_0 01V01 QW008 Invalid = comparison operation argument control type INSTANCE (254)
+11:45:49 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+11:45:49 ERRS_0 01V01 QW001 Local declaration of inx shadows a definition of the same name
+11:45:55 ERRS_0 42000 UD021 No user defined class DB.DBA.page_d190a278c2554ff79e0f0863a59b6c21AD_conductor_sparql__input_vspx
+11:45:55 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+11:46:18 ERRS_0 37000 SP030 SPARQL compiler, line 6: syntax error at 'were' before '{'
+11:46:18 ERRS_0 37000 SQ074 Line 9: SP030: SPARQL compiler, line 6: syntax error at 'were' before '{'
+11:46:18 ERRS_0 37000 SP030 SPARQL compiler, line 6: syntax error at 'were' before '{'
+11:46:18 ERRS_0 37000 SQ074 Line 9: SP030: SPARQL compiler, line 6: syntax error at 'were' before '{'
+11:46:18 ERRS_0 37000 SP030 SPARQL compiler, line 5: syntax error at 'were' before '{'
+11:50:23 ERRS_0 37000 SP030 SPARQL compiler, line 5: syntax error at 'schema' before '<http://schema.org>'
+11:50:23 ERRS_0 37000 SQ074 Line 10: SP030: SPARQL compiler, line 5: syntax error at 'schema' before '<http://schema.org>'
+11:50:23 ERRS_0 37000 SP030 SPARQL compiler, line 5: syntax error at 'schema' before '<http://schema.org>'
+11:50:23 ERRS_0 37000 SQ074 Line 10: SP030: SPARQL compiler, line 5: syntax error at 'schema' before '<http://schema.org>'
+11:50:23 ERRS_0 37000 SP030 SPARQL compiler, line 4: syntax error at 'schema' before '<http://schema.org>'
+11:50:47 ERRS_0 37000 SP030 SPARQL compiler, line 5: syntax error at '<http://schema.org>' before 'schema'
+11:50:47 ERRS_0 37000 SQ074 Line 10: SP030: SPARQL compiler, line 5: syntax error at '<http://schema.org>' before 'schema'
+11:50:47 ERRS_0 37000 SP030 SPARQL compiler, line 5: syntax error at '<http://schema.org>' before 'schema'
+11:50:47 ERRS_0 37000 SQ074 Line 10: SP030: SPARQL compiler, line 5: syntax error at '<http://schema.org>' before 'schema'
+11:50:47 ERRS_0 37000 SP030 SPARQL compiler, line 4: syntax error at '<http://schema.org>' before 'schema'
+11:51:07 ERRS_0 37000 SP030 SPARQL compiler, line 5: syntax error at 'prefix:schema' before '<http://schema.org>'
+11:51:07 ERRS_0 37000 SQ074 Line 10: SP030: SPARQL compiler, line 5: syntax error at 'prefix:schema' before '<http://schema.org>'
+11:51:07 ERRS_0 37000 SP030 SPARQL compiler, line 5: syntax error at 'prefix:schema' before '<http://schema.org>'
+11:51:07 ERRS_0 37000 SQ074 Line 10: SP030: SPARQL compiler, line 5: syntax error at 'prefix:schema' before '<http://schema.org>'
+11:51:07 ERRS_0 37000 SP030 SPARQL compiler, line 4: syntax error at 'prefix:schema' before '<http://schema.org>'
+
+		Fri Aug 11 2023
+12:13:00 OpenLink Virtuoso Universal Server
+12:13:00 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+12:13:00 uses OpenSSL 1.0.2n  7 Dec 2017
+12:13:00 uses parts of PCRE, Html Tidy
+12:13:00 Database version 3126
+12:13:00 SQL Optimizer enabled (max 1000 layouts)
+12:13:02 Compiler unit is timed at 0.000090 msec
+12:13:02 Roll forward started
+12:13:02 Roll forward complete
+12:13:02 Checkpoint started
+12:13:02 Checkpoint finished, log reused
+12:13:04 HTTP/WebDAV server online at 8890
+12:13:04 Server online at 1111 (pid 1)
+
+		Fri Aug 11 2023
+12:18:05 OpenLink Virtuoso Universal Server
+12:18:05 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+12:18:05 uses OpenSSL 1.0.2n  7 Dec 2017
+12:18:05 uses parts of PCRE, Html Tidy
+12:18:05 Database version 3126
+12:18:05 SQL Optimizer enabled (max 1000 layouts)
+12:18:06 Compiler unit is timed at 0.000088 msec
+12:18:07 Roll forward started
+12:18:07 Roll forward complete
+12:18:07 Checkpoint started
+12:18:07 Checkpoint finished, log reused
+12:18:07 HTTP/WebDAV server online at 8890
+12:18:07 Server online at 1111 (pid 1)
+
+		Fri Aug 11 2023
+12:38:12 OpenLink Virtuoso Universal Server
+12:38:12 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+12:38:12 uses OpenSSL 1.0.2n  7 Dec 2017
+12:38:12 uses parts of PCRE, Html Tidy
+12:38:12 Database version 3126
+12:38:12 SQL Optimizer enabled (max 1000 layouts)
+12:38:13 Compiler unit is timed at 0.000093 msec
+12:38:14 Roll forward started
+12:38:14 Roll forward complete
+12:38:14 Checkpoint started
+12:38:14 Checkpoint finished, log reused
+12:38:16 HTTP/WebDAV server online at 8890
+12:38:16 Server online at 1111 (pid 1)
+
+		Fri Aug 11 2023
+12:45:11 OpenLink Virtuoso Universal Server
+12:45:11 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+12:45:11 uses OpenSSL 1.0.2n  7 Dec 2017
+12:45:11 uses parts of PCRE, Html Tidy
+12:45:11 Database version 3126
+12:45:11 SQL Optimizer enabled (max 1000 layouts)
+12:45:12 Compiler unit is timed at 0.000091 msec
+12:45:12 Roll forward started
+12:45:12 Roll forward complete
+12:45:13 Checkpoint started
+12:45:13 Checkpoint finished, log reused
+12:45:13 HTTP/WebDAV server online at 8890
+12:45:13 Server online at 1111 (pid 1)
+13:45:14 Checkpoint started
+13:45:14 Checkpoint finished, log reused
+14:45:14 Checkpoint started
+14:45:14 Checkpoint finished, log reused
+15:45:15 Checkpoint started
+15:45:15 Checkpoint finished, log reused
+16:45:15 Checkpoint started
+16:45:15 Checkpoint finished, log reused
+17:45:16 Checkpoint started
+17:45:16 Checkpoint finished, log reused
+18:45:17 Checkpoint started
+18:45:17 Checkpoint finished, log reused
+19:45:17 Checkpoint started
+19:45:17 Checkpoint finished, log reused
+20:45:18 Checkpoint started
+20:45:18 Checkpoint finished, log reused
+
+		Mon Aug 14 2023
+06:41:29 Checkpoint started
+06:41:29 Checkpoint finished, log reused
+07:41:30 Checkpoint started
+07:41:30 Checkpoint finished, log reused
+08:41:30 Checkpoint started
+08:41:30 Checkpoint finished, log reused
+09:13:15 ERRS_0 42000 UD021 No user defined class DB.DBA.page_f97a0fe94cf12fd45d8652041b3640e3V_VAD_conductor_main__tabs_vspx
+09:13:15 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+09:13:15 ERRS_0 42000 UD021 No user defined class DB.DBA.page_23a9644beceec46b97fd1b95fe9fad7ductor_adm__navigation__bar_vspx
+09:13:15 ERRS_0 01V01 QW008 Invalid = comparison operation argument control type INSTANCE (254)
+09:13:15 ERRS_0 01V01 QW008 Invalid = comparison operation argument control type INSTANCE (254)
+09:13:15 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+09:13:15 ERRS_0 01V01 QW001 Local declaration of inx shadows a definition of the same name
+09:13:23 ERRS_0 42000 UD021 No user defined class DB.DBA.page_d190a278c2554ff79e0f0863a59b6c21AD_conductor_sparql__input_vspx
+09:13:23 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+09:14:00 ERRS_0 37000 SP031 SPARQL compiler: No plain default graph specified in the preamble, but it is needed for triple in DELETE WHERE {...} without GRAPH {...}
+
+		Mon Aug 14 2023
+09:15:36 OpenLink Virtuoso Universal Server
+09:15:36 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+09:15:36 uses OpenSSL 1.0.2n  7 Dec 2017
+09:15:36 uses parts of PCRE, Html Tidy
+09:15:36 Database version 3126
+09:15:36 SQL Optimizer enabled (max 1000 layouts)
+09:15:37 Compiler unit is timed at 0.000090 msec
+09:15:37 Roll forward started
+09:15:37 Roll forward complete
+09:15:38 Checkpoint started
+09:15:38 Checkpoint finished, log reused
+09:15:38 HTTP/WebDAV server online at 8890
+09:15:38 Server online at 1111 (pid 1)
+10:15:38 Checkpoint started
+10:15:38 Checkpoint finished, log reused
+11:15:39 Checkpoint started
+11:15:39 Checkpoint finished, log reused
+12:15:39 Checkpoint started
+12:15:39 Checkpoint finished, log reused
+13:15:41 Checkpoint started
+13:15:41 Checkpoint finished, log reused
+14:15:42 Checkpoint started
+14:15:42 Checkpoint finished, log reused
+15:15:42 Checkpoint started
+15:15:42 Checkpoint finished, log reused
+16:15:43 Checkpoint started
+16:15:43 Checkpoint finished, log reused
+17:15:44 Checkpoint started
+17:15:44 Checkpoint finished, log reused
+18:15:44 Checkpoint started
+18:15:44 Checkpoint finished, log reused
+20:14:20 Checkpoint started
+20:14:20 Checkpoint finished, log reused
+21:14:22 Checkpoint started
+21:14:22 Checkpoint finished, log reused
+22:14:23 Checkpoint started
+22:14:23 Checkpoint finished, log reused
+23:14:23 Checkpoint started
+23:14:23 Checkpoint finished, log reused
+
+		Tue Aug 15 2023
+00:14:24 Checkpoint started
+00:14:24 Checkpoint finished, log reused
+01:14:25 Checkpoint started
+01:14:25 Checkpoint finished, log reused
+02:14:25 Checkpoint started
+02:14:25 Checkpoint finished, log reused
+03:14:26 Checkpoint started
+03:14:26 Checkpoint finished, log reused
+04:14:27 Checkpoint started
+04:14:27 Checkpoint finished, log reused
+05:14:27 Checkpoint started
+05:14:27 Checkpoint finished, log reused
+06:14:28 Checkpoint started
+06:14:28 Checkpoint finished, log reused
+07:14:29 Checkpoint started
+07:14:29 Checkpoint finished, log reused
+08:14:29 Checkpoint started
+08:14:29 Checkpoint finished, log reused
+09:14:30 Checkpoint started
+09:14:30 Checkpoint finished, log reused
+10:14:31 Checkpoint started
+10:14:31 Checkpoint finished, log reused
+11:14:32 Checkpoint started
+11:14:32 Checkpoint finished, log reused
+12:14:32 Checkpoint started
+12:14:32 Checkpoint finished, log reused
+13:14:33 Checkpoint started
+13:14:33 Checkpoint finished, log reused
+14:14:34 Checkpoint started
+14:14:34 Checkpoint finished, log reused
+15:14:34 Checkpoint started
+15:14:34 Checkpoint finished, log reused
+16:14:35 Checkpoint started
+16:14:35 Checkpoint finished, log reused
+17:14:36 Checkpoint started
+17:14:36 Checkpoint finished, log reused
+18:14:36 Checkpoint started
+18:14:36 Checkpoint finished, log reused
+19:14:37 Checkpoint started
+19:14:37 Checkpoint finished, log reused
+20:14:38 Checkpoint started
+20:14:38 Checkpoint finished, log reused
+21:14:38 Checkpoint started
+21:14:38 Checkpoint finished, log reused
+22:14:39 Checkpoint started
+22:14:39 Checkpoint finished, log reused
+23:14:40 Checkpoint started
+23:14:40 Checkpoint finished, log reused
+
+		Wed Aug 16 2023
+00:14:40 Checkpoint started
+00:14:40 Checkpoint finished, log reused
+01:14:41 Checkpoint started
+01:14:41 Checkpoint finished, log reused
+02:14:42 Checkpoint started
+02:14:42 Checkpoint finished, log reused
+03:14:42 Checkpoint started
+03:14:42 Checkpoint finished, log reused
+04:14:43 Checkpoint started
+04:14:43 Checkpoint finished, log reused
+05:14:44 Checkpoint started
+05:14:44 Checkpoint finished, log reused
+06:14:44 Checkpoint started
+06:14:44 Checkpoint finished, log reused
+07:20:45 Checkpoint started
+07:20:45 Checkpoint finished, log reused
+08:20:47 Checkpoint started
+08:20:47 Checkpoint finished, log reused
+09:20:48 Checkpoint started
+09:20:48 Checkpoint finished, log reused
+10:20:49 Checkpoint started
+10:20:49 Checkpoint finished, log reused
+11:20:50 Checkpoint started
+11:20:50 Checkpoint finished, log reused
+12:20:50 Checkpoint started
+12:20:50 Checkpoint finished, log reused
+13:20:51 Checkpoint started
+13:20:51 Checkpoint finished, log reused
+14:20:52 Checkpoint started
+14:20:52 Checkpoint finished, log reused
+
+		Wed Aug 16 2023
+14:38:41 OpenLink Virtuoso Universal Server
+14:38:41 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+14:38:41 uses OpenSSL 1.0.2n  7 Dec 2017
+14:38:41 uses parts of PCRE, Html Tidy
+14:38:41 Database version 3126
+14:38:41 SQL Optimizer enabled (max 1000 layouts)
+14:38:42 Compiler unit is timed at 0.000098 msec
+14:38:43 Roll forward started
+14:38:43 Roll forward complete
+14:38:43 Checkpoint started
+14:38:43 Checkpoint finished, log reused
+14:38:43 HTTP/WebDAV server online at 8890
+14:38:43 Server online at 1111 (pid 1)
+15:38:44 Checkpoint started
+15:38:44 Checkpoint finished, log reused
+16:38:44 Checkpoint started
+16:38:44 Checkpoint finished, log reused
+
+		Thu Aug 17 2023
+07:02:00 Checkpoint started
+07:02:00 Checkpoint finished, log reused
+08:02:01 Checkpoint started
+08:02:01 Checkpoint finished, log reused
+09:02:02 Checkpoint started
+09:02:02 Checkpoint finished, log reused
+10:02:02 Checkpoint started
+10:02:02 Checkpoint finished, log reused
+11:02:04 Checkpoint started
+11:02:04 Checkpoint finished, log reused

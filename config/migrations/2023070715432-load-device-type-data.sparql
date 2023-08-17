@@ -1,0 +1,26 @@
+PREFIX schema: <http://schema.org/>
+PREFIX mu: <http://mu.semte.ch/vocabularies/core/>
+
+INSERT DATA{
+  GRAPH  <http://mu.semte.ch/application> {
+    <http://mu.semte.ch/application/device-service/devicetypes/64D202FB62220B0009000001> a schema:Thing;
+    mu:uuid "64D202FB62220B0009000001";
+    schema:name "Synthesizer" .
+
+    <http://mu.semte.ch/application/device-service/devicetypes/64D202FB62220B0009000002> a schema:Thing;
+    mu:uuid "64D202FB62220B0009000002";
+    schema:name "Sequencer" .
+
+    <http://mu.semte.ch/application/device-service/devicetypes/64D202FB62220B0009000003> a schema:Thing;
+    mu:uuid "64D202FB62220B0009000003";
+    schema:name "Mixer" .
+
+    <http://mu.semte.ch/application/device-service/devicetypes/64D202FB62220B0009000004> a schema:Thing;
+    mu:uuid "64D202FB62220B0009000004";
+    schema:name "Sampler" .
+
+    <http://mu.semte.ch/application/device-service/devicetypes/64D202FB62220B0009000005> a schema:Thing;
+    mu:uuid "64D202FB62220B0009000005";
+    schema:name "Interface" .
+  }
+}

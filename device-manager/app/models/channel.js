@@ -1,7 +1,9 @@
-import Model, { attr } from '@ember-data/model';
+import Model, { attr, belongsTo } from '@ember-data/model';
+import { ResourceModel } from '../helpers/resource-models';
 
 export default class ChannelModel extends Model {
-  @attr('string') audiotype;
-  @attr('string') channeltype;
-  @attr('string') channeldirection;
+  @attr('number') channelposition;
+  @belongsTo(ResourceModel.DEVICE,  { async: true, inverse: null }) device
+  @belongsTo(ResourceModel.CHANNELTYPE,  { async: true, inverse: null }) channel
+  @belongsTo(ResourceModel.CHANNEL,  { async: true, inverse: null }) connectedDevice
 }
