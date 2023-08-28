@@ -1,0 +1,38 @@
+
+get channels where device is
+
+PREFIX s: <http://schema.org/>
+PREFIX mu: <http://mu.semte.ch/vocabularies/core/> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+select concat(?brand, " ", ?model) as ?name ?type ?position
+where {
+?channel rdf:type s:ListItem .
+?device ?has ?channel .
+?device s:model ?model .
+?device s:brand ?brand .
+?device mu:uuid ?id .
+?channel s:position ?position .
+?channel s:nextItem ?channeltype .
+?channeltype s:itemListElement ?type .
+?channeltype s:additionalType ?direction .
+Filter (?id != '' && ?direction != 'OUT')
+}order by ?name ?type ?position
+
+
+
+PREFIX s: <http://schema.org/>
+PREFIX mu: <http://mu.semte.ch/vocabularies/core/> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+select ?position ?type ?direction
+where {
+?device mu:uuid '64D9F3B31ADD21000900002C' .
+?device s:positiveNotes ?channels  .
+
+?channels s:position ?position .
+
+?channels s:nextItem ?channelinfo . 
+?channelinfo s:itemListElement ?type .
+?channelinfo s:additionalType ?direction .
+}order by ?type ?position

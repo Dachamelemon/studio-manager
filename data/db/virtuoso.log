@@ -3578,3 +3578,759 @@
 17:39:42 Checkpoint finished, log reused
 17:39:44 HTTP/WebDAV server online at 8890
 17:39:44 Server online at 1111 (pid 1)
+
+		Fri Aug 18 2023
+06:45:40 Checkpoint started
+06:45:40 Checkpoint finished, log reused
+07:45:41 Checkpoint started
+07:45:41 Checkpoint finished, log reused
+08:45:42 Checkpoint started
+08:45:42 Checkpoint finished, log reused
+09:45:43 Checkpoint started
+09:45:43 Checkpoint finished, log reused
+10:45:44 Checkpoint started
+10:45:44 Checkpoint finished, log reused
+11:45:45 Checkpoint started
+11:45:45 Checkpoint finished, log reused
+12:45:46 Checkpoint started
+12:45:46 Checkpoint finished, log reused
+13:45:50 Checkpoint started
+13:45:50 Checkpoint finished, log reused
+14:45:55 Checkpoint started
+14:45:55 Checkpoint finished, log reused
+15:46:00 Checkpoint started
+15:46:00 Checkpoint finished, log reused
+16:46:05 Checkpoint started
+16:46:05 Checkpoint finished, log reused
+17:46:10 Checkpoint started
+17:46:10 Checkpoint finished, log reused
+18:46:15 Checkpoint started
+18:46:15 Checkpoint finished, log reused
+19:46:19 Checkpoint started
+19:46:19 Checkpoint finished, log reused
+20:46:24 Checkpoint started
+20:46:24 Checkpoint finished, log reused
+21:46:29 Checkpoint started
+21:46:29 Checkpoint finished, log reused
+22:46:34 Checkpoint started
+22:46:34 Checkpoint finished, log reused
+23:46:39 Checkpoint started
+23:46:39 Checkpoint finished, log reused
+
+		Sat Aug 19 2023
+00:46:44 Checkpoint started
+00:46:44 Checkpoint finished, log reused
+01:46:49 Checkpoint started
+01:46:49 Checkpoint finished, log reused
+02:46:54 Checkpoint started
+02:46:54 Checkpoint finished, log reused
+
+		Mon Aug 21 2023
+06:51:08 Checkpoint started
+06:51:08 Checkpoint finished, log reused
+07:51:10 Checkpoint started
+07:51:10 Checkpoint finished, log reused
+08:51:11 Checkpoint started
+08:51:11 Checkpoint finished, log reused
+09:51:12 Checkpoint started
+09:51:12 Checkpoint finished, log reused
+10:51:13 Checkpoint started
+10:51:13 Checkpoint finished, log reused
+11:51:14 Checkpoint started
+11:51:14 Checkpoint finished, log reused
+11:55:56 ERRS_0 42000 UD021 No user defined class DB.DBA.page_f97a0fe94cf12fd45d8652041b3640e3V_VAD_conductor_main__tabs_vspx
+11:55:56 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+11:55:56 ERRS_0 42000 UD021 No user defined class DB.DBA.page_23a9644beceec46b97fd1b95fe9fad7ductor_adm__navigation__bar_vspx
+11:55:56 ERRS_0 01V01 QW008 Invalid = comparison operation argument control type INSTANCE (254)
+11:55:56 ERRS_0 01V01 QW008 Invalid = comparison operation argument control type INSTANCE (254)
+11:55:56 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+11:55:56 ERRS_0 01V01 QW001 Local declaration of inx shadows a definition of the same name
+11:55:59 ERRS_0 42000 UD021 No user defined class DB.DBA.page_d190a278c2554ff79e0f0863a59b6c21AD_conductor_sparql__input_vspx
+11:55:59 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+12:05:33 ERRS_0 37000 SP030 SPARQL compiler, line 7: syntax error at 's' before '?'
+12:05:33 ERRS_0 37000 SQ074 Line 9: SP030: SPARQL compiler, line 7: syntax error at 's' before '?'
+12:05:33 ERRS_0 37000 SP030 SPARQL compiler, line 7: syntax error at 's' before '?'
+12:05:33 ERRS_0 37000 SQ074 Line 9: SP030: SPARQL compiler, line 7: syntax error at 's' before '?'
+12:05:33 ERRS_0 37000 SP030 SPARQL compiler, line 6: syntax error at 's' before '?'
+12:24:08 ERRS_0 37000 SP030 SPARQL compiler, line 9: syntax error at '?o' before '}'
+12:24:08 ERRS_0 37000 SQ074 Line 11: SP030: SPARQL compiler, line 9: syntax error at '?o' before '}'
+12:24:08 ERRS_0 37000 SP030 SPARQL compiler, line 9: syntax error at '?o' before '}'
+12:24:08 ERRS_0 37000 SQ074 Line 11: SP030: SPARQL compiler, line 9: syntax error at '?o' before '}'
+12:24:08 ERRS_0 37000 SP030 SPARQL compiler, line 8: syntax error at '?o' before '}'
+12:24:13 ERRS_0 37000 SP030 SPARQL compiler, line 9: syntax error at '?o' before '.'
+12:24:13 ERRS_0 37000 SQ074 Line 11: SP030: SPARQL compiler, line 9: syntax error at '?o' before '.'
+12:24:13 ERRS_0 37000 SP030 SPARQL compiler, line 9: syntax error at '?o' before '.'
+12:24:13 ERRS_0 37000 SQ074 Line 11: SP030: SPARQL compiler, line 9: syntax error at '?o' before '.'
+12:24:13 ERRS_0 37000 SP030 SPARQL compiler, line 8: syntax error at '?o' before '.'
+12:30:20 ERRS_0 37000 SP030 SPARQL compiler, line 8: Undefined namespace prefix at 'channel' before '.'
+12:30:20 ERRS_0 37000 SQ074 Line 10: SP030: SPARQL compiler, line 8: Undefined namespace prefix at 'channel' before '.'
+12:30:20 ERRS_0 37000 SP030 SPARQL compiler, line 8: Undefined namespace prefix at 'channel' before '.'
+12:30:20 ERRS_0 37000 SQ074 Line 10: SP030: SPARQL compiler, line 8: Undefined namespace prefix at 'channel' before '.'
+12:30:20 ERRS_0 37000 SP030 SPARQL compiler, line 7: Undefined namespace prefix at 'channel' before '.'
+12:39:32 ERRS_0 37000 SP030 SPARQL compiler, line 9: syntax error at '.' before '}'
+12:39:32 ERRS_0 37000 SQ074 Line 10: SP030: SPARQL compiler, line 9: syntax error at '.' before '}'
+12:39:32 ERRS_0 37000 SP030 SPARQL compiler, line 9: syntax error at '.' before '}'
+12:39:32 ERRS_0 37000 SQ074 Line 10: SP030: SPARQL compiler, line 9: syntax error at '.' before '}'
+12:39:32 ERRS_0 37000 SP030 SPARQL compiler, line 8: syntax error at '.' before '}'
+12:51:16 Checkpoint started
+12:51:16 Checkpoint finished, log reused
+12:52:32 ERRS_0 37000 SP030 SPARQL compiler, line 8: syntax error at '>' before '?channels'
+12:52:32 ERRS_0 37000 SQ074 Line 11: SP030: SPARQL compiler, line 8: syntax error at '>' before '?channels'
+12:52:32 ERRS_0 37000 SP030 SPARQL compiler, line 8: syntax error at '>' before '?channels'
+12:52:32 ERRS_0 37000 SQ074 Line 11: SP030: SPARQL compiler, line 8: syntax error at '>' before '?channels'
+12:52:32 ERRS_0 37000 SP030 SPARQL compiler, line 7: syntax error at '>' before '?channels'
+13:51:17 Checkpoint started
+13:51:17 Checkpoint finished, log reused
+14:51:18 Checkpoint started
+14:51:18 Checkpoint finished, log reused
+15:51:19 Checkpoint started
+15:51:19 Checkpoint finished, log reused
+16:51:21 Checkpoint started
+16:51:21 Checkpoint finished, log reused
+17:51:22 Checkpoint started
+17:51:22 Checkpoint finished, log reused
+18:51:23 Checkpoint started
+18:51:23 Checkpoint finished, log reused
+19:51:24 Checkpoint started
+19:51:24 Checkpoint finished, log reused
+20:51:25 Checkpoint started
+20:51:25 Checkpoint finished, log reused
+
+		Tue Aug 22 2023
+06:44:14 Checkpoint started
+06:44:14 Checkpoint finished, log reused
+07:44:15 Checkpoint started
+07:44:15 Checkpoint finished, log reused
+08:44:16 Checkpoint started
+08:44:16 Checkpoint finished, log reused
+09:44:17 Checkpoint started
+09:44:17 Checkpoint finished, log reused
+10:20:29 ERRS_0 37000 SP030 SPARQL compiler, line 7: syntax error at 'where' before '{'
+10:20:29 ERRS_0 37000 SQ074 Line 11: SP030: SPARQL compiler, line 7: syntax error at 'where' before '{'
+10:20:29 ERRS_0 37000 SP030 SPARQL compiler, line 7: syntax error at 'where' before '{'
+10:20:29 ERRS_0 37000 SQ074 Line 11: SP030: SPARQL compiler, line 7: syntax error at 'where' before '{'
+10:20:29 ERRS_0 37000 SP030 SPARQL compiler, line 6: syntax error at 'where' before '{'
+10:20:35 ERRS_0 37000 SP030 SPARQL compiler, line 7: syntax error at 'where' before '{'
+10:20:35 ERRS_0 37000 SQ074 Line 11: SP030: SPARQL compiler, line 7: syntax error at 'where' before '{'
+10:20:35 ERRS_0 37000 SP030 SPARQL compiler, line 7: syntax error at 'where' before '{'
+10:20:35 ERRS_0 37000 SQ074 Line 11: SP030: SPARQL compiler, line 7: syntax error at 'where' before '{'
+10:20:35 ERRS_0 37000 SP030 SPARQL compiler, line 6: syntax error at 'where' before '{'
+10:20:36 ERRS_0 37000 SP030 SPARQL compiler, line 7: syntax error at 'where' before '{'
+10:20:36 ERRS_0 37000 SQ074 Line 11: SP030: SPARQL compiler, line 7: syntax error at 'where' before '{'
+10:20:36 ERRS_0 37000 SP030 SPARQL compiler, line 7: syntax error at 'where' before '{'
+10:20:36 ERRS_0 37000 SQ074 Line 11: SP030: SPARQL compiler, line 7: syntax error at 'where' before '{'
+10:20:36 ERRS_0 37000 SP030 SPARQL compiler, line 6: syntax error at 'where' before '{'
+10:20:36 ERRS_0 37000 SP030 SPARQL compiler, line 7: syntax error at 'where' before '{'
+10:20:36 ERRS_0 37000 SQ074 Line 11: SP030: SPARQL compiler, line 7: syntax error at 'where' before '{'
+10:20:36 ERRS_0 37000 SP030 SPARQL compiler, line 7: syntax error at 'where' before '{'
+10:20:36 ERRS_0 37000 SQ074 Line 11: SP030: SPARQL compiler, line 7: syntax error at 'where' before '{'
+10:20:36 ERRS_0 37000 SP030 SPARQL compiler, line 6: syntax error at 'where' before '{'
+10:20:37 ERRS_0 37000 SP030 SPARQL compiler, line 7: syntax error at 'where' before '{'
+10:20:37 ERRS_0 37000 SQ074 Line 11: SP030: SPARQL compiler, line 7: syntax error at 'where' before '{'
+10:20:37 ERRS_0 37000 SP030 SPARQL compiler, line 7: syntax error at 'where' before '{'
+10:20:37 ERRS_0 37000 SQ074 Line 11: SP030: SPARQL compiler, line 7: syntax error at 'where' before '{'
+10:20:37 ERRS_0 37000 SP030 SPARQL compiler, line 6: syntax error at 'where' before '{'
+10:44:18 Checkpoint started
+10:44:18 Checkpoint finished, log reused
+10:50:27 ERRS_0 37000 SP030 SPARQL compiler, line 9: syntax error at '<' before '<http://mu.semte.ch/application/device-service/devices/64D9F3B31ADD21000900002C>'
+10:50:27 ERRS_0 37000 SQ074 Line 11: SP030: SPARQL compiler, line 9: syntax error at '<' before '<http://mu.semte.ch/application/device-service/devices/64D9F3B31ADD21000900002C>'
+10:50:27 ERRS_0 37000 SP030 SPARQL compiler, line 9: syntax error at '<' before '<http://mu.semte.ch/application/device-service/devices/64D9F3B31ADD21000900002C>'
+10:50:27 ERRS_0 37000 SQ074 Line 11: SP030: SPARQL compiler, line 9: syntax error at '<' before '<http://mu.semte.ch/application/device-service/devices/64D9F3B31ADD21000900002C>'
+10:50:27 ERRS_0 37000 SP030 SPARQL compiler, line 8: syntax error at '<' before '<http://mu.semte.ch/application/device-service/devices/64D9F3B31ADD21000900002C>'
+10:50:33 ERRS_0 37000 SP030 SPARQL compiler, line 9: syntax error at '<' before '<http://mu.semte.ch/application/device-service/devices/64D9F3B31ADD21000900002C>'
+10:50:33 ERRS_0 37000 SQ074 Line 11: SP030: SPARQL compiler, line 9: syntax error at '<' before '<http://mu.semte.ch/application/device-service/devices/64D9F3B31ADD21000900002C>'
+10:50:33 ERRS_0 37000 SP030 SPARQL compiler, line 9: syntax error at '<' before '<http://mu.semte.ch/application/device-service/devices/64D9F3B31ADD21000900002C>'
+10:50:33 ERRS_0 37000 SQ074 Line 11: SP030: SPARQL compiler, line 9: syntax error at '<' before '<http://mu.semte.ch/application/device-service/devices/64D9F3B31ADD21000900002C>'
+10:50:33 ERRS_0 37000 SP030 SPARQL compiler, line 8: syntax error at '<' before '<http://mu.semte.ch/application/device-service/devices/64D9F3B31ADD21000900002C>'
+10:50:35 ERRS_0 37000 SP030 SPARQL compiler, line 9: syntax error at '<' before '<http://mu.semte.ch/application/device-service/devices/64D9F3B31ADD21000900002C>'
+10:50:35 ERRS_0 37000 SQ074 Line 11: SP030: SPARQL compiler, line 9: syntax error at '<' before '<http://mu.semte.ch/application/device-service/devices/64D9F3B31ADD21000900002C>'
+10:50:35 ERRS_0 37000 SP030 SPARQL compiler, line 9: syntax error at '<' before '<http://mu.semte.ch/application/device-service/devices/64D9F3B31ADD21000900002C>'
+10:50:35 ERRS_0 37000 SQ074 Line 11: SP030: SPARQL compiler, line 9: syntax error at '<' before '<http://mu.semte.ch/application/device-service/devices/64D9F3B31ADD21000900002C>'
+10:50:35 ERRS_0 37000 SP030 SPARQL compiler, line 8: syntax error at '<' before '<http://mu.semte.ch/application/device-service/devices/64D9F3B31ADD21000900002C>'
+10:50:35 ERRS_0 37000 SP030 SPARQL compiler, line 9: syntax error at '<' before '<http://mu.semte.ch/application/device-service/devices/64D9F3B31ADD21000900002C>'
+10:50:35 ERRS_0 37000 SQ074 Line 11: SP030: SPARQL compiler, line 9: syntax error at '<' before '<http://mu.semte.ch/application/device-service/devices/64D9F3B31ADD21000900002C>'
+10:50:35 ERRS_0 37000 SP030 SPARQL compiler, line 9: syntax error at '<' before '<http://mu.semte.ch/application/device-service/devices/64D9F3B31ADD21000900002C>'
+10:50:35 ERRS_0 37000 SQ074 Line 11: SP030: SPARQL compiler, line 9: syntax error at '<' before '<http://mu.semte.ch/application/device-service/devices/64D9F3B31ADD21000900002C>'
+10:50:35 ERRS_0 37000 SP030 SPARQL compiler, line 8: syntax error at '<' before '<http://mu.semte.ch/application/device-service/devices/64D9F3B31ADD21000900002C>'
+11:44:18 Checkpoint started
+11:44:18 Checkpoint finished, log reused
+12:06:49 ERRS_0 37000 SP030 SPARQL compiler, line 11: syntax error at '?type' before '<http://schema.org/ItemList>'
+12:06:49 ERRS_0 37000 SQ074 Line 13: SP030: SPARQL compiler, line 11: syntax error at '?type' before '<http://schema.org/ItemList>'
+12:06:49 ERRS_0 37000 SP030 SPARQL compiler, line 11: syntax error at '?type' before '<http://schema.org/ItemList>'
+12:06:49 ERRS_0 37000 SQ074 Line 13: SP030: SPARQL compiler, line 11: syntax error at '?type' before '<http://schema.org/ItemList>'
+12:06:49 ERRS_0 37000 SP030 SPARQL compiler, line 10: syntax error at '?type'
+12:07:03 ERRS_0 37000 SP030 SPARQL compiler, line 11: syntax error at '?channeltype'
+12:07:03 ERRS_0 37000 SQ074 Line 13: SP030: SPARQL compiler, line 11: syntax error at '?channeltype'
+12:07:03 ERRS_0 37000 SP030 SPARQL compiler, line 11: syntax error at '?channeltype'
+12:07:03 ERRS_0 37000 SQ074 Line 13: SP030: SPARQL compiler, line 11: syntax error at '?channeltype'
+12:07:03 ERRS_0 37000 SP030 SPARQL compiler, line 10: syntax error at '?channeltype' before '}'
+12:07:12 ERRS_0 37000 SP030 SPARQL compiler, line 11: syntax error at '?channeltype'
+12:07:12 ERRS_0 37000 SQ074 Line 13: SP030: SPARQL compiler, line 11: syntax error at '?channeltype'
+12:07:12 ERRS_0 37000 SP030 SPARQL compiler, line 11: syntax error at '?channeltype'
+12:07:12 ERRS_0 37000 SQ074 Line 13: SP030: SPARQL compiler, line 11: syntax error at '?channeltype'
+12:07:12 ERRS_0 37000 SP030 SPARQL compiler, line 10: syntax error at '?channeltype' before '.'
+12:07:12 ERRS_0 37000 SP030 SPARQL compiler, line 11: syntax error at '?channeltype'
+12:07:12 ERRS_0 37000 SQ074 Line 13: SP030: SPARQL compiler, line 11: syntax error at '?channeltype'
+12:07:12 ERRS_0 37000 SP030 SPARQL compiler, line 11: syntax error at '?channeltype'
+12:07:12 ERRS_0 37000 SQ074 Line 13: SP030: SPARQL compiler, line 11: syntax error at '?channeltype'
+12:07:12 ERRS_0 37000 SP030 SPARQL compiler, line 10: syntax error at '?channeltype' before '.'
+12:31:16 ERRS_0 37000 SP030 SPARQL compiler, line 11: Undefined namespace prefix at ''
+12:31:16 ERRS_0 37000 SQ074 Line 13: SP030: SPARQL compiler, line 11: Undefined namespace prefix at ''
+12:31:16 ERRS_0 37000 SP030 SPARQL compiler, line 11: Undefined namespace prefix at ''
+12:31:16 ERRS_0 37000 SQ074 Line 13: SP030: SPARQL compiler, line 11: Undefined namespace prefix at ''
+12:31:16 ERRS_0 37000 SP030 SPARQL compiler, line 10: Undefined namespace prefix at '' before '?device'
+12:41:39 ERRS_0 37000 SP030 SPARQL compiler, line 10: syntax error at '?o' before '?s'
+12:41:39 ERRS_0 37000 SQ074 Line 12: SP030: SPARQL compiler, line 10: syntax error at '?o' before '?s'
+12:41:39 ERRS_0 37000 SP030 SPARQL compiler, line 10: syntax error at '?o' before '?s'
+12:41:39 ERRS_0 37000 SQ074 Line 12: SP030: SPARQL compiler, line 10: syntax error at '?o' before '?s'
+12:41:39 ERRS_0 37000 SP030 SPARQL compiler, line 9: syntax error at '?o' before '?s'
+12:41:42 ERRS_0 37000 SP030 SPARQL compiler, line 10: syntax error at '?p' before '.'
+12:41:42 ERRS_0 37000 SQ074 Line 12: SP030: SPARQL compiler, line 10: syntax error at '?p' before '.'
+12:41:42 ERRS_0 37000 SP030 SPARQL compiler, line 10: syntax error at '?p' before '.'
+12:41:42 ERRS_0 37000 SQ074 Line 12: SP030: SPARQL compiler, line 10: syntax error at '?p' before '.'
+12:41:42 ERRS_0 37000 SP030 SPARQL compiler, line 9: syntax error at '?p'
+12:41:43 ERRS_0 37000 SP030 SPARQL compiler, line 10: syntax error at '?p' before '.'
+12:41:43 ERRS_0 37000 SQ074 Line 12: SP030: SPARQL compiler, line 10: syntax error at '?p' before '.'
+12:41:43 ERRS_0 37000 SP030 SPARQL compiler, line 10: syntax error at '?p' before '.'
+12:41:43 ERRS_0 37000 SQ074 Line 12: SP030: SPARQL compiler, line 10: syntax error at '?p' before '.'
+12:41:43 ERRS_0 37000 SP030 SPARQL compiler, line 9: syntax error at '?p'
+12:44:19 Checkpoint started
+12:44:19 Checkpoint finished, log reused
+12:44:35 ERRS_0 37000 SP030 SPARQL compiler, line 10: syntax error at '?s' before '?p'
+12:44:35 ERRS_0 37000 SQ074 Line 12: SP030: SPARQL compiler, line 10: syntax error at '?s' before '?p'
+12:44:35 ERRS_0 37000 SP030 SPARQL compiler, line 10: syntax error at '?s' before '?p'
+12:44:35 ERRS_0 37000 SQ074 Line 12: SP030: SPARQL compiler, line 10: syntax error at '?s' before '?p'
+12:44:35 ERRS_0 37000 SP030 SPARQL compiler, line 9: syntax error at '?s' before '?p'
+12:55:06 ERRS_0 37000 SP030 SPARQL compiler, line 11: syntax error at '.' before '}'
+12:55:06 ERRS_0 37000 SQ074 Line 13: SP030: SPARQL compiler, line 11: syntax error at '.' before '}'
+12:55:06 ERRS_0 37000 SP030 SPARQL compiler, line 11: syntax error at '.' before '}'
+12:55:06 ERRS_0 37000 SQ074 Line 13: SP030: SPARQL compiler, line 11: syntax error at '.' before '}'
+12:55:06 ERRS_0 37000 SP030 SPARQL compiler, line 10: syntax error at '.' before '}'
+13:02:54 ERRS_0 37000 SP030 SPARQL compiler, line 10: Undefined namespace prefix at 'shcema' before '?o'
+13:02:54 ERRS_0 37000 SQ074 Line 13: SP030: SPARQL compiler, line 10: Undefined namespace prefix at 'shcema' before '?o'
+13:02:54 ERRS_0 37000 SP030 SPARQL compiler, line 10: Undefined namespace prefix at 'shcema' before '?o'
+13:02:54 ERRS_0 37000 SQ074 Line 13: SP030: SPARQL compiler, line 10: Undefined namespace prefix at 'shcema' before '?o'
+13:02:54 ERRS_0 37000 SP030 SPARQL compiler, line 9: Undefined namespace prefix at 'shcema' before '?o'
+13:06:54 ERRS_0 37000 SP030 SPARQL compiler, line 12: syntax error at '{' before '<http://mu.semte.ch/application/device-service/devices/64D9F11D1ADD210009000005>'
+13:06:54 ERRS_0 37000 SQ074 Line 16: SP030: SPARQL compiler, line 12: syntax error at '{' before '<http://mu.semte.ch/application/device-service/devices/64D9F11D1ADD210009000005>'
+13:06:54 ERRS_0 37000 SP030 SPARQL compiler, line 12: syntax error at '{' before '<http://mu.semte.ch/application/device-service/devices/64D9F11D1ADD210009000005>'
+13:06:54 ERRS_0 37000 SQ074 Line 16: SP030: SPARQL compiler, line 12: syntax error at '{' before '<http://mu.semte.ch/application/device-service/devices/64D9F11D1ADD210009000005>'
+13:06:54 ERRS_0 37000 SP030 SPARQL compiler, line 11: syntax error at '{' before '<http://mu.semte.ch/application/device-service/devices/64D9F11D1ADD210009000005>'
+13:08:17 ERRS_0 37000 SP030 SPARQL compiler, line 12: syntax error at '=' before '<http://mu.semte.ch/application/device-service/devices/64D9F11D1ADD210009000005>'
+13:08:17 ERRS_0 37000 SQ074 Line 15: SP030: SPARQL compiler, line 12: syntax error at '=' before '<http://mu.semte.ch/application/device-service/devices/64D9F11D1ADD210009000005>'
+13:08:17 ERRS_0 37000 SP030 SPARQL compiler, line 12: syntax error at '=' before '<http://mu.semte.ch/application/device-service/devices/64D9F11D1ADD210009000005>'
+13:08:17 ERRS_0 37000 SQ074 Line 15: SP030: SPARQL compiler, line 12: syntax error at '=' before '<http://mu.semte.ch/application/device-service/devices/64D9F11D1ADD210009000005>'
+13:08:17 ERRS_0 37000 SP030 SPARQL compiler, line 11: syntax error at '=' before '<http://mu.semte.ch/application/device-service/devices/64D9F11D1ADD210009000005>'
+13:08:40 ERRS_0 37000 SP030 SPARQL compiler, line 12: syntax error at '?s' before '<http://mu.semte.ch/application/device-service/devices/64D9F11D1ADD210009000005>'
+13:08:40 ERRS_0 37000 SQ074 Line 15: SP030: SPARQL compiler, line 12: syntax error at '?s' before '<http://mu.semte.ch/application/device-service/devices/64D9F11D1ADD210009000005>'
+13:08:40 ERRS_0 37000 SP030 SPARQL compiler, line 12: syntax error at '?s' before '<http://mu.semte.ch/application/device-service/devices/64D9F11D1ADD210009000005>'
+13:08:40 ERRS_0 37000 SQ074 Line 15: SP030: SPARQL compiler, line 12: syntax error at '?s' before '<http://mu.semte.ch/application/device-service/devices/64D9F11D1ADD210009000005>'
+13:08:40 ERRS_0 37000 SP030 SPARQL compiler, line 11: syntax error at '?s' before '<http://mu.semte.ch/application/device-service/devices/64D9F11D1ADD210009000005>'
+13:08:51 ERRS_0 37000 SP030 SPARQL compiler, line 12: syntax error at '<http://mu.semte.ch/application/device-service/devices/64D9F11D1ADD210009000005>' before ')'
+13:08:51 ERRS_0 37000 SQ074 Line 15: SP030: SPARQL compiler, line 12: syntax error at '<http://mu.semte.ch/application/device-service/devices/64D9F11D1ADD210009000005>' before ')'
+13:08:51 ERRS_0 37000 SP030 SPARQL compiler, line 12: syntax error at '<http://mu.semte.ch/application/device-service/devices/64D9F11D1ADD210009000005>' before ')'
+13:08:51 ERRS_0 37000 SQ074 Line 15: SP030: SPARQL compiler, line 12: syntax error at '<http://mu.semte.ch/application/device-service/devices/64D9F11D1ADD210009000005>' before ')'
+13:08:51 ERRS_0 37000 SP030 SPARQL compiler, line 11: syntax error at '<http://mu.semte.ch/application/device-service/devices/64D9F11D1ADD210009000005>' before ')'
+13:09:03 ERRS_0 37000 SP030 SPARQL compiler, line 12: syntax error at '<http://mu.semte.ch/application/device-service/devices/64D9F11D1ADD210009000005>' before ')'
+13:09:03 ERRS_0 37000 SQ074 Line 14: SP030: SPARQL compiler, line 12: syntax error at '<http://mu.semte.ch/application/device-service/devices/64D9F11D1ADD210009000005>' before ')'
+13:09:03 ERRS_0 37000 SP030 SPARQL compiler, line 12: syntax error at '<http://mu.semte.ch/application/device-service/devices/64D9F11D1ADD210009000005>' before ')'
+13:09:03 ERRS_0 37000 SQ074 Line 14: SP030: SPARQL compiler, line 12: syntax error at '<http://mu.semte.ch/application/device-service/devices/64D9F11D1ADD210009000005>' before ')'
+13:09:03 ERRS_0 37000 SP030 SPARQL compiler, line 11: syntax error at '<http://mu.semte.ch/application/device-service/devices/64D9F11D1ADD210009000005>' before ')'
+13:13:48 ERRS_0 37000 SP030 SPARQL compiler, line 15: syntax error at 'orderby' before '('
+13:13:48 ERRS_0 37000 SQ074 Line 16: SP030: SPARQL compiler, line 15: syntax error at 'orderby' before '('
+13:13:48 ERRS_0 37000 SP030 SPARQL compiler, line 15: syntax error at 'orderby' before '('
+13:13:48 ERRS_0 37000 SQ074 Line 16: SP030: SPARQL compiler, line 15: syntax error at 'orderby' before '('
+13:13:48 ERRS_0 37000 SP030 SPARQL compiler, line 14: syntax error at 'orderby' before '('
+13:13:52 ERRS_0 37000 SP030 SPARQL compiler, line 15: syntax error at 'orderby' before '('
+13:13:52 ERRS_0 37000 SQ074 Line 16: SP030: SPARQL compiler, line 15: syntax error at 'orderby' before '('
+13:13:52 ERRS_0 37000 SP030 SPARQL compiler, line 15: syntax error at 'orderby' before '('
+13:13:52 ERRS_0 37000 SQ074 Line 16: SP030: SPARQL compiler, line 15: syntax error at 'orderby' before '('
+13:13:52 ERRS_0 37000 SP030 SPARQL compiler, line 14: syntax error at 'orderby' before '('
+13:13:53 ERRS_0 37000 SP030 SPARQL compiler, line 15: syntax error at 'orderby' before '('
+13:13:53 ERRS_0 37000 SQ074 Line 16: SP030: SPARQL compiler, line 15: syntax error at 'orderby' before '('
+13:13:53 ERRS_0 37000 SP030 SPARQL compiler, line 15: syntax error at 'orderby' before '('
+13:13:53 ERRS_0 37000 SQ074 Line 16: SP030: SPARQL compiler, line 15: syntax error at 'orderby' before '('
+13:13:53 ERRS_0 37000 SP030 SPARQL compiler, line 14: syntax error at 'orderby' before '('
+13:13:53 ERRS_0 37000 SP030 SPARQL compiler, line 15: syntax error at 'orderby' before '('
+13:13:53 ERRS_0 37000 SQ074 Line 16: SP030: SPARQL compiler, line 15: syntax error at 'orderby' before '('
+13:13:53 ERRS_0 37000 SP030 SPARQL compiler, line 15: syntax error at 'orderby' before '('
+13:13:53 ERRS_0 37000 SQ074 Line 16: SP030: SPARQL compiler, line 15: syntax error at 'orderby' before '('
+13:13:53 ERRS_0 37000 SP030 SPARQL compiler, line 14: syntax error at 'orderby' before '('
+13:13:54 ERRS_0 37000 SP030 SPARQL compiler, line 15: syntax error at 'orderby' before '('
+13:13:54 ERRS_0 37000 SQ074 Line 16: SP030: SPARQL compiler, line 15: syntax error at 'orderby' before '('
+13:13:54 ERRS_0 37000 SP030 SPARQL compiler, line 15: syntax error at 'orderby' before '('
+13:13:54 ERRS_0 37000 SQ074 Line 16: SP030: SPARQL compiler, line 15: syntax error at 'orderby' before '('
+13:13:54 ERRS_0 37000 SP030 SPARQL compiler, line 14: syntax error at 'orderby' before '('
+13:13:54 ERRS_0 37000 SP030 SPARQL compiler, line 15: syntax error at 'orderby' before '('
+13:13:54 ERRS_0 37000 SQ074 Line 16: SP030: SPARQL compiler, line 15: syntax error at 'orderby' before '('
+13:13:54 ERRS_0 37000 SP030 SPARQL compiler, line 15: syntax error at 'orderby' before '('
+13:13:54 ERRS_0 37000 SQ074 Line 16: SP030: SPARQL compiler, line 15: syntax error at 'orderby' before '('
+13:13:54 ERRS_0 37000 SP030 SPARQL compiler, line 14: syntax error at 'orderby' before '('
+13:13:57 ERRS_0 37000 SP030 SPARQL compiler, line 15: syntax error at '?g' before ')'
+13:13:57 ERRS_0 37000 SQ074 Line 16: SP030: SPARQL compiler, line 15: syntax error at '?g' before ')'
+13:13:57 ERRS_0 37000 SP030 SPARQL compiler, line 15: syntax error at '?g' before ')'
+13:13:57 ERRS_0 37000 SQ074 Line 16: SP030: SPARQL compiler, line 15: syntax error at '?g' before ')'
+13:13:57 ERRS_0 37000 SP030 SPARQL compiler, line 14: syntax error at '?g' before ')'
+13:18:32 ERRS_0 37000 SP030 SPARQL compiler, line 13: syntax error at '?d' before 'a'
+13:18:32 ERRS_0 37000 SQ074 Line 17: SP030: SPARQL compiler, line 13: syntax error at '?d' before 'a'
+13:18:32 ERRS_0 37000 SP030 SPARQL compiler, line 13: syntax error at '?d' before 'a'
+13:18:32 ERRS_0 37000 SQ074 Line 17: SP030: SPARQL compiler, line 13: syntax error at '?d' before 'a'
+13:18:32 ERRS_0 37000 SP030 SPARQL compiler, line 12: syntax error at '?d' before 'a'
+13:44:21 Checkpoint started
+13:44:21 Checkpoint finished, log reused
+14:44:22 Checkpoint started
+14:44:22 Checkpoint finished, log reused
+15:44:24 Checkpoint started
+15:44:24 Checkpoint finished, log reused
+16:44:25 Checkpoint started
+16:44:25 Checkpoint finished, log reused
+17:44:26 Checkpoint started
+17:44:26 Checkpoint finished, log reused
+18:44:27 Checkpoint started
+18:44:27 Checkpoint finished, log reused
+19:44:28 Checkpoint started
+19:44:28 Checkpoint finished, log reused
+20:44:30 Checkpoint started
+20:44:30 Checkpoint finished, log reused
+21:44:30 Checkpoint started
+21:44:30 Checkpoint finished, log reused
+22:44:31 Checkpoint started
+22:44:31 Checkpoint finished, log reused
+23:44:33 Checkpoint started
+23:44:33 Checkpoint finished, log reused
+
+		Wed Aug 23 2023
+00:44:34 Checkpoint started
+00:44:34 Checkpoint finished, log reused
+01:44:35 Checkpoint started
+01:44:35 Checkpoint finished, log reused
+02:44:36 Checkpoint started
+02:44:36 Checkpoint finished, log reused
+03:44:37 Checkpoint started
+03:44:37 Checkpoint finished, log reused
+04:44:38 Checkpoint started
+04:44:38 Checkpoint finished, log reused
+05:44:39 Checkpoint started
+05:44:39 Checkpoint finished, log reused
+06:44:40 Checkpoint started
+06:44:40 Checkpoint finished, log reused
+07:44:41 Checkpoint started
+07:44:41 Checkpoint finished, log reused
+08:44:42 Checkpoint started
+08:44:42 Checkpoint finished, log reused
+09:44:44 Checkpoint started
+09:44:44 Checkpoint finished, log reused
+10:44:45 Checkpoint started
+10:44:45 Checkpoint finished, log reused
+11:44:46 Checkpoint started
+11:44:46 Checkpoint finished, log reused
+12:44:47 Checkpoint started
+12:44:47 Checkpoint finished, log reused
+13:01:15 Server received signal 15
+13:01:15 Initiating quick shutdown
+13:01:15 Server shutdown complete
+
+		Wed Aug 23 2023
+13:04:40 OpenLink Virtuoso Universal Server
+13:04:40 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+13:04:40 uses OpenSSL 1.0.2n  7 Dec 2017
+13:04:40 uses parts of PCRE, Html Tidy
+13:04:40 Database version 3126
+13:04:40 Unlinked the temp db file /usr/local/virtuoso-opensource/var/lib/virtuoso/db/virtuoso-temp.db as its size (12MB) was greater than TempDBSize INI (10MB)
+13:04:40 SQL Optimizer enabled (max 1000 layouts)
+13:04:41 Compiler unit is timed at 0.000092 msec
+13:04:42 Roll forward started
+13:04:42 Roll forward complete
+13:04:42 Checkpoint started
+13:04:42 Checkpoint finished, log reused
+13:04:42 HTTP/WebDAV server online at 8890
+13:04:42 Server online at 1111 (pid 1)
+14:04:44 Checkpoint started
+14:04:44 Checkpoint finished, log reused
+15:04:45 Checkpoint started
+15:04:45 Checkpoint finished, log reused
+16:04:46 Checkpoint started
+16:04:46 Checkpoint finished, log reused
+
+		Thu Aug 24 2023
+08:30:33 Checkpoint started
+08:30:33 Checkpoint finished, log reused
+09:30:34 Checkpoint started
+09:30:34 Checkpoint finished, log reused
+10:30:35 Checkpoint started
+10:30:35 Checkpoint finished, log reused
+11:30:36 Checkpoint started
+11:30:36 Checkpoint finished, log reused
+12:30:37 Checkpoint started
+12:30:37 Checkpoint finished, log reused
+13:30:37 Checkpoint started
+13:30:37 Checkpoint finished, log reused
+
+		Fri Aug 25 2023
+07:14:17 Checkpoint started
+07:14:17 Checkpoint finished, log reused
+08:14:17 Checkpoint started
+08:14:17 Checkpoint finished, log reused
+09:14:18 Checkpoint started
+09:14:18 Checkpoint finished, log reused
+10:14:18 Checkpoint started
+10:14:18 Checkpoint finished, log reused
+11:14:19 Checkpoint started
+11:14:19 Checkpoint finished, log reused
+12:14:20 Checkpoint started
+12:14:20 Checkpoint finished, log reused
+13:14:22 Checkpoint started
+13:14:22 Checkpoint finished, log reused
+14:14:23 Checkpoint started
+14:14:23 Checkpoint finished, log reused
+15:14:24 Checkpoint started
+15:14:24 Checkpoint finished, log reused
+16:14:25 Checkpoint started
+16:14:25 Checkpoint finished, log reused
+17:14:26 Checkpoint started
+17:14:26 Checkpoint finished, log reused
+
+		Mon Aug 28 2023
+07:43:42 Checkpoint started
+07:43:42 Checkpoint finished, log reused
+08:07:31 ERRS_0 42000 UD021 No user defined class DB.DBA.page_f97a0fe94cf12fd45d8652041b3640e3V_VAD_conductor_main__tabs_vspx
+08:07:31 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+08:07:31 ERRS_0 42000 UD021 No user defined class DB.DBA.page_23a9644beceec46b97fd1b95fe9fad7ductor_adm__navigation__bar_vspx
+08:07:31 ERRS_0 01V01 QW008 Invalid = comparison operation argument control type INSTANCE (254)
+08:07:31 ERRS_0 01V01 QW008 Invalid = comparison operation argument control type INSTANCE (254)
+08:07:31 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+08:07:31 ERRS_0 01V01 QW001 Local declaration of inx shadows a definition of the same name
+08:07:35 ERRS_0 42000 UD021 No user defined class DB.DBA.page_d98d0955edf3a65d8adf3a0269ee5b37D_conductor_soap__services_vspx
+08:07:35 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+08:07:35 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+08:07:35 ERRS_0 01V01 QW001 Local declaration of inx shadows a definition of the same name
+08:07:38 ERRS_0 42000 UD021 No user defined class DB.DBA.page_d190a278c2554ff79e0f0863a59b6c21AD_conductor_sparql__input_vspx
+08:07:38 ERRS_0 01V01 QW001 Local declaration of control shadows a definition of the same name
+08:09:10 ERRS_0 37000 SP030 SPARQL compiler, line 11: syntax error at '?channel' before 's:position'
+08:09:10 ERRS_0 37000 SQ074 Line 13: SP030: SPARQL compiler, line 11: syntax error at '?channel' before 's:position'
+08:09:10 ERRS_0 37000 SP030 SPARQL compiler, line 11: syntax error at '?channel' before 's:position'
+08:09:10 ERRS_0 37000 SQ074 Line 13: SP030: SPARQL compiler, line 11: syntax error at '?channel' before 's:position'
+08:09:10 ERRS_0 37000 SP030 SPARQL compiler, line 10: syntax error at '?channel' before 's:position'
+08:43:43 Checkpoint started
+08:43:43 Checkpoint finished, log reused
+08:47:34 ERRS_0 37000 SP030 SPARQL compiler, line 12: syntax error at '?device' before '?has'
+08:47:34 ERRS_0 37000 SQ074 Line 15: SP030: SPARQL compiler, line 12: syntax error at '?device' before '?has'
+08:47:34 ERRS_0 37000 SP030 SPARQL compiler, line 12: syntax error at '?device' before '?has'
+08:47:34 ERRS_0 37000 SQ074 Line 15: SP030: SPARQL compiler, line 12: syntax error at '?device' before '?has'
+08:47:34 ERRS_0 37000 SP030 SPARQL compiler, line 11: syntax error at '?device' before '?has'
+08:52:22 ERRS_0 37000 SP030 SPARQL compiler, line 14: syntax error at '?channel' before 's:nextItem'
+08:52:22 ERRS_0 37000 SQ074 Line 18: SP030: SPARQL compiler, line 14: syntax error at '?channel' before 's:nextItem'
+08:52:22 ERRS_0 37000 SP030 SPARQL compiler, line 14: syntax error at '?channel' before 's:nextItem'
+08:52:22 ERRS_0 37000 SQ074 Line 18: SP030: SPARQL compiler, line 14: syntax error at '?channel' before 's:nextItem'
+08:52:22 ERRS_0 37000 SP030 SPARQL compiler, line 13: syntax error at '?channel' before 's:nextItem'
+08:53:14 ERRS_0 37000 SP030 SPARQL compiler, line 15: syntax error at '?channel' before 's:nextItem'
+08:53:14 ERRS_0 37000 SQ074 Line 19: SP030: SPARQL compiler, line 15: syntax error at '?channel' before 's:nextItem'
+08:53:14 ERRS_0 37000 SP030 SPARQL compiler, line 15: syntax error at '?channel' before 's:nextItem'
+08:53:14 ERRS_0 37000 SQ074 Line 19: SP030: SPARQL compiler, line 15: syntax error at '?channel' before 's:nextItem'
+08:53:14 ERRS_0 37000 SP030 SPARQL compiler, line 14: syntax error at '?channel' before 's:nextItem'
+08:54:09 ERRS_0 37000 SP030 SPARQL compiler, line 17: syntax error at ',' before '?type'
+08:54:09 ERRS_0 37000 SQ074 Line 19: SP030: SPARQL compiler, line 17: syntax error at ',' before '?type'
+08:54:09 ERRS_0 37000 SP030 SPARQL compiler, line 17: syntax error at ',' before '?type'
+08:54:09 ERRS_0 37000 SQ074 Line 19: SP030: SPARQL compiler, line 17: syntax error at ',' before '?type'
+08:54:09 ERRS_0 37000 SP030 SPARQL compiler, line 16: syntax error at ',' before '?type'
+08:54:26 ERRS_0 37000 SP030 SPARQL compiler, line 17: syntax error at '?type' before '?position'
+08:54:26 ERRS_0 37000 SQ074 Line 19: SP030: SPARQL compiler, line 17: syntax error at '?type' before '?position'
+08:54:26 ERRS_0 37000 SP030 SPARQL compiler, line 17: syntax error at '?type' before '?position'
+08:54:26 ERRS_0 37000 SQ074 Line 19: SP030: SPARQL compiler, line 17: syntax error at '?type' before '?position'
+08:54:26 ERRS_0 37000 SP030 SPARQL compiler, line 16: syntax error at '?type' before '?position'
+08:54:37 ERRS_0 37000 SP030 SPARQL compiler, line 17: syntax error at '{' before '?name'
+08:54:37 ERRS_0 37000 SQ074 Line 19: SP030: SPARQL compiler, line 17: syntax error at '{' before '?name'
+08:54:37 ERRS_0 37000 SP030 SPARQL compiler, line 17: syntax error at '{' before '?name'
+08:54:37 ERRS_0 37000 SQ074 Line 19: SP030: SPARQL compiler, line 17: syntax error at '{' before '?name'
+08:54:37 ERRS_0 37000 SP030 SPARQL compiler, line 16: syntax error at '{' before '?name'
+08:55:23 ERRS_0 37000 SP030 SPARQL compiler, line 17: syntax error at '?type' before '?position'
+08:55:23 ERRS_0 37000 SQ074 Line 19: SP030: SPARQL compiler, line 17: syntax error at '?type' before '?position'
+08:55:23 ERRS_0 37000 SP030 SPARQL compiler, line 17: syntax error at '?type' before '?position'
+08:55:23 ERRS_0 37000 SQ074 Line 19: SP030: SPARQL compiler, line 17: syntax error at '?type' before '?position'
+08:55:23 ERRS_0 37000 SP030 SPARQL compiler, line 16: syntax error at '?type' before '?position'
+08:57:12 ERRS_0 37000 SQ074 Line 17: End-of-line in a SPARQL short double-quoted string
+08:57:12 ERRS_0 37000 SQ074 Line 17: End-of-line in a SPARQL short double-quoted string
+08:57:12 ERRS_0 37000 SP030 SPARQL compiler, line 0: End-of-line in a short double-quoted string at '")
+'
+08:57:24 ERRS_0 37000 SP030 SPARQL compiler, line 17: syntax error at '(' before '?name'
+08:57:24 ERRS_0 37000 SQ074 Line 20: SP030: SPARQL compiler, line 17: syntax error at '(' before '?name'
+08:57:24 ERRS_0 37000 SP030 SPARQL compiler, line 17: syntax error at '(' before '?name'
+08:57:24 ERRS_0 37000 SQ074 Line 20: SP030: SPARQL compiler, line 17: syntax error at '(' before '?name'
+08:57:24 ERRS_0 37000 SP030 SPARQL compiler, line 16: syntax error at '(' before '?name'
+08:57:33 ERRS_0 37000 SP030 SPARQL compiler, line 17: syntax error at '(' before '?name'
+08:57:33 ERRS_0 37000 SQ074 Line 20: SP030: SPARQL compiler, line 17: syntax error at '(' before '?name'
+08:57:33 ERRS_0 37000 SP030 SPARQL compiler, line 17: syntax error at '(' before '?name'
+08:57:33 ERRS_0 37000 SQ074 Line 20: SP030: SPARQL compiler, line 17: syntax error at '(' before '?name'
+08:57:33 ERRS_0 37000 SP030 SPARQL compiler, line 16: syntax error at '(' before '?name'
+08:59:26 ERRS_0 37000 SP030 SPARQL compiler, line 17: syntax error at '?name' before '!='
+08:59:26 ERRS_0 37000 SQ074 Line 20: SP030: SPARQL compiler, line 17: syntax error at '?name' before '!='
+08:59:26 ERRS_0 37000 SP030 SPARQL compiler, line 17: syntax error at '?name' before '!='
+08:59:26 ERRS_0 37000 SQ074 Line 20: SP030: SPARQL compiler, line 17: syntax error at '?name' before '!='
+08:59:26 ERRS_0 37000 SP030 SPARQL compiler, line 16: syntax error at '?name' before '!='
+09:01:45 ERRS_0 37000 SP030 SPARQL compiler, line 18: syntax error at 'direction' before '='
+09:01:45 ERRS_0 37000 SQ074 Line 21: SP030: SPARQL compiler, line 18: syntax error at 'direction' before '='
+09:01:45 ERRS_0 37000 SP030 SPARQL compiler, line 18: syntax error at 'direction' before '='
+09:01:45 ERRS_0 37000 SQ074 Line 21: SP030: SPARQL compiler, line 18: syntax error at 'direction' before '='
+09:01:45 ERRS_0 37000 SP030 SPARQL compiler, line 17: syntax error at 'direction' before '='
+09:39:40 ERRS_0 37000 SP030 SPARQL compiler, line 9: syntax error at '?model' before ')'
+09:39:40 ERRS_0 37000 SQ074 Line 17: SP030: SPARQL compiler, line 9: syntax error at '?model' before ')'
+09:39:40 ERRS_0 37000 SP030 SPARQL compiler, line 9: syntax error at '?model' before ')'
+09:39:40 ERRS_0 37000 SQ074 Line 17: SP030: SPARQL compiler, line 9: syntax error at '?model' before ')'
+09:39:40 ERRS_0 37000 SP030 SPARQL compiler, line 8: syntax error at '?model' before ')'
+09:43:44 Checkpoint started
+09:43:44 Checkpoint finished, log reused
+09:46:52 ERRS_0 37000 SP030 SPARQL compiler, line 17: syntax error at '?channelinfo' before 's:itemListElement'
+09:46:52 ERRS_0 37000 SQ074 Line 21: SP030: SPARQL compiler, line 17: syntax error at '?channelinfo' before 's:itemListElement'
+09:46:52 ERRS_0 37000 SP030 SPARQL compiler, line 17: syntax error at '?channelinfo' before 's:itemListElement'
+09:46:52 ERRS_0 37000 SQ074 Line 21: SP030: SPARQL compiler, line 17: syntax error at '?channelinfo' before 's:itemListElement'
+09:46:52 ERRS_0 37000 SP030 SPARQL compiler, line 16: syntax error at '?channelinfo' before 's:itemListElement'
+09:48:59 ERRS_0 37000 SP030 SPARQL compiler, line 16: syntax error at '?channels' before 's:nextItem'
+09:48:59 ERRS_0 37000 SQ074 Line 21: SP030: SPARQL compiler, line 16: syntax error at '?channels' before 's:nextItem'
+09:48:59 ERRS_0 37000 SP030 SPARQL compiler, line 16: syntax error at '?channels' before 's:nextItem'
+09:48:59 ERRS_0 37000 SQ074 Line 21: SP030: SPARQL compiler, line 16: syntax error at '?channels' before 's:nextItem'
+09:48:59 ERRS_0 37000 SP030 SPARQL compiler, line 15: syntax error at '?channels' before 's:nextItem'
+10:43:45 Checkpoint started
+10:43:45 Checkpoint finished, log reused
+
+		Mon Aug 28 2023
+11:23:43 OpenLink Virtuoso Universal Server
+11:23:43 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+11:23:43 uses OpenSSL 1.0.2n  7 Dec 2017
+11:23:43 uses parts of PCRE, Html Tidy
+11:23:43 Database version 3126
+11:23:43 SQL Optimizer enabled (max 1000 layouts)
+11:23:44 Compiler unit is timed at 0.000094 msec
+11:23:45 Roll forward started
+11:23:45 Roll forward complete
+11:23:45 Checkpoint started
+11:23:45 Checkpoint finished, log reused
+11:23:45 HTTP/WebDAV server online at 8890
+11:23:45 Server online at 1111 (pid 1)
+
+		Mon Aug 28 2023
+12:02:18 OpenLink Virtuoso Universal Server
+12:02:18 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+12:02:18 uses OpenSSL 1.0.2n  7 Dec 2017
+12:02:18 uses parts of PCRE, Html Tidy
+12:02:18 Database version 3126
+12:02:18 SQL Optimizer enabled (max 1000 layouts)
+12:02:19 Compiler unit is timed at 0.000099 msec
+12:02:19 Roll forward started
+12:02:19 Roll forward complete
+12:02:19 Checkpoint started
+12:02:19 Checkpoint finished, log reused
+12:02:20 HTTP/WebDAV server online at 8890
+12:02:20 Server online at 1111 (pid 1)
+
+		Mon Aug 28 2023
+12:09:39 OpenLink Virtuoso Universal Server
+12:09:39 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+12:09:39 uses OpenSSL 1.0.2n  7 Dec 2017
+12:09:39 uses parts of PCRE, Html Tidy
+12:09:39 Database version 3126
+12:09:39 SQL Optimizer enabled (max 1000 layouts)
+12:09:40 Compiler unit is timed at 0.000099 msec
+12:09:41 Roll forward started
+12:09:41 Roll forward complete
+12:09:41 Checkpoint started
+12:09:41 Checkpoint finished, log reused
+12:09:41 HTTP/WebDAV server online at 8890
+12:09:41 Server online at 1111 (pid 1)
+
+		Mon Aug 28 2023
+12:11:52 OpenLink Virtuoso Universal Server
+12:11:52 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+12:11:52 uses OpenSSL 1.0.2n  7 Dec 2017
+12:11:52 uses parts of PCRE, Html Tidy
+12:11:52 Database version 3126
+12:11:52 SQL Optimizer enabled (max 1000 layouts)
+12:11:54 Compiler unit is timed at 0.000094 msec
+12:11:54 Roll forward started
+12:11:54 Roll forward complete
+12:11:54 Checkpoint started
+12:11:54 Checkpoint finished, log reused
+12:11:54 HTTP/WebDAV server online at 8890
+12:11:54 Server online at 1111 (pid 1)
+
+		Mon Aug 28 2023
+12:39:25 OpenLink Virtuoso Universal Server
+12:39:25 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+12:39:25 uses OpenSSL 1.0.2n  7 Dec 2017
+12:39:25 uses parts of PCRE, Html Tidy
+12:39:25 Database version 3126
+12:39:25 SQL Optimizer enabled (max 1000 layouts)
+12:39:26 Compiler unit is timed at 0.000096 msec
+12:39:26 Roll forward started
+12:39:26 Roll forward complete
+12:39:26 Checkpoint started
+12:39:26 Checkpoint finished, log reused
+12:39:28 HTTP/WebDAV server online at 8890
+12:39:28 Server online at 1111 (pid 1)
+
+		Mon Aug 28 2023
+12:39:55 OpenLink Virtuoso Universal Server
+12:39:55 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+12:39:55 uses OpenSSL 1.0.2n  7 Dec 2017
+12:39:55 uses parts of PCRE, Html Tidy
+12:39:55 Database version 3126
+12:39:55 SQL Optimizer enabled (max 1000 layouts)
+12:39:56 Compiler unit is timed at 0.000093 msec
+12:39:56 Roll forward started
+12:39:56 Roll forward complete
+12:39:57 Checkpoint started
+12:39:57 Checkpoint finished, log reused
+12:39:57 HTTP/WebDAV server online at 8890
+12:39:57 Server online at 1111 (pid 1)
+
+		Mon Aug 28 2023
+12:41:24 OpenLink Virtuoso Universal Server
+12:41:24 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+12:41:24 uses OpenSSL 1.0.2n  7 Dec 2017
+12:41:24 uses parts of PCRE, Html Tidy
+12:41:24 Database version 3126
+12:41:24 SQL Optimizer enabled (max 1000 layouts)
+12:41:25 Compiler unit is timed at 0.000101 msec
+12:41:25 Roll forward started
+12:41:25 Roll forward complete
+12:41:26 Checkpoint started
+12:41:26 Checkpoint finished, log reused
+12:41:26 HTTP/WebDAV server online at 8890
+12:41:26 Server online at 1111 (pid 1)
+
+		Mon Aug 28 2023
+12:50:44 OpenLink Virtuoso Universal Server
+12:50:44 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+12:50:44 uses OpenSSL 1.0.2n  7 Dec 2017
+12:50:44 uses parts of PCRE, Html Tidy
+12:50:44 Database version 3126
+12:50:44 SQL Optimizer enabled (max 1000 layouts)
+12:50:45 Compiler unit is timed at 0.000118 msec
+12:50:45 Roll forward started
+12:50:45 Roll forward complete
+12:50:46 Checkpoint started
+12:50:46 Checkpoint finished, log reused
+12:50:46 HTTP/WebDAV server online at 8890
+12:50:46 Server online at 1111 (pid 1)
+
+		Mon Aug 28 2023
+12:57:11 OpenLink Virtuoso Universal Server
+12:57:11 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+12:57:11 uses OpenSSL 1.0.2n  7 Dec 2017
+12:57:11 uses parts of PCRE, Html Tidy
+12:57:11 Database version 3126
+12:57:11 SQL Optimizer enabled (max 1000 layouts)
+12:57:12 Compiler unit is timed at 0.000093 msec
+12:57:12 Roll forward started
+12:57:12 Roll forward complete
+12:57:13 Checkpoint started
+12:57:13 Checkpoint finished, log reused
+12:57:13 HTTP/WebDAV server online at 8890
+12:57:13 Server online at 1111 (pid 1)
+
+		Mon Aug 28 2023
+12:59:32 OpenLink Virtuoso Universal Server
+12:59:32 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+12:59:32 uses OpenSSL 1.0.2n  7 Dec 2017
+12:59:32 uses parts of PCRE, Html Tidy
+12:59:32 Database version 3126
+12:59:32 SQL Optimizer enabled (max 1000 layouts)
+12:59:33 Compiler unit is timed at 0.000112 msec
+12:59:33 Roll forward started
+12:59:33 Roll forward complete
+12:59:33 Checkpoint started
+12:59:33 Checkpoint finished, log reused
+12:59:33 HTTP/WebDAV server online at 8890
+12:59:33 Server online at 1111 (pid 1)
+
+		Mon Aug 28 2023
+12:59:59 OpenLink Virtuoso Universal Server
+12:59:59 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+12:59:59 uses OpenSSL 1.0.2n  7 Dec 2017
+12:59:59 uses parts of PCRE, Html Tidy
+12:59:59 Database version 3126
+12:59:59 SQL Optimizer enabled (max 1000 layouts)
+13:00:00 Compiler unit is timed at 0.000097 msec
+13:00:01 Roll forward started
+13:00:01 Roll forward complete
+13:00:01 Checkpoint started
+13:00:01 Checkpoint finished, log reused
+13:00:01 HTTP/WebDAV server online at 8890
+13:00:01 Server online at 1111 (pid 1)
+
+		Mon Aug 28 2023
+13:01:52 OpenLink Virtuoso Universal Server
+13:01:52 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+13:01:52 uses OpenSSL 1.0.2n  7 Dec 2017
+13:01:52 uses parts of PCRE, Html Tidy
+13:01:52 Database version 3126
+13:01:52 SQL Optimizer enabled (max 1000 layouts)
+13:01:54 Compiler unit is timed at 0.000094 msec
+13:01:54 Roll forward started
+13:01:54 Roll forward complete
+13:01:54 Checkpoint started
+13:01:54 Checkpoint finished, log reused
+13:01:54 HTTP/WebDAV server online at 8890
+13:01:54 Server online at 1111 (pid 1)
+13:04:32 Server received signal 15
+13:04:32 Initiating quick shutdown
+13:04:32 Server shutdown complete
+
+		Mon Aug 28 2023
+13:06:06 OpenLink Virtuoso Universal Server
+13:06:06 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+13:06:06 uses OpenSSL 1.0.2n  7 Dec 2017
+13:06:06 uses parts of PCRE, Html Tidy
+13:06:06 Database version 3126
+13:06:06 SQL Optimizer enabled (max 1000 layouts)
+13:06:07 Compiler unit is timed at 0.000093 msec
+13:06:07 Roll forward started
+13:06:07 Roll forward complete
+13:06:08 Checkpoint started
+13:06:08 Checkpoint finished, log reused
+13:06:10 HTTP/WebDAV server online at 8890
+13:06:10 Server online at 1111 (pid 1)
+
+		Mon Aug 28 2023
+13:18:31 OpenLink Virtuoso Universal Server
+13:18:31 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+13:18:31 uses OpenSSL 1.0.2n  7 Dec 2017
+13:18:31 uses parts of PCRE, Html Tidy
+13:18:31 Database version 3126
+13:18:31 SQL Optimizer enabled (max 1000 layouts)
+13:18:32 Compiler unit is timed at 0.000120 msec
+13:18:33 Roll forward started
+13:18:33 Roll forward complete
+13:18:33 Checkpoint started
+13:18:33 Checkpoint finished, log reused
+13:18:33 HTTP/WebDAV server online at 8890
+13:18:33 Server online at 1111 (pid 1)
+
+		Mon Aug 28 2023
+13:21:34 OpenLink Virtuoso Universal Server
+13:21:34 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+13:21:34 uses OpenSSL 1.0.2n  7 Dec 2017
+13:21:34 uses parts of PCRE, Html Tidy
+13:21:34 Database version 3126
+13:21:34 SQL Optimizer enabled (max 1000 layouts)
+13:21:35 Compiler unit is timed at 0.000095 msec
+13:21:35 Roll forward started
+13:21:35 Roll forward complete
+13:21:36 Checkpoint started
+13:21:36 Checkpoint finished, log reused
+13:21:38 HTTP/WebDAV server online at 8890
+13:21:38 Server online at 1111 (pid 1)
+
+		Mon Aug 28 2023
+13:25:59 OpenLink Virtuoso Universal Server
+13:25:59 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+13:25:59 uses OpenSSL 1.0.2n  7 Dec 2017
+13:25:59 uses parts of PCRE, Html Tidy
+13:25:59 Database version 3126
+13:25:59 SQL Optimizer enabled (max 1000 layouts)
+13:26:00 Compiler unit is timed at 0.000119 msec
+13:26:01 Roll forward started
+13:26:01 Roll forward complete
+13:26:01 Checkpoint started
+13:26:01 Checkpoint finished, log reused
+13:26:01 HTTP/WebDAV server online at 8890
+13:26:01 Server online at 1111 (pid 1)

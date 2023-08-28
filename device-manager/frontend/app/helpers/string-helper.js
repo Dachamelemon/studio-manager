@@ -1,14 +1,14 @@
 import Ember from 'ember';
 
 export function StringHelper() {
-    let returnvalue = ''
-    function isNullOrEmpty(value){
-        if(value){
-            returnvalue = false;
-        }
-        returnvalue = true;
+  let returnvalue = '';
+  function isNullOrEmpty(value) {
+    if (value) {
+      returnvalue = false;
     }
-    return returnvalue;
+    returnvalue = true;
   }
-  
-  export default Ember.Helper.helper(StringHelper);
+  return returnvalue;
+}
+
+export default Ember.Helper.helper(StringHelper);

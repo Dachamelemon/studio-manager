@@ -5,7 +5,7 @@ services:
     image: semtech/mu-identifier:1.9.1
     environment:
       SESSION_COOKIE_SECURE: "on"
-      DEFAULT_MU_AUTH_ALLOWED_GROUPS_HEADER: "[{\"variables\":[],\"name\":\"public\"}]"
+      DEFAULT_MU_AUTH_ALLOWED_GROUPS_HEADER: '[{"variables":[],"name":"public"}]'
     links:
       - dispatcher:dispatcher
     ports:
@@ -32,10 +32,16 @@ services:
     volumes:
       - ./data/db:/data
       - ./config/virtuoso/virtuoso.ini:/data/virtuoso.ini
-  # devices:
-  #   image: device-service:v1
-  #   links:
-  #     - database:database
+  device-service:
+    build: 
+      context: ./device-service
+      dockerfile: Dockerfile
+    ports:
+      - 5000:5000
+    links:
+      - database:database
+    volumes:
+      - ./device-service:/app
   migrations:
       image: semtech/mu-migrations-service:0.8.0
       links:

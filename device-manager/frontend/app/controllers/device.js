@@ -14,8 +14,8 @@ export default class DeviceController extends Controller {
   @tracked allChannels = '';
   @tracked channelList = '';
   @tracked message = '';
-  @tracked success = 'successMessage'
-  @tracked error = 'errorMessage'
+  @tracked success = 'successMessage';
+  @tracked error = 'errorMessage';
   @tracked typeIsSelected = false;
   @tracked hasData = false;
 
@@ -32,7 +32,7 @@ export default class DeviceController extends Controller {
       this.allChannels = await this.store.findAll(ResourceModel.CHANNELTYPE);
     } catch (e) {
       this.message = 'Error fetching types:' + e;
-      this.showBlock(this.error)
+      this.showBlock(this.error);
     }
   }
 
@@ -44,8 +44,9 @@ export default class DeviceController extends Controller {
   @action
   async createDevice(event) {
     event.preventDefault();
-    if(!this.typeIsSelected){
-      this.message = 'There was no type selected. Please select a type for your device';
+    if (!this.typeIsSelected) {
+      this.message =
+        'There was no type selected. Please select a type for your device';
       this.showBlock('typeMissingError');
       return;
     }
@@ -61,7 +62,8 @@ export default class DeviceController extends Controller {
 
     try {
       await device.save();
-      this.message = 'Your device ' + device.model + 'has successfully been created';
+      this.message =
+        'Your device ' + device.model + 'has successfully been created';
       this.showBlock(this.success);
     } catch (e) {
       this.message = 'Something went wrong while creating your device: ' + e;
@@ -108,20 +110,20 @@ export default class DeviceController extends Controller {
   }
 
   @action
- async addChannel() {
-  let channel = '';
-  
+  async addChannel() {
+    let channel = '';
+
     for (let i = 0; i < this.channelCount; i++) {
-      try{
+      try {
         channel = await this.store.createRecord(ResourceModel.CHANNEL, {
-          channelposition: i + 1, 
+          channelposition: i + 1,
         });
         channel.channel = this.selectedChannel;
         await channel.save();
         this.channelList = [...this.channelList, channel];
-      }catch(e){
-        this.message = "something went wrong while creating this channel " + e;
-        this.showBlock(this.error)
+      } catch (e) {
+        this.message = 'something went wrong while creating this channel ' + e;
+        this.showBlock(this.error);
       }
     }
     this.selectedChannel = '';
@@ -147,15 +149,15 @@ export default class DeviceController extends Controller {
   }
 
   @action
-  hideBlock(blockId){
+  hideBlock(blockId) {
     console.log(blockId);
     let block = document.getElementById(blockId);
-    block.style.display = "none"; 
+    block.style.display = 'none';
   }
 
   @action
-  showBlock(blockId){
+  showBlock(blockId) {
     let block = document.getElementById(blockId);
-    block.style.display = "block"; 
+    block.style.display = 'block';
   }
 }

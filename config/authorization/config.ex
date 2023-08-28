@@ -24,6 +24,8 @@ defmodule Acl.UserGroups.Config do
                       resource_types: [
                         "https://schema.org/Product",
                         "https://schema.org/Thing",
+                        "https://schema.org/ItemList",
+                        "https://schema.org/ListItem",
                       ]
                     } } ] },
 

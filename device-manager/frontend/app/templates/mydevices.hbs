@@ -7,7 +7,7 @@
   </tr>
   {{#each this.mydevices as |device|}}
     <tr>
-      <td><a href="/deviceinfo?s={{device.id}}">{{device.brand}} {{device.model}}</a></td>
+      <td><a href="/deviceinfo/{{device.id}}">{{device.brand}} {{device.model}}</a></td>
       <td>{{device.deviceType.type}}</td>
       <td>{{device.channels.length}}</td>
     </tr>

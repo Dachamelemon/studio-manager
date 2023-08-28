@@ -16,18 +16,23 @@ export default class MyDeviceController extends Controller {
   async init() {
     super.init();
     try {
-     this.mydevices = await this.store.findAll(ResourceModel.DEVICE, { include: 'device-type,channels' });
+      this.mydevices = await this.store.findAll(ResourceModel.DEVICE, {
+        include: 'device-type,channels',
+      });
     } catch (e) {
       console.log(e);
     }
   }
 
   @action
-  async getLinkedChannelCount(channels){
+  async getLinkedChannelCount(channels) {
     let tests = 'yes';
-    channels.forEach(channel => async function(){
-      let links = await this.store.findRecord(element.id);
-    });
+    channels.forEach(
+      (channel) =>
+        async function () {
+          let links = await this.store.findRecord(element.id);
+        }
+    );
     return tests;
   }
 }

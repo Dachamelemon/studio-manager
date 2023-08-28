@@ -13,5 +13,6 @@ Router.map(function () {
   this.route('channel-type');
   this.route('channel');
   this.route('mydevices');
-  this.route('deviceinfo');
+  this.route('deviceinfo',{ path: '/deviceinfo/:device_id' });
+  this.route('connect-device', { path: '/connect-device/:channel_id' });
 });

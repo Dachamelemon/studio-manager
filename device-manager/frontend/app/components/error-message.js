@@ -1,5 +1,3 @@
 import Component from '@glimmer/component';
 
-export default class ErrorMessageComponent extends Component {
-    
-}
+export default class ErrorMessageComponent extends Component {}

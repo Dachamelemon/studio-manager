@@ -6,14 +6,14 @@ import { inject as service } from '@ember/service';
 import { ResourceModel } from '../helpers/resource-models';
 
 export default class ChannelSelectComponent extends Component {
-    @tracked allChannels = '';
-    async init() {
-        super.init();
-        try {
-          this.allChannels = await this.store.findAll(ResourceModel.CHANNELTYPE);
-        } catch (e) {
-          this.message = 'Error fetching types:' + e;
-          this.showBlock('errorMessage')
-        }
-      }
+  @tracked allChannels = '';
+  async init() {
+    super.init();
+    try {
+      this.allChannels = await this.store.findAll(ResourceModel.CHANNELTYPE);
+    } catch (e) {
+      this.message = 'Error fetching types:' + e;
+      this.showBlock('errorMessage');
+    }
+  }
 }

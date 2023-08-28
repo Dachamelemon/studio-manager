@@ -1,5 +1,5 @@
 {{page-title "mydevice"}}
-<h2 class="titleh2"> {{this.deviceName}}</h2>
+<h2 class="titleh2"> {{@model.deviceName}}</h2>
 <h3 class="table-title">Channels:</h3>
 <table class="devicechannels">
   <tr>
@@ -8,15 +8,15 @@
     <th>MONO/STEREO</th>
     <th>Connected to</th>
   </tr>
-  {{#each this.mydevice.channels as |channel|}}
+  {{#each @model.channels as |channel|}}
     <tr>
       <td>{{channel.channelposition}}</td>
       <td>{{channel.channel.audiotype}} - {{channel.channel.channeldirection}}</td>
       <td>{{channel.channel.channeltype}}</td>
       {{#if channel.connectedDevice.length}}
-        <td>{{channel.connectedDevice}}</td>
+        <td><LinkTo @route="deviceinfo" @query={{hash id=channel.connectedDevice.id}}>{{channel.connectedDevice.brand}} {{channel.connectedDevice.model}}</LinkTo></td>
       {{else}}
-            <td><LinkTo @route="mydevices" @query={{hash id=""}}>not connected</LinkTo></td>
+        <td><LinkTo @route="connect-device" @model="{{channel.id}}">not connected</LinkTo></td>
       {{/if}}
     </tr>
   {{/each}}
