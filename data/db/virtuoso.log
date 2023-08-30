@@ -4334,3 +4334,305 @@
 13:26:01 Checkpoint finished, log reused
 13:26:01 HTTP/WebDAV server online at 8890
 13:26:01 Server online at 1111 (pid 1)
+13:34:39 Server received signal 15
+13:34:39 Initiating quick shutdown
+13:34:39 Server shutdown complete
+
+		Mon Aug 28 2023
+14:23:48 OpenLink Virtuoso Universal Server
+14:23:48 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+14:23:48 uses OpenSSL 1.0.2n  7 Dec 2017
+14:23:48 uses parts of PCRE, Html Tidy
+14:23:48 Database version 3126
+14:23:48 SQL Optimizer enabled (max 1000 layouts)
+14:23:49 Compiler unit is timed at 0.000107 msec
+14:23:50 Roll forward started
+14:23:50 Roll forward complete
+14:23:50 Checkpoint started
+14:23:50 Checkpoint finished, log reused
+14:23:52 HTTP/WebDAV server online at 8890
+14:23:52 Server online at 1111 (pid 1)
+
+		Mon Aug 28 2023
+14:56:07 OpenLink Virtuoso Universal Server
+14:56:07 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+14:56:07 uses OpenSSL 1.0.2n  7 Dec 2017
+14:56:07 uses parts of PCRE, Html Tidy
+14:56:07 Database version 3126
+14:56:07 SQL Optimizer enabled (max 1000 layouts)
+14:56:08 Compiler unit is timed at 0.000093 msec
+14:56:08 Roll forward started
+14:56:08 Roll forward complete
+14:56:09 Checkpoint started
+14:56:09 Checkpoint finished, log reused
+14:56:09 HTTP/WebDAV server online at 8890
+14:56:09 Server online at 1111 (pid 1)
+
+		Mon Aug 28 2023
+14:57:03 OpenLink Virtuoso Universal Server
+14:57:03 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+14:57:03 uses OpenSSL 1.0.2n  7 Dec 2017
+14:57:03 uses parts of PCRE, Html Tidy
+14:57:03 Database version 3126
+14:57:03 SQL Optimizer enabled (max 1000 layouts)
+14:57:05 Compiler unit is timed at 0.000097 msec
+14:57:05 Roll forward started
+14:57:05 Roll forward complete
+14:57:05 Checkpoint started
+14:57:05 Checkpoint finished, log reused
+14:57:05 HTTP/WebDAV server online at 8890
+14:57:05 Server online at 1111 (pid 1)
+14:57:36 Server received signal 15
+14:57:36 Initiating quick shutdown
+14:57:36 Server shutdown complete
+
+		Mon Aug 28 2023
+15:01:27 OpenLink Virtuoso Universal Server
+15:01:27 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+15:01:27 uses OpenSSL 1.0.2n  7 Dec 2017
+15:01:27 uses parts of PCRE, Html Tidy
+15:01:27 Database version 3126
+15:01:27 SQL Optimizer enabled (max 1000 layouts)
+15:01:28 Compiler unit is timed at 0.000093 msec
+15:01:28 Roll forward started
+15:01:28 Roll forward complete
+15:01:29 Checkpoint started
+15:01:29 Checkpoint finished, log reused
+15:01:29 HTTP/WebDAV server online at 8890
+15:01:29 Server online at 1111 (pid 1)
+15:01:48 Server received signal 15
+15:01:48 Initiating quick shutdown
+15:01:48 Server shutdown complete
+
+		Mon Aug 28 2023
+15:02:49 OpenLink Virtuoso Universal Server
+15:02:49 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+15:02:49 uses OpenSSL 1.0.2n  7 Dec 2017
+15:02:49 uses parts of PCRE, Html Tidy
+15:02:49 Database version 3126
+15:02:49 SQL Optimizer enabled (max 1000 layouts)
+15:02:50 Compiler unit is timed at 0.000099 msec
+15:02:50 Roll forward started
+15:02:50 Roll forward complete
+15:02:51 Checkpoint started
+15:02:51 Checkpoint finished, log reused
+15:02:51 HTTP/WebDAV server online at 8890
+15:02:51 Server online at 1111 (pid 1)
+15:03:22 Server received signal 15
+15:03:22 Initiating quick shutdown
+15:03:22 Server shutdown complete
+
+		Mon Aug 28 2023
+15:08:28 OpenLink Virtuoso Universal Server
+15:08:28 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+15:08:28 uses OpenSSL 1.0.2n  7 Dec 2017
+15:08:28 uses parts of PCRE, Html Tidy
+15:08:28 Database version 3126
+15:08:28 SQL Optimizer enabled (max 1000 layouts)
+15:08:29 Compiler unit is timed at 0.000099 msec
+15:08:29 Roll forward started
+15:08:29 Roll forward complete
+15:08:30 Checkpoint started
+15:08:30 Checkpoint finished, log reused
+15:08:30 HTTP/WebDAV server online at 8890
+15:08:30 Server online at 1111 (pid 1)
+
+		Tue Aug 29 2023
+07:01:49 Checkpoint started
+07:01:49 Checkpoint finished, log reused
+08:01:51 Checkpoint started
+08:01:51 Checkpoint finished, log reused
+09:01:52 Checkpoint started
+09:01:52 Checkpoint finished, log reused
+10:01:53 Checkpoint started
+10:01:53 Checkpoint finished, log reused
+
+		Tue Aug 29 2023
+10:19:53 OpenLink Virtuoso Universal Server
+10:19:53 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+10:19:53 uses OpenSSL 1.0.2n  7 Dec 2017
+10:19:53 uses parts of PCRE, Html Tidy
+10:19:53 Database version 3126
+10:19:53 SQL Optimizer enabled (max 1000 layouts)
+10:19:54 Compiler unit is timed at 0.000094 msec
+10:19:55 Roll forward started
+10:19:55 Roll forward complete
+10:19:55 Checkpoint started
+10:19:55 Checkpoint finished, log reused
+10:19:55 HTTP/WebDAV server online at 8890
+10:19:55 Server online at 1111 (pid 1)
+11:19:56 Checkpoint started
+11:19:56 Checkpoint finished, log reused
+
+		Tue Aug 29 2023
+11:22:15 OpenLink Virtuoso Universal Server
+11:22:15 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+11:22:15 uses OpenSSL 1.0.2n  7 Dec 2017
+11:22:15 uses parts of PCRE, Html Tidy
+11:22:15 Database version 3126
+11:22:15 SQL Optimizer enabled (max 1000 layouts)
+11:22:16 Compiler unit is timed at 0.000092 msec
+11:22:17 Roll forward started
+11:22:17 Roll forward complete
+11:22:17 Checkpoint started
+11:22:17 Checkpoint finished, log reused
+11:22:19 HTTP/WebDAV server online at 8890
+11:22:19 Server online at 1111 (pid 1)
+
+		Tue Aug 29 2023
+11:26:34 OpenLink Virtuoso Universal Server
+11:26:34 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+11:26:34 uses OpenSSL 1.0.2n  7 Dec 2017
+11:26:34 uses parts of PCRE, Html Tidy
+11:26:34 Database version 3126
+11:26:34 SQL Optimizer enabled (max 1000 layouts)
+11:26:35 Compiler unit is timed at 0.000098 msec
+11:26:36 Roll forward started
+11:26:36 Roll forward complete
+11:26:36 Checkpoint started
+11:26:36 Checkpoint finished, log reused
+11:26:36 HTTP/WebDAV server online at 8890
+11:26:36 Server online at 1111 (pid 1)
+
+		Tue Aug 29 2023
+11:29:17 OpenLink Virtuoso Universal Server
+11:29:17 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+11:29:17 uses OpenSSL 1.0.2n  7 Dec 2017
+11:29:17 uses parts of PCRE, Html Tidy
+11:29:17 Database version 3126
+11:29:17 SQL Optimizer enabled (max 1000 layouts)
+11:29:18 Compiler unit is timed at 0.000101 msec
+11:29:18 Roll forward started
+11:29:18 Roll forward complete
+11:29:19 Checkpoint started
+11:29:19 Checkpoint finished, log reused
+11:29:19 HTTP/WebDAV server online at 8890
+11:29:19 Server online at 1111 (pid 1)
+
+		Tue Aug 29 2023
+11:30:03 OpenLink Virtuoso Universal Server
+11:30:03 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+11:30:03 uses OpenSSL 1.0.2n  7 Dec 2017
+11:30:03 uses parts of PCRE, Html Tidy
+11:30:03 Database version 3126
+11:30:03 SQL Optimizer enabled (max 1000 layouts)
+11:30:04 Compiler unit is timed at 0.000095 msec
+11:30:05 Roll forward started
+11:30:05 Roll forward complete
+11:30:05 Checkpoint started
+11:30:05 Checkpoint finished, log reused
+11:30:05 HTTP/WebDAV server online at 8890
+11:30:05 Server online at 1111 (pid 1)
+
+		Tue Aug 29 2023
+12:16:05 OpenLink Virtuoso Universal Server
+12:16:05 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+12:16:05 uses OpenSSL 1.0.2n  7 Dec 2017
+12:16:05 uses parts of PCRE, Html Tidy
+12:16:05 Database version 3126
+12:16:05 SQL Optimizer enabled (max 1000 layouts)
+12:16:06 Compiler unit is timed at 0.000091 msec
+12:16:07 Roll forward started
+12:16:07 Roll forward complete
+12:16:07 Checkpoint started
+12:16:07 Checkpoint finished, log reused
+12:16:07 HTTP/WebDAV server online at 8890
+12:16:07 Server online at 1111 (pid 1)
+
+		Tue Aug 29 2023
+12:16:38 OpenLink Virtuoso Universal Server
+12:16:38 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+12:16:38 uses OpenSSL 1.0.2n  7 Dec 2017
+12:16:38 uses parts of PCRE, Html Tidy
+12:16:38 Database version 3126
+12:16:38 SQL Optimizer enabled (max 1000 layouts)
+12:16:39 Compiler unit is timed at 0.000097 msec
+12:16:39 Roll forward started
+12:16:39 Roll forward complete
+12:16:40 Checkpoint started
+12:16:40 Checkpoint finished, log reused
+12:16:40 HTTP/WebDAV server online at 8890
+12:16:40 Server online at 1111 (pid 1)
+
+		Tue Aug 29 2023
+12:21:29 OpenLink Virtuoso Universal Server
+12:21:29 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+12:21:29 uses OpenSSL 1.0.2n  7 Dec 2017
+12:21:29 uses parts of PCRE, Html Tidy
+12:21:29 Database version 3126
+12:21:29 SQL Optimizer enabled (max 1000 layouts)
+12:21:30 Compiler unit is timed at 0.000098 msec
+12:21:30 Roll forward started
+12:21:30 Roll forward complete
+12:21:30 Checkpoint started
+12:21:30 Checkpoint finished, log reused
+12:21:32 HTTP/WebDAV server online at 8890
+12:21:32 Server online at 1111 (pid 1)
+
+		Tue Aug 29 2023
+12:24:27 OpenLink Virtuoso Universal Server
+12:24:27 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+12:24:27 uses OpenSSL 1.0.2n  7 Dec 2017
+12:24:27 uses parts of PCRE, Html Tidy
+12:24:27 Database version 3126
+12:24:27 SQL Optimizer enabled (max 1000 layouts)
+12:24:28 Compiler unit is timed at 0.000097 msec
+12:24:28 Roll forward started
+12:24:28 Roll forward complete
+12:24:28 Checkpoint started
+12:24:28 Checkpoint finished, log reused
+12:24:29 HTTP/WebDAV server online at 8890
+12:24:29 Server online at 1111 (pid 1)
+
+		Tue Aug 29 2023
+12:27:27 OpenLink Virtuoso Universal Server
+12:27:27 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+12:27:27 uses OpenSSL 1.0.2n  7 Dec 2017
+12:27:27 uses parts of PCRE, Html Tidy
+12:27:27 Database version 3126
+12:27:27 SQL Optimizer enabled (max 1000 layouts)
+12:27:28 Compiler unit is timed at 0.000093 msec
+12:27:29 Roll forward started
+12:27:29 Roll forward complete
+12:27:29 Checkpoint started
+12:27:29 Checkpoint finished, log reused
+12:27:29 HTTP/WebDAV server online at 8890
+12:27:29 Server online at 1111 (pid 1)
+13:27:30 Checkpoint started
+13:27:30 Checkpoint finished, log reused
+14:27:31 Checkpoint started
+14:27:31 Checkpoint finished, log reused
+
+		Wed Aug 30 2023
+07:01:49 Checkpoint started
+07:01:49 Checkpoint finished, log reused
+
+		Wed Aug 30 2023
+07:51:06 OpenLink Virtuoso Universal Server
+07:51:06 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+07:51:06 uses OpenSSL 1.0.2n  7 Dec 2017
+07:51:06 uses parts of PCRE, Html Tidy
+07:51:06 Database version 3126
+07:51:06 SQL Optimizer enabled (max 1000 layouts)
+07:51:07 Compiler unit is timed at 0.000104 msec
+07:51:08 Roll forward started
+07:51:08 Roll forward complete
+07:51:08 Checkpoint started
+07:51:08 Checkpoint finished, log reused
+07:51:10 HTTP/WebDAV server online at 8890
+07:51:10 Server online at 1111 (pid 1)
+
+		Wed Aug 30 2023
+08:18:31 OpenLink Virtuoso Universal Server
+08:18:31 Version 07.20.3233-pthreads for Linux as of Nov 24 2021
+08:18:31 uses OpenSSL 1.0.2n  7 Dec 2017
+08:18:31 uses parts of PCRE, Html Tidy
+08:18:31 Database version 3126
+08:18:31 SQL Optimizer enabled (max 1000 layouts)
+08:18:32 Compiler unit is timed at 0.000100 msec
+08:18:33 Roll forward started
+08:18:33 Roll forward complete
+08:18:33 Checkpoint started
+08:18:33 Checkpoint finished, log reused
+08:18:33 HTTP/WebDAV server online at 8890
+08:18:33 Server online at 1111 (pid 1)

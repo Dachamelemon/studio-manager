@@ -7,6 +7,8 @@ export default class DeviceinfoRoute extends Route {
   queryParams = { s: { refreshModel: false } };
   @service store
   async model(param) {
+    let channels = [];
+
     let device = await this.store.findRecord(
       ResourceModel.DEVICE,
       param.device_id,
@@ -14,9 +16,6 @@ export default class DeviceinfoRoute extends Route {
 
     const deviceName = device.model + ' ' + device.brand;
     
-    let key = Object.values(device.channels);
-    console.log(Object.values(key));
-
     return {
       deviceModel: device,
       deviceName: deviceName,

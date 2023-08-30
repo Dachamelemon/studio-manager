@@ -7,7 +7,7 @@ import { sort } from '@ember/object/computed'
 
 export default class DeviceinfoController extends Controller{
   @tracked deviceName = '';
-  @tracked mydevice;
+  @tracked sortedchannels;
 
 
   @service store;
@@ -20,8 +20,10 @@ export default class DeviceinfoController extends Controller{
     super.init();
     try {
       
+
     } catch (e) {
       console.log(e);
     }
   }
+  
 }

@@ -32,16 +32,6 @@ services:
     volumes:
       - ./data/db:/data
       - ./config/virtuoso/virtuoso.ini:/data/virtuoso.ini
-  device-service:
-    build: 
-      context: ./device-service
-      dockerfile: Dockerfile
-    ports:
-      - 5000:5000
-    links:
-      - database:database
-    volumes:
-      - ./device-service:/app
   migrations:
       image: semtech/mu-migrations-service:0.8.0
       links:
@@ -62,4 +52,17 @@ services:
       - "4200:4200"
     volumes:
       - ./device-manager/frontend:/usr/src/app
+  device-service:
+    build: 
+      context: ./device-service
+      dockerfile: Dockerfile
+    environment:
+      FLASK_DEBUG: 1
+      LOG_LEVEL: "debug"
+      MU_SPARQL_ENDPOINT: "http://triplestore:8890/sparql"
+      MU_APPLICATION_GRAPH: "http://mu.semte.ch/application"
+    volumes:
+      - ./device-service/api:/app/api
+    ports:
+      - 5000:5000
           

@@ -30,9 +30,9 @@ defmodule Dispatcher do
   match "/channels/*path", @json do 
     Proxy.forward conn, path, "http://resource/channels/"
   end  
-  # match "/brands/*path" do 
-  #   Proxy.forward conn, path, "http://resource/brands/"
-  # end  
+  match "/device/*path" do 
+    Proxy.forward conn, path, "http://device-service/device/"
+  end  
 
   match "/*_", %{ last_call: true } do
     send_resp( conn, 404, "Route not found.  See config/dispatcher.ex" )

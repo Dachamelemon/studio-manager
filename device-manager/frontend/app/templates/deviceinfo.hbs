@@ -8,7 +8,7 @@
     <th>MONO/STEREO</th>
     <th>Connected to</th>
   </tr>
-  {{#each @model.channels as |channel|}}
+  {{#each this.sortedchannels as |channel|}}
     <tr>
       <td>{{channel.channelposition}}</td>
       <td>{{channel.channel.audiotype}} - {{channel.channel.channeldirection}}</td>
